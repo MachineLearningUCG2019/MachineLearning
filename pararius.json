@@ -1,1 +1,2980 @@
-[{"Neighbourhood": "Binnenstad ", "Postal code": "9712 HV", "Street": "Grote Markt", "Available from": "Immediately", "Offered since": "> 3 months", "markets": {"Albert Heijn": 412.0, "ALDI-Markt": 139.0, "Jumbo": 388.0}, "long": 6.56761947, "lat": 53.2193014, "rent": 1150.0, "area": 83.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 HV", "Street": "Grote Markt", "Available from": "Immediately", "Offered since": "> 3 months", "markets": {"Albert Heijn": 415.0, "ALDI-Markt": 142.0, "Jumbo": 387.0}, "long": 6.56766353, "lat": 53.21930785, "rent": 1150.0, "area": 100.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 AC", "Street": "Hoge der A", "Available from": "Immediately", "Offered since": "> 3 months", "markets": {"Albert Heijn": 246.0, "ALDI-Markt": 433.0, "EkoPlaza": 535.0}, "long": 6.55981515, "lat": 53.2174605, "rent": 2600.0, "area": 45.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 BR", "Street": "Westerbinnensingel", "Available from": "Immediately", "Offered since": "> 3 months", "markets": {"Albert Heijn": 349.0, "ALDI-Markt": 549.0, "EkoPlaza": 619.0}, "long": 6.55810749, "lat": 53.2171756, "rent": 950.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9725 AJ", "Street": "Hereweg", "Available from": "Immediately", "Offered since": "> 3 months", "markets": {"Plus": 411.0, "Coop": 585.0, "ALDI-Markt": 803.0, "Albert Heijn": 912.0}, "long": 6.57348738, "lat": 53.20720901, "rent": 1100.0, "area": 65.0, "bedrooms": 1}, {"Neighbourhood": "Noorddijk ", "Postal code": "9732 CL", "Street": "Sloep", "Available from": "Immediately", "Offered since": "> 3 months", "markets": {"ALDI-Markt": 2.0, "Coop": 325.0, "Albert Heijn": 975.0}, "long": 6.62801358, "lat": 53.23743465, "rent": 775.0, "area": 80.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 KM", "Street": "Pelsterstraat", "Available from": "Immediately", "Offered since": "03-09-2019", "markets": {"EkoPlaza": 143.0, "Albert Heijn": 283.0, "Jumbo": 243.0}, "long": 6.56734992, "lat": 53.21597311, "rent": 950.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 EH", "Street": "Oude Kijk in 't Jatstraat", "Available from": "Immediately", "Offered since": "04-09-2019", "markets": {"ALDI-Markt": 234.0, "Albert Heijn": 345.0}, "long": 6.56209102, "lat": 53.21890182, "rent": 995.0, "area": 50.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 CH", "Street": "Van Iddekingeweg", "Available from": "Immediately", "Offered since": "09-09-2019", "markets": {"Albert Heijn": 787.0, "Poiesz": 745.0, "Lidl": 811.0}, "long": 6.57873799, "lat": 53.1986575, "rent": 1250.0, "area": 92.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 KM", "Street": "Pelsterstraat", "Available from": "Immediately", "Offered since": "09-09-2019", "markets": {"EkoPlaza": 145.0, "Albert Heijn": 282.0, "Jumbo": 244.0}, "long": 6.56733822, "lat": 53.21598934, "rent": 900.0, "area": 44.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9722 CP", "Street": "Groenendaal", "Available from": "01-12-2019", "Offered since": "09-09-2019", "markets": {"Poiesz": 571.0, "Jumbo": 634.0, "Albert Heijn": 731.0, "Coop": 1.0}, "long": 6.58754111, "lat": 53.2020451, "rent": 1500.0, "area": 137.0, "bedrooms": 5}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 LH", "Street": "Boterdiep", "Available from": "Immediately", "Offered since": "11-09-2019", "markets": {"Buurtsuper": 39.0, "EkoPlaza": 106.0, "Albert Heijn": 178.0, "Jumbo": 372.0}, "long": 6.565135, "lat": 53.223915, "rent": 1095.0, "area": 65.0, "bedrooms": 2}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 WJ", "Street": "Henk Cornelisstraat", "Available from": "Immediately", "Offered since": "11-09-2019", "markets": {"Lidl": 300.0, "Jumbo": 692.0, "Albert Heijn": 852.0, "Amazing Orie": 1.0}, "long": 6.57960877, "lat": 53.2282861, "rent": 1950.0, "area": 215.0, "bedrooms": 6}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 EL", "Street": "Damsterdiep", "Available from": "Immediately", "Offered since": "13-09-2019", "markets": {"Jumbo": 715.0, "Albert Heijn": 896.0}, "long": 6.5803635, "lat": 53.21946712, "rent": 1150.0, "area": 90.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 KL", "Street": "Pelsterstraat", "Available from": "19-11-2019", "Offered since": "13-09-2019", "markets": {"Albert Heijn": 206.0, "EkoPlaza": 247.0, "ALDI-Markt": 261.0, "Jumbo": 314.0}, "long": 6.56630625, "lat": 53.2170095, "rent": 1135.0, "area": 65.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9722 WG", "Street": "Ludemaborg", "Available from": "Immediately", "Offered since": "17-09-2019", "markets": {"Poiesz": 438.0, "Albert Heijn": 1.0, "Jumbo": 1.0, "ALDI-Markt": 1.0}, "long": 6.59612569, "lat": 53.19699884, "rent": 1795.0, "area": 150.0, "bedrooms": 3}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 HV", "Street": "Grote Markt", "Available from": "Immediately", "Offered since": "19-09-2019", "markets": {"Albert Heijn": 409.0, "ALDI-Markt": 137.0, "Jumbo": 386.0}, "long": 6.56758783, "lat": 53.21927567, "rent": 1320.0, "area": 100.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "19-09-2019", "markets": {"Jumbo": 596.0, "Lidl": 750.0, "Spar": 773.0, "Albert Heijn": 806.0}, "long": 6.53931557, "lat": 53.22181986, "rent": 825.0, "area": 44.0, "bedrooms": 1}, {"Neighbourhood": "Noorddijk ", "Postal code": "9734 CR", "Street": "De Waard", "Available from": "Immediately", "Offered since": "21-09-2019", "markets": {"Albert Heijn": 1.0, "Coop": 767.0, "ALDI-Markt": 798.0}, "long": 6.62273262, "lat": 53.23075146, "rent": 1250.0, "area": 110.0, "bedrooms": 3}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 CJ", "Street": "Westersingel", "Available from": "02-12-2019", "Offered since": "24-09-2019", "markets": {"Albert Heijn": 528.0, "Jumbo": 596.0, "ALDI-Markt": 622.0}, "long": 6.55623559, "lat": 53.21885562, "rent": 912.0, "area": 90.0, "bedrooms": 1}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 AJ", "Street": "Petrus Campersingel", "Available from": "Immediately", "Offered since": "26-09-2019", "markets": {"Jumbo": 838.0, "Lidl": 724.0, "Albert Heijn": 835.0}, "long": 6.57886775, "lat": 53.22226097, "rent": 1100.0, "area": 95.0, "bedrooms": 3}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9726 HH", "Street": "Van Brakelplein", "Available from": "Immediately", "Offered since": "29-09-2019", "markets": {"Coop": 414.0, "Spar": 554.0, "Albert Heijn": 734.0, "Jumbo": 776.0}, "long": 6.55106211, "lat": 53.21289056, "rent": 1100.0, "area": 85.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 BC", "Street": "Helper Westsingel", "Available from": "01-01-2020", "Offered since": "02-10-2019", "markets": {"Albert Heijn": 620.0, "Lidl": 646.0, "Jumbo": 1.0}, "long": 6.57438836, "lat": 53.19991241, "rent": 1200.0, "area": 97.0, "bedrooms": 2}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 EC", "Street": "Damsterdiep", "Available from": "01-12-2019", "Offered since": "02-10-2019", "markets": {"Jumbo": 609.0, "Albert Heijn": 702.0, "Coop": 784.0}, "long": 6.57943922, "lat": 53.2184041, "rent": 1150.0, "area": 65.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9726 BK", "Street": "Van Speykstraat", "Available from": "01-01-2020", "Offered since": "03-10-2019", "markets": {"Coop": 321.0, "Spar": 649.0, "Albert Heijn": 711.0, "Jumbo": 863.0}, "long": 6.55212279, "lat": 53.21229434, "rent": 1170.0, "area": 95.0, "bedrooms": 2}, {"Neighbourhood": "Noorddijk ", "Postal code": "9731 MK", "Street": "Kramerstraat", "Available from": "04-12-2019", "Offered since": "03-10-2019", "markets": {"Lidl": 818.0, "Albert Heijn": 1.0, "Plus": 905.0}, "long": 6.57896706, "lat": 53.24130217, "rent": 795.0, "area": 110.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 DA", "Street": "Suikerlaan", "Available from": "Immediately", "Offered since": "03-10-2019", "markets": {"Spar": 434.0, "Jumbo": 935.0, "Coop": 956.0, "Albert Heijn": 1.0}, "long": 6.542254, "lat": 53.211682, "rent": 518.0, "area": 27.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 EB", "Street": "Blekerstraat", "Available from": "Immediately", "Offered since": "03-10-2019", "markets": {"Albert Heijn": 470.0, "Coop": 634.0, "Jumbo": 661.0}, "long": 6.55622295, "lat": 53.21685601, "rent": 1950.0, "area": 150.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9725 JP", "Street": "Anna Paulownastraat", "Available from": "Immediately", "Offered since": "04-10-2019", "markets": {"Plus": 485.0, "Coop": 578.0, "ALDI-Markt": 858.0, "Albert Heijn": 963.0}, "long": 6.57446406, "lat": 53.20688323, "rent": 1190.0, "area": 130.0, "bedrooms": 2}, {"Neighbourhood": "Noorddijk ", "Postal code": "9737 PA", "Street": "Kremersheerd", "Available from": "Immediately", "Offered since": "04-10-2019", "markets": {"Lidl": 161.0, "Albert Heijn": 193.0, "ALDI-Markt": 977.0, "Plus": 1.0}, "long": 6.58689821, "lat": 53.24797527, "rent": 995.0, "area": 100.0, "bedrooms": 4}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 KS", "Street": "Vlasstraat", "Available from": "Immediately", "Offered since": "04-10-2019", "markets": {"Buurtsuper": 282.0, "Albert Heijn": 301.0, "EkoPlaza": 334.0, "ALDI-Markt": 399.0}, "long": 6.56801856, "lat": 53.22257273, "rent": 875.0, "area": 55.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 BM", "Street": "Lage der A", "Available from": "Immediately", "Offered since": "09-10-2019", "markets": {"Albert Heijn": 481.0, "ALDI-Markt": 566.0, "Jumbo": 651.0}, "long": 6.55707301, "lat": 53.218881, "rent": 1250.0, "area": 100.0, "bedrooms": 3}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 EV", "Street": "Heresingel", "Available from": "Immediately", "Offered since": "10-09-2019", "markets": {"Albert Heijn": 166.0, "Jumbo": 242.0, "EkoPlaza": 410.0, "Coop": 545.0}, "long": 6.57260056, "lat": 53.21449674, "rent": 940.0, "area": 52.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 LB", "Street": "Vondellaan", "Available from": "18-11-2019", "Offered since": "12-10-2019", "markets": {"Albert Heijn": 378.0, "Lidl": 398.0, "Jumbo": 560.0, "ALDI-Markt": 753.0}, "long": 6.56766244, "lat": 53.19936029, "rent": 995.0, "area": 76.0, "bedrooms": 2}, {"Neighbourhood": "Noorddijk ", "Postal code": "9737 HM", "Street": "Jaltadaheerd", "Available from": "Immediately", "Offered since": "12-10-2019", "markets": {"Albert Heijn": 721.0, "Lidl": 723.0, "ALDI-Markt": 812.0, "Plus": 2.0}, "long": 6.59129186, "lat": 53.25266793, "rent": 995.0, "area": 90.0, "bedrooms": 3}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 XB", "Street": "Noorderbinnensingel", "Available from": "20-12-2019", "Offered since": "15-10-2019", "markets": {"Jumbo": 221.0, "Albert Heijn": 223.0, "ALDI-Markt": 243.0, "EkoPlaza": 313.0}, "long": 6.55991407, "lat": 53.22570732, "rent": 1450.0, "area": 51.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9726 GG", "Street": "Van Heemskerckstraat", "Available from": "Immediately", "Offered since": "15-10-2019", "markets": {"Spar": 405.0, "Coop": 573.0, "Jumbo": 715.0, "Albert Heijn": 869.0}, "long": 6.54861021, "lat": 53.21312319, "rent": 975.0, "area": 60.0, "bedrooms": 2}, {"Province": "Groningen", "Postal code": "9716 AS", "Street": "Heinsiusstraat", "Available from": "01-12-2019", "Offered since": "17-10-2019", "markets": {"ALDI-Markt": 466.0, "Amazing Orie": 467.0, "Albert Heijn": 468.0, "Buurtsuper": 470.0}, "long": 6.55829722, "lat": 53.23027366, "rent": 715.0, "area": 28.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 LG", "Street": "Jan Steenstraat", "Available from": "Immediately", "Offered since": "17-10-2019", "markets": {"Spar": 216.0, "Jumbo": 348.0, "Coop": 876.0, "Albert Heijn": 924.0}, "long": 6.54676195, "lat": 53.21639985, "rent": 1500.0, "area": 122.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 BL", "Street": "Turftorenstraat", "Available from": "Immediately", "Offered since": "17-10-2019", "markets": {"Albert Heijn": 386.0, "ALDI-Markt": 269.0}, "long": 6.56184474, "lat": 53.21832131, "rent": 1150.0, "area": 45.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 LB", "Street": "Jan Lutmastraat", "Available from": "Immediately", "Offered since": "17-10-2019", "markets": {"Jumbo": 198.0, "Spar": 518.0, "Coop": 763.0, "Albert Heijn": 764.0}, "long": 6.5498218, "lat": 53.21849487, "rent": 1225.0, "area": 60.0, "bedrooms": 1}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 AD", "Street": "Petrus Campersingel", "Available from": "02-01-2020", "Offered since": "18-10-2019", "markets": {"Jumbo": 764.0, "Albert Heijn": 900.0}, "long": 6.58044722, "lat": 53.22023773, "rent": 895.0, "area": 62.0, "bedrooms": 1}, {"Neighbourhood": "Korrewegwijk ", "Postal code": "9715 CK", "Street": "Padangstraat", "Available from": "Immediately", "Offered since": "21-10-2019", "markets": {"Amazing Orie": 74.0, "ALDI-Markt": 178.0, "Jumbo": 200.0, "Albert Heijn": 437.0}, "long": 6.56357562, "lat": 53.22859026, "rent": 875.0, "area": 43.0, "bedrooms": 2}, {"Neighbourhood": "Oranjewijk ", "Postal code": "9742 NC", "Street": "Wegalaan", "Available from": "01-12-2019", "Offered since": "22-10-2019", "markets": {"Albert Heijn": 817.0, "Spar": 615.0, "Lidl": 765.0}, "long": 6.53973424, "lat": 53.22844929, "rent": 1295.0, "area": 106.0, "bedrooms": 3}, {"Neighbourhood": "Noorddijk ", "Postal code": "9737 XC", "Street": "Mudaheerd", "Available from": "Immediately", "Offered since": "22-10-2019", "markets": {"Lidl": 549.0, "Albert Heijn": 570.0, "ALDI-Markt": 1.0, "Plus": 2.0}, "long": 6.58671141, "lat": 53.25147934, "rent": 365.0, "area": 10.0, "bedrooms": 1}, {"Province": "Groningen", "Postal code": "9723 ZX", "Street": "Helperpark", "Available from": "Immediately", "Offered since": "22-10-2019", "markets": {"Jumbo": 414.0, "Poiesz": 717.0, "Albert Heijn": 1.0, "Coop": 1.0}, "long": 6.59147542, "lat": 53.20340267, "rent": 925.0, "area": 70.0, "bedrooms": 2}, {"Neighbourhood": "Korrewegwijk ", "Postal code": "9714 CB", "Street": "Petrus Driessenstraat", "Available from": "01-12-2019", "Offered since": "22-10-2019", "markets": {"Amazing Orie": 177.0, "ALDI-Markt": 276.0, "Jumbo": 293.0, "Buurtsuper": 420.0}, "long": 6.56679442, "lat": 53.2276392, "rent": 895.0, "area": 40.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 NV", "Street": "Oosterstraat", "Available from": "Immediately", "Offered since": "22-10-2019", "markets": {"Jumbo": 116.0, "Albert Heijn": 354.0, "EkoPlaza": 359.0}, "long": 6.56990012, "lat": 53.21728109, "rent": 1050.0, "area": 60.0, "bedrooms": 2}, {"Province": "Groningen", "Postal code": "9723 LE", "Street": "De Kaai", "Available from": "16-12-2019", "Offered since": "23-10-2019", "markets": {"Jumbo": 920.0, "Coop": 754.0, "Albert Heijn": 977.0}, "long": 6.58463558, "lat": 53.21718912, "rent": 895.0, "area": 45.0, "bedrooms": 1}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 HL", "Street": "Gerbrand Bakkerstraat", "Available from": "01-12-2019", "Offered since": "24-10-2019", "markets": {"Jumbo": 319.0, "Lidl": 549.0, "Albert Heijn": 868.0, "Buurtsuper": 911.0}, "long": 6.57826092, "lat": 53.22380992, "rent": 1199.0, "area": 102.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 PJ", "Street": "Nieuwe Boteringestraat", "Available from": "15-12-2019", "Offered since": "24-10-2019", "markets": {"Albert Heijn": 266.0, "EkoPlaza": 326.0, "Jumbo": 352.0, "ALDI-Markt": 375.0}, "long": 6.55880555, "lat": 53.22466974, "rent": 1495.0, "area": 60.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 GL", "Street": "Moddermanlaan", "Available from": "01-01-2020", "Offered since": "25-10-2019", "markets": {"Albert Heijn": 692.0, "Lidl": 706.0, "ALDI-Markt": 719.0}, "long": 6.57808051, "lat": 53.19500911, "rent": 1075.0, "area": 90.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 BR", "Street": "Westerbinnensingel", "Available from": "Immediately", "Offered since": "26-10-2019", "markets": {"Albert Heijn": 338.0, "ALDI-Markt": 557.0, "EkoPlaza": 599.0}, "long": 6.55821514, "lat": 53.21689225, "rent": 2150.0, "area": 137.0, "bedrooms": 3}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 HV", "Street": "Grote Markt", "Available from": "Immediately", "Offered since": "26-10-2019", "markets": {"Albert Heijn": 416.0, "ALDI-Markt": 141.0, "Jumbo": 388.0}, "long": 6.56765449, "lat": 53.21932411, "rent": 995.0, "area": 100.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 NJ", "Street": "Briljantstraat", "Available from": "Immediately", "Offered since": "10-09-2019", "markets": {"Jumbo": 507.0, "ALDI-Markt": 744.0, "Albert Heijn": 769.0, "Lidl": 800.0}, "long": 6.52412859, "lat": 53.23161469, "rent": 1095.0, "area": 120.0, "bedrooms": 4}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 HG", "Street": "H.W. Mesdagstraat", "Available from": "15-12-2019", "Offered since": "26-09-2019", "markets": {"Albert Heijn": 598.0, "Jumbo": 541.0, "Coop": 667.0}, "long": 6.55432435, "lat": 53.2170046, "rent": 1495.0, "area": 120.0, "bedrooms": 2}, {"Neighbourhood": "Korrewegwijk ", "Postal code": "9714 CP", "Street": "J.C. Kapteynlaan", "Available from": "Immediately", "Offered since": "29-10-2019", "markets": {"Amazing Orie": 363.0, "Lidl": 367.0, "Albert Heijn": 420.0, "ALDI-Markt": 468.0}, "long": 6.56965796, "lat": 53.2278749, "rent": 1195.0, "area": 55.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9722 ND", "Street": "Thorbeckelaan", "Available from": "Immediately", "Offered since": "29-10-2019", "markets": {"Poiesz": 129.0, "Albert Heijn": 745.0, "Jumbo": 1.0, "ALDI-Markt": 1.0}, "long": 6.5902844, "lat": 53.19598173, "rent": 1050.0, "area": 90.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9725 GM", "Street": "Lingestraat", "Available from": "01-02-2020", "Offered since": "30-10-2019", "markets": {"ALDI-Markt": 178.0, "Plus": 394.0, "Coop": 720.0, "Jumbo": 904.0}, "long": 6.56377837, "lat": 53.20635662, "rent": 1150.0, "area": 85.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9726 HH", "Street": "Van Brakelplein", "Available from": "Immediately", "Offered since": "30-10-2019", "markets": {"Coop": 418.0, "Spar": 550.0, "Albert Heijn": 740.0, "Jumbo": 777.0}, "long": 6.55097288, "lat": 53.21286722, "rent": 1200.0, "area": 85.0, "bedrooms": 2}, {"Neighbourhood": "Stadsparkwijk ", "Postal code": "9728 RV", "Street": "F.D. Rooseveltstraat", "Available from": "11-12-2019", "Offered since": "30-10-2019", "markets": {"Albert Heijn": 905.0, "ALDI-Markt": 832.0, "Lidl": 879.0}, "long": 6.55805231, "lat": 53.19033551, "rent": 1750.0, "area": 135.0, "bedrooms": 4}, {"Neighbourhood": "Oranjewijk ", "Postal code": "9717 GP", "Street": "Kolfstraat", "Available from": "02-12-2019", "Offered since": "31-10-2019", "markets": {"Coop": 138.0, "Jumbo": 620.0, "Albert Heijn": 679.0, "EkoPlaza": 726.0}, "long": 6.55267021, "lat": 53.22409393, "rent": 1195.0, "area": 60.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 LN", "Street": "Boterdiep", "Available from": "Immediately", "Offered since": "31-10-2019", "markets": {"Buurtsuper": 151.0, "EkoPlaza": 177.0, "Albert Heijn": 336.0}, "long": 6.56546403, "lat": 53.22282529, "rent": 1295.0, "area": 50.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 950.0, "area": 50.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 950.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 825.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 835.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 845.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 850.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 850.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 850.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 950.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 950.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 975.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 825.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 845.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 865.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 875.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 850.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 850.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 895.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 895.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 557.0, "Spar": 758.0, "Lidl": 787.0, "Albert Heijn": 845.0}, "long": 6.539981, "lat": 53.22184, "rent": 895.0, "area": 47.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 950.0, "area": 50.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 950.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 875.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 547.0, "Spar": 730.0, "Lidl": 799.0, "Albert Heijn": 856.0}, "long": 6.53991385, "lat": 53.22155286, "rent": 825.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "Immediately", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 835.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 845.0, "area": 49.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 825.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 825.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 AA", "Street": "Friesestraatweg", "Available from": "01-12-2019", "Offered since": "01-11-2019", "markets": {"Jumbo": 548.0, "Spar": 724.0, "Lidl": 799.0, "Albert Heijn": 855.0}, "long": 6.53983631, "lat": 53.22147688, "rent": 825.0, "area": 48.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 PC", "Street": "Tweede Spoorstraat", "Available from": "01-12-2019", "Offered since": "02-11-2019", "markets": {"Jumbo": 421.0, "Spar": 463.0, "Coop": 983.0, "Lidl": 1.0}, "long": 6.5410764, "lat": 53.21924389, "rent": 485.0, "area": 23.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 DK", "Street": "Steenhouwerskade", "Available from": "Immediately", "Offered since": "04-10-2019", "markets": {"Coop": 284.0, "Albert Heijn": 536.0, "EkoPlaza": 649.0}, "long": 6.55692898, "lat": 53.21370738, "rent": 942.0, "area": 82.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 XG", "Street": "Oostersingel", "Available from": "Immediately", "Offered since": "04-11-2019", "markets": {"Albert Heijn": 523.0, "Jumbo": 556.0, "ALDI-Markt": 633.0}, "long": 6.57463557, "lat": 53.22090702, "rent": 945.0, "area": 65.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 TE", "Street": "Nieuweweg", "Available from": "01-12-2019", "Offered since": "04-11-2019", "markets": {"Jumbo": 630.0, "Albert Heijn": 595.0}, "long": 6.57548376, "lat": 53.21835979, "rent": 790.0, "area": 25.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 AA", "Street": "Hereweg", "Available from": "01-12-2019", "Offered since": "05-11-2019", "markets": {"Plus": 730.0, "Albert Heijn": 750.0, "ALDI-Markt": 881.0, "Coop": 884.0}, "long": 6.57491001, "lat": 53.20377828, "rent": 1380.0, "area": 70.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 VX", "Street": "Turfsingel", "Available from": "01-12-2019", "Offered since": "05-11-2019", "markets": {"Albert Heijn": 574.0, "Jumbo": 431.0, "ALDI-Markt": 440.0}, "long": 6.5719243, "lat": 53.2202654, "rent": 845.0, "area": 35.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9722 AD", "Street": "Verlengde Hereweg", "Available from": "Immediately", "Offered since": "05-11-2019", "markets": {"Albert Heijn": 860.0, "Poiesz": 732.0, "Lidl": 885.0}, "long": 6.57934384, "lat": 53.19943922, "rent": 1395.0, "area": 75.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9722 AV", "Street": "Helper Oostsingel", "Available from": "01-12-2019", "Offered since": "05-11-2019", "markets": {"Albert Heijn": 959.0, "Poiesz": 770.0, "Lidl": 984.0}, "long": 6.57979489, "lat": 53.20072997, "rent": 835.0, "area": 52.0, "bedrooms": 1}, {"Neighbourhood": "Oranjewijk ", "Postal code": "9742 RG", "Street": "Grote Beerstraat", "Available from": "Immediately", "Offered since": "04-10-2019", "markets": {"Coop": 556.0, "Albert Heijn": 645.0, "Jumbo": 685.0, "Lidl": 930.0}, "long": 6.54354563, "lat": 53.2252264, "rent": 1190.0, "area": 112.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 BJ", "Street": "Helperveste", "Available from": "01-01-2020", "Offered since": "05-11-2019", "markets": {"Albert Heijn": 750.0, "Lidl": 776.0, "Poiesz": 946.0}, "long": 6.57646326, "lat": 53.20027456, "rent": 1250.0, "area": 90.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 DC", "Street": "Steenhouwerskade", "Available from": "Immediately", "Offered since": "22-10-2019", "markets": {"Albert Heijn": 449.0, "Coop": 343.0, "EkoPlaza": 566.0}, "long": 6.55807594, "lat": 53.21410266, "rent": 993.0, "area": 91.0, "bedrooms": 3}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 NK", "Street": "Nieuwe Ebbingestraat", "Available from": "01-12-2019", "Offered since": "06-11-2019", "markets": {"EkoPlaza": 149.0, "Buurtsuper": 157.0, "Albert Heijn": 350.0}, "long": 6.56438578, "lat": 53.22268112, "rent": 1355.0, "area": 82.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 DC", "Street": "Steenhouwerskade", "Available from": "Immediately", "Offered since": "06-11-2019", "markets": {"Albert Heijn": 450.0, "Coop": 341.0, "EkoPlaza": 567.0}, "long": 6.55807219, "lat": 53.21408697, "rent": 1140.0, "area": 123.0, "bedrooms": 3}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 BA", "Street": "Helper Westsingel", "Available from": "01-12-2019", "Offered since": "06-11-2019", "markets": {"Albert Heijn": 834.0, "Lidl": 860.0, "Poiesz": 866.0}, "long": 6.57786863, "lat": 53.20042442, "rent": 1250.0, "area": 60.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 CA", "Street": "Westersingel", "Available from": "01-12-2019", "Offered since": "06-11-2019", "markets": {"Albert Heijn": 393.0, "ALDI-Markt": 611.0, "Coop": 630.0}, "long": 6.55738668, "lat": 53.21680503, "rent": 425.0, "area": 12.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 RS", "Street": "Oosterkade", "Available from": "Immediately", "Offered since": "06-11-2019", "markets": {"Jumbo": 699.0, "Albert Heijn": 488.0, "Coop": 613.0}, "long": 6.57720632, "lat": 53.21677955, "rent": 1395.0, "area": 50.0, "bedrooms": 1}, {"Province": "Groningen", "Postal code": "9723 ZV", "Street": "Tonkensstraat", "Available from": "01-01-2020", "Offered since": "06-11-2019", "markets": {"Jumbo": 258.0, "Coop": 731.0, "Poiesz": 1.0, "Albert Heijn": 1.0}, "long": 6.58854481, "lat": 53.20828658, "rent": 795.0, "area": 39.0, "bedrooms": 1}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 CN", "Street": "Gorechtkade", "Available from": "01-12-2019", "Offered since": "06-11-2019", "markets": {"Lidl": 85.0, "Albert Heijn": 574.0, "Amazing Orie": 661.0, "Buurtsuper": 761.0}, "long": 6.57412796, "lat": 53.22787688, "rent": 1150.0, "area": 80.0, "bedrooms": 3}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 CJ", "Street": "Zwanestraat", "Available from": "01-12-2019", "Offered since": "06-11-2019", "markets": {"ALDI-Markt": 131.0, "Albert Heijn": 348.0}, "long": 6.56424997, "lat": 53.21840985, "rent": 1150.0, "area": 75.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9725 GM", "Street": "Lingestraat", "Available from": "Immediately", "Offered since": "07-11-2019", "markets": {"ALDI-Markt": 165.0, "Plus": 410.0, "Coop": 751.0, "Jumbo": 877.0}, "long": 6.56393758, "lat": 53.20606554, "rent": 1050.0, "area": 76.0, "bedrooms": 3}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 LG", "Street": "Herestraat", "Available from": "Immediately", "Offered since": "07-11-2019", "markets": {"EkoPlaza": 161.0, "Albert Heijn": 458.0, "Jumbo": 311.0}, "long": 6.568533, "lat": 53.214023, "rent": 1100.0, "area": 40.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 LN", "Street": "Boterdiep", "Available from": "Immediately", "Offered since": "07-11-2019", "markets": {"Buurtsuper": 151.0, "EkoPlaza": 177.0, "Albert Heijn": 336.0}, "long": 6.56546403, "lat": 53.22282529, "rent": 1295.0, "area": 50.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 XC", "Street": "Oostersingel", "Available from": "01-12-2019", "Offered since": "07-11-2019", "markets": {"Jumbo": 573.0, "Albert Heijn": 682.0}, "long": 6.57682048, "lat": 53.21830997, "rent": 995.0, "area": 80.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 GW", "Street": "Kwinkenplein", "Available from": "01-12-2019", "Offered since": "07-11-2019", "markets": {"Albert Heijn": 448.0, "ALDI-Markt": 135.0, "Jumbo": 454.0}, "long": 6.56730466, "lat": 53.2198921, "rent": 587.0, "area": 27.0, "bedrooms": 1}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 AH", "Street": "Petrus Campersingel", "Available from": "Immediately", "Offered since": "07-11-2019", "markets": {"Jumbo": 800.0, "Lidl": 781.0, "Albert Heijn": 827.0}, "long": 6.57898957, "lat": 53.22174935, "rent": 1200.0, "area": 65.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 GX", "Street": "Kwinkenplein", "Available from": "01-01-2020", "Offered since": "07-11-2019", "markets": {"Albert Heijn": 454.0, "ALDI-Markt": 143.0, "Jumbo": 450.0}, "long": 6.56744092, "lat": 53.21989574, "rent": 1870.0, "area": 90.0, "bedrooms": 2}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "15-02-2020", "Offered since": "08-11-2019", "markets": {"Lidl": 781.0, "Jumbo": 1.0, "Albert Heijn": 1.0}, "long": 6.58555894, "lat": 53.2315332, "rent": 1180.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "15-02-2020", "Offered since": "08-11-2019", "markets": {"Lidl": 780.0, "Jumbo": 1.0, "Albert Heijn": 1.0}, "long": 6.58550935, "lat": 53.23157241, "rent": 1180.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 SE", "Street": "Damsterkade", "Available from": "01-01-2020", "Offered since": "08-11-2019", "markets": {"Jumbo": 591.0, "Albert Heijn": 618.0, "Coop": 668.0}, "long": 6.57891076, "lat": 53.21736816, "rent": 1500.0, "area": 118.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 GJ", "Street": "De Ranitzstraat", "Available from": "01-12-2019", "Offered since": "08-11-2019", "markets": {"Albert Heijn": 755.0, "Poiesz": 715.0, "Lidl": 771.0}, "long": 6.5791271, "lat": 53.19562341, "rent": 1300.0, "area": 120.0, "bedrooms": 4}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 HX", "Street": "Hora Siccamasingel", "Available from": "01-12-2019", "Offered since": "08-11-2019", "markets": {"Albert Heijn": 581.0, "Lidl": 597.0, "ALDI-Markt": 704.0}, "long": 6.57651747, "lat": 53.19562435, "rent": 1200.0, "area": 70.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9721 SK", "Street": "Van Ketwich Verschuurlaan", "Available from": "15-12-2019", "Offered since": "08-11-2019", "markets": {"Lidl": 294.0, "Albert Heijn": 313.0, "ALDI-Markt": 347.0, "Jumbo": 843.0}, "long": 6.56797403, "lat": 53.19314531, "rent": 995.0, "area": 65.0, "bedrooms": 2}, {"Neighbourhood": "Hoogkerk ", "Postal code": "9746 CR", "Street": "Joeswerd", "Available from": "15-01-2020", "Offered since": "09-11-2019", "markets": {"Jumbo": 903.0, "Spar": 1.0, "ALDI-Markt": 2.0, "Albert Heijn": 2.0}, "long": 6.51573337, "lat": 53.24319497, "rent": 1250.0, "area": 95.0, "bedrooms": 3}, {"Neighbourhood": "Oosterpoortwijk ", "Postal code": "9724 EZ", "Street": "Meeuwerderweg", "Available from": "15-01-2020", "Offered since": "09-11-2019", "markets": {"Coop": 181.0, "Jumbo": 830.0, "Plus": 841.0, "Albert Heijn": 883.0}, "long": 6.58041756, "lat": 53.21001396, "rent": 1350.0, "area": 130.0, "bedrooms": 4}, {"Neighbourhood": "Oosterpoortwijk ", "Postal code": "9724 EZ", "Street": "Meeuwerderweg", "Available from": "15-01-2020", "Offered since": "09-11-2019", "markets": {"Coop": 177.0, "Jumbo": 834.0, "Plus": 839.0, "Albert Heijn": 879.0}, "long": 6.580387, "lat": 53.21004828, "rent": 1425.0, "area": 130.0, "bedrooms": 4}, {"Neighbourhood": "Oosterpoortwijk ", "Postal code": "9724 EZ", "Street": "Meeuwerderweg", "Available from": "15-01-2020", "Offered since": "09-11-2019", "markets": {"Coop": 186.0, "Jumbo": 827.0, "Plus": 842.0, "Albert Heijn": 888.0}, "long": 6.58044743, "lat": 53.20997444, "rent": 1350.0, "area": 130.0, "bedrooms": 4}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "15-02-2020", "Offered since": "09-11-2019", "markets": {"Lidl": 782.0, "Jumbo": 1.0, "Albert Heijn": 1.0}, "long": 6.58560708, "lat": 53.23149514, "rent": 1180.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "15-02-2020", "Offered since": "09-11-2019", "markets": {"Lidl": 779.0, "Jumbo": 1.0, "Albert Heijn": 1.0}, "long": 6.58546001, "lat": 53.23161152, "rent": 1180.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 DL", "Street": "Steenhouwerskade", "Available from": "Immediately", "Offered since": "27-09-2019", "markets": {"Coop": 277.0, "Albert Heijn": 535.0, "EkoPlaza": 643.0}, "long": 6.5570505, "lat": 53.21363771, "rent": 952.0, "area": 87.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 HB", "Street": "Oude Ebbingestraat", "Available from": "01-12-2019", "Offered since": "11-11-2019", "markets": {"Albert Heijn": 72.0, "ALDI-Markt": 147.0, "Buurtsuper": 416.0, "EkoPlaza": 426.0}, "long": 6.56646824, "lat": 53.22051286, "rent": 895.0, "area": 27.0, "bedrooms": 1}, {"Neighbourhood": "Korrewegwijk ", "Postal code": "9714 ET", "Street": "Oppenheimstraat", "Available from": "01-01-2020", "Offered since": "11-11-2019", "markets": {"Albert Heijn": 243.0, "Lidl": 358.0, "Amazing Orie": 451.0, "ALDI-Markt": 588.0}, "long": 6.57030448, "lat": 53.22980873, "rent": 887.0, "area": 26.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 JB", "Street": "Akerkhof", "Available from": "01-12-2019", "Offered since": "11-11-2019", "markets": {"Albert Heijn": 190.0, "EkoPlaza": 271.0, "ALDI-Markt": 353.0}, "long": 6.5634193, "lat": 53.21639855, "rent": 895.0, "area": 30.0, "bedrooms": 1}, {"Neighbourhood": "Oranjewijk ", "Postal code": "9741 ND", "Street": "Elzenlaan", "Available from": "Immediately", "Offered since": "11-11-2019", "markets": {"ALDI-Markt": 210.0, "Buurtsuper": 552.0, "Lidl": 553.0, "Albert Heijn": 555.0}, "long": 6.54729065, "lat": 53.23664695, "rent": 1250.0, "area": 90.0, "bedrooms": 4}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 CD", "Street": "Gorechtkade", "Available from": "01-12-2019", "Offered since": "11-11-2019", "markets": {"Jumbo": 257.0, "Lidl": 585.0, "Albert Heijn": 931.0, "Buurtsuper": 985.0}, "long": 6.57937013, "lat": 53.22377706, "rent": 1100.0, "area": 91.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9725 JS", "Street": "Anna Paulownastraat", "Available from": "Immediately", "Offered since": "12-11-2019", "markets": {"Coop": 474.0, "Plus": 620.0, "Albert Heijn": 982.0, "Jumbo": 1.0}, "long": 6.57687792, "lat": 53.207267, "rent": 1145.0, "area": 105.0, "bedrooms": 1}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "01-02-2020", "Offered since": "12-11-2019", "markets": {"Lidl": 801.0, "Albert Heijn": 1.0, "Jumbo": 1.0}, "long": 6.586322, "lat": 53.230932, "rent": 1225.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9743 NM", "Street": "Briljantstraat", "Available from": "01-01-2020", "Offered since": "12-11-2019", "markets": {"Jumbo": 558.0, "ALDI-Markt": 712.0, "Albert Heijn": 746.0, "Lidl": 785.0}, "long": 6.52286526, "lat": 53.23099676, "rent": 285.0, "area": 15.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 BB", "Street": "Akerkhof", "Available from": "01-01-2020", "Offered since": "12-11-2019", "markets": {"Albert Heijn": 179.0, "ALDI-Markt": 311.0, "EkoPlaza": 342.0}, "long": 6.56290785, "lat": 53.21699844, "rent": 357.0, "area": 25.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9725 BC", "Street": "Verlengde Oosterweg", "Available from": "01-12-2019", "Offered since": "12-11-2019", "markets": {"Coop": 382.0, "Plus": 654.0, "Albert Heijn": 936.0, "Jumbo": 954.0}, "long": 6.57766553, "lat": 53.20800417, "rent": 900.0, "area": 60.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9722 EE", "Street": "Helper Brink", "Available from": "01-01-2020", "Offered since": "12-11-2019", "markets": {"Albert Heijn": 940.0, "Poiesz": 624.0, "Lidl": 963.0}, "long": 6.58088284, "lat": 53.19913064, "rent": 365.0, "area": 18.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 EA", "Street": "Winschoterkade", "Available from": "01-12-2019", "Offered since": "12-11-2019", "markets": {"Jumbo": 243.0, "Albert Heijn": 305.0, "EkoPlaza": 565.0, "Coop": 620.0}, "long": 6.57456503, "lat": 53.2162972, "rent": 875.0, "area": 70.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 MV", "Street": "Van Goghstraat", "Available from": "Immediately", "Offered since": "15-10-2019", "markets": {"Jumbo": 149.0, "Spar": 386.0, "Coop": 834.0, "Albert Heijn": 1.0}, "long": 6.54546639, "lat": 53.21880439, "rent": 941.0, "area": 86.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 DL", "Street": "Steenhouwerskade", "Available from": "Immediately", "Offered since": "13-11-2019", "markets": {"Coop": 280.0, "Albert Heijn": 536.0, "EkoPlaza": 647.0}, "long": 6.55697817, "lat": 53.21367144, "rent": 932.0, "area": 82.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 SB", "Street": "Nieuwe Kijk in 't Jatstraat", "Available from": "01-12-2019", "Offered since": "13-11-2019", "markets": {"EkoPlaza": 345.0, "Albert Heijn": 395.0, "Buurtsuper": 407.0, "ALDI-Markt": 413.0}, "long": 6.56044485, "lat": 53.22142603, "rent": 995.0, "area": 35.0, "bedrooms": 1}, {"Neighbourhood": "Stadsparkwijk ", "Postal code": "9727 BK", "Street": "Paterswoldseweg", "Available from": "01-12-2019", "Offered since": "13-11-2019", "markets": {"Coop": 336.0, "ALDI-Markt": 433.0, "Plus": 674.0, "Albert Heijn": 899.0}, "long": 6.55792763, "lat": 53.20825017, "rent": 850.0, "area": 43.0, "bedrooms": 1}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9722 CZ", "Street": "Wagnersingel", "Available from": "Immediately", "Offered since": "13-11-2019", "markets": {"Albert Heijn": 537.0, "Poiesz": 692.0, "Jumbo": 824.0, "Coop": 1.0}, "long": 6.58309169, "lat": 53.20191807, "rent": 453.0, "area": 15.0, "bedrooms": 1}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 JP", "Street": "Kraneweg", "Available from": "01-12-2019", "Offered since": "13-11-2019", "markets": {"Albert Heijn": 617.0, "Jumbo": 492.0, "Spar": 744.0}, "long": 6.55426946, "lat": 53.21795479, "rent": 1300.0, "area": 65.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 LG", "Street": "Herestraat", "Available from": "Immediately", "Offered since": "13-11-2019", "markets": {"Albert Heijn": 432.0, "EkoPlaza": 151.0, "Jumbo": 254.0}, "long": 6.56871801, "lat": 53.21457013, "rent": 1050.0, "area": 60.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 PT", "Street": "Nieuwe Kerkhof", "Available from": "01-02-2020", "Offered since": "13-11-2019", "markets": {"EkoPlaza": 145.0, "Albert Heijn": 207.0, "Buurtsuper": 208.0, "ALDI-Markt": 449.0}, "long": 6.56228359, "lat": 53.22284712, "rent": 1295.0, "area": 60.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 JK", "Street": "Turfstraat", "Available from": "01-12-2019", "Offered since": "13-11-2019", "markets": {"Albert Heijn": 213.0, "ALDI-Markt": 332.0, "Buurtsuper": 480.0, "Jumbo": 514.0}, "long": 6.56964483, "lat": 53.22099194, "rent": 1250.0, "area": 100.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 DK", "Street": "Steenhouwerskade", "Available from": "Immediately", "Offered since": "03-09-2019", "markets": {"Coop": 284.0, "Albert Heijn": 541.0, "EkoPlaza": 655.0}, "long": 6.55683469, "lat": 53.2137066, "rent": 926.0, "area": 82.0, "bedrooms": 2}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9726 GG", "Street": "Van Heemskerckstraat", "Available from": "01-01-2020", "Offered since": "14-11-2019", "markets": {"Spar": 407.0, "Coop": 574.0, "Jumbo": 722.0, "Albert Heijn": 876.0}, "long": 6.54854493, "lat": 53.21305151, "rent": 825.0, "area": 49.0, "bedrooms": 2}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "15-02-2020", "Offered since": "14-11-2019", "markets": {"Lidl": 779.0, "Jumbo": 1.0, "Albert Heijn": 1.0}, "long": 6.58541545, "lat": 53.23165309, "rent": 1180.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "15-02-2020", "Offered since": "14-11-2019", "markets": {"Lidl": 778.0, "Jumbo": 1.0, "Albert Heijn": 1.0}, "long": 6.58536567, "lat": 53.23169323, "rent": 1180.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Oosterparkwijk ", "Postal code": "9713 BW", "Street": "Pelikaanstraat", "Available from": "15-02-2020", "Offered since": "14-11-2019", "markets": {"Lidl": 777.0, "Jumbo": 1.0, "Albert Heijn": 1.0}, "long": 6.58531588, "lat": 53.23173337, "rent": 1180.0, "area": 115.0, "bedrooms": 4}, {"Neighbourhood": "Oosterpoortwijk ", "Postal code": "9723 KA", "Street": "Lunettenhof", "Available from": "Immediately", "Offered since": "14-11-2019", "markets": {"Jumbo": 358.0, "Coop": 831.0, "Poiesz": 978.0, "Albert Heijn": 1.0}, "long": 6.58704717, "lat": 53.20572108, "rent": 865.0, "area": 52.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 KS", "Street": "Vismarkt", "Available from": "01-01-2020", "Offered since": "14-11-2019", "markets": {"ALDI-Markt": 210.0, "Albert Heijn": 277.0, "EkoPlaza": 299.0}, "long": 6.56631118, "lat": 53.21747527, "rent": 1250.0, "area": 88.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 CC", "Street": "Ubbo Emmiusstraat", "Available from": "01-12-2019", "Offered since": "14-11-2019", "markets": {"EkoPlaza": 151.0, "Albert Heijn": 406.0, "Jumbo": 462.0}, "long": 6.56610883, "lat": 53.21344364, "rent": 1100.0, "area": 55.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 LG", "Street": "Herestraat", "Available from": "01-01-2020", "Offered since": "14-11-2019", "markets": {"Albert Heijn": 472.0, "EkoPlaza": 179.0, "Jumbo": 291.0}, "long": 6.56890837, "lat": 53.21410422, "rent": 1150.0, "area": 85.0, "bedrooms": 2}, {"Neighbourhood": "Stadsparkwijk ", "Postal code": "9727 HR", "Street": "Kamerlingh Onnesstraat", "Available from": "01-12-2019", "Offered since": "14-11-2019", "markets": {"ALDI-Markt": 36.0, "Plus": 609.0, "Jumbo": 711.0, "Coop": 771.0}, "long": 6.56161321, "lat": 53.20493049, "rent": 895.0, "area": 75.0, "bedrooms": 2}, {"Neighbourhood": "Stadsparkwijk ", "Postal code": "9727 ED", "Street": "Illegaliteitslaan", "Available from": "Immediately", "Offered since": "03-10-2019", "markets": {"Coop": 376.0, "ALDI-Markt": 621.0, "Plus": 934.0, "Albert Heijn": 996.0}, "long": 6.55403273, "lat": 53.20813304, "rent": 1075.0, "area": 90.0, "bedrooms": 4}, {"Neighbourhood": "Schilders- en Zeeheldenwijk ", "Postal code": "9718 DM", "Street": "Steenhouwerskade", "Available from": "Immediately", "Offered since": "31-10-2019", "markets": {"Coop": 273.0, "Albert Heijn": 530.0, "EkoPlaza": 633.0}, "long": 6.55720846, "lat": 53.21358443, "rent": 864.0, "area": 69.0, "bedrooms": 2}, {"Neighbourhood": "Herewegwijk en Helpman ", "Postal code": "9725 JG", "Street": "Tweede Willemstraat", "Available from": "01-01-2020", "Offered since": "15-11-2019", "markets": {"Coop": 487.0, "Plus": 493.0, "Albert Heijn": 898.0, "ALDI-Markt": 918.0}, "long": 6.57506888, "lat": 53.20762023, "rent": 950.0, "area": 64.0, "bedrooms": 1}, {"Neighbourhood": "Oranjewijk ", "Postal code": "9742 SM", "Street": "Grote Beerstraat", "Available from": "01-02-2020", "Offered since": "15-11-2019", "markets": {"Coop": 483.0, "Jumbo": 640.0, "Albert Heijn": 660.0, "Lidl": 1.0}, "long": 6.54464886, "lat": 53.22502962, "rent": 995.0, "area": 70.0, "bedrooms": 1}, {"Neighbourhood": "Binnenstad ", "Postal code": "9711 KC", "Street": "Haddingestraat", "Available from": "16-12-2019", "Offered since": "15-11-2019", "markets": {"EkoPlaza": 89.0, "Albert Heijn": 301.0, "Jumbo": 349.0}, "long": 6.56590654, "lat": 53.21552106, "rent": 738.0, "area": 27.0, "bedrooms": 1}, {"Neighbourhood": "Stadsparkwijk ", "Postal code": "9727 JV", "Street": "Muntinglaan", "Available from": "01-01-2020", "Offered since": "15-11-2019", "markets": {"ALDI-Markt": 275.0, "Jumbo": 473.0, "Plus": 832.0, "Albert Heijn": 914.0}, "long": 6.5604556, "lat": 53.20287961, "rent": 1195.0, "area": 70.0, "bedrooms": 2}, {"Neighbourhood": "Binnenstad ", "Postal code": "9712 PS", "Street": "Nieuwe Boteringestraat", "Available from": "Immediately", "Offered since": "15-11-2019", "markets": {"Albert Heijn": 317.0, "Jumbo": 368.0, "EkoPlaza": 384.0, "ALDI-Markt": 390.0}, "long": 6.5580592, "lat": 53.22498119, "rent": 485.0, "area": 27.0, "bedrooms": 1}, {"Neighbourhood": "Korrewegwijk ", "Postal code": "9714 CC", "Street": "Petrus Driessenstraat", "Available from": "Immediately", "Offered since": "15-11-2019", "markets": {"Amazing Orie": 247.0, "ALDI-Markt": 364.0, "Albert Heijn": 377.0, "Jumbo": 383.0}, "long": 6.56791962, "lat": 53.22813897, "rent": 725.0, "area": 31.0, "bedrooms": 1}]
+[{
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 HV",
+  "Street": "Grote Markt",
+  "Available from": "Immediately",
+  "Offered since": "> 3 months",
+  "markets": {
+    "Albert Heijn": 412.0,
+    "ALDI-Markt": 139.0,
+    "Jumbo": 388.0
+  },
+  "long": 6.56761947,
+  "lat": 53.2193014,
+  "rent": 1150.0,
+  "area": 83.0,
+  "bedrooms": 1,
+  "from_center": 67.89066398199931
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 HV",
+  "Street": "Grote Markt",
+  "Available from": "Immediately",
+  "Offered since": "> 3 months",
+  "markets": {
+    "Albert Heijn": 415.0,
+    "ALDI-Markt": 142.0,
+    "Jumbo": 387.0
+  },
+  "long": 6.56766353,
+  "lat": 53.21930785,
+  "rent": 1150.0,
+  "area": 100.0,
+  "bedrooms": 1,
+  "from_center": 68.09011231754904
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 AC",
+  "Street": "Hoge der A",
+  "Available from": "Immediately",
+  "Offered since": "> 3 months",
+  "markets": {
+    "Albert Heijn": 246.0,
+    "ALDI-Markt": 433.0,
+    "EkoPlaza": 535.0
+  },
+  "long": 6.55981515,
+  "lat": 53.2174605,
+  "rent": 2600.0,
+  "area": 45.0,
+  "bedrooms": 1,
+  "from_center": 552.1078366397523
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 BR",
+  "Street": "Westerbinnensingel",
+  "Available from": "Immediately",
+  "Offered since": "> 3 months",
+  "markets": {
+    "Albert Heijn": 349.0,
+    "ALDI-Markt": 549.0,
+    "EkoPlaza": 619.0
+  },
+  "long": 6.55810749,
+  "lat": 53.2171756,
+  "rent": 950.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 670.4878303964227
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9725 AJ",
+  "Street": "Hereweg",
+  "Available from": "Immediately",
+  "Offered since": "> 3 months",
+  "markets": {
+    "Plus": 411.0,
+    "Coop": 585.0,
+    "ALDI-Markt": 803.0,
+    "Albert Heijn": 912.0
+  },
+  "long": 6.57348738,
+  "lat": 53.20720901,
+  "rent": 1100.0,
+  "area": 65.0,
+  "bedrooms": 1,
+  "from_center": 1334.0828477426837
+}, {
+  "Neighbourhood": "Noorddijk ",
+  "Postal code": "9732 CL",
+  "Street": "Sloep",
+  "Available from": "Immediately",
+  "Offered since": "> 3 months",
+  "markets": {
+    "ALDI-Markt": 2.0,
+    "Coop": 325.0,
+    "Albert Heijn": 975.0
+  },
+  "long": 6.62801358,
+  "lat": 53.23743465,
+  "rent": 775.0,
+  "area": 80.0,
+  "bedrooms": 2,
+  "from_center": 4528.467100136755
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 KM",
+  "Street": "Pelsterstraat",
+  "Available from": "Immediately",
+  "Offered since": "03-09-2019",
+  "markets": {
+    "EkoPlaza": 143.0,
+    "Albert Heijn": 283.0,
+    "Jumbo": 243.0
+  },
+  "long": 6.56734992,
+  "lat": 53.21597311,
+  "rent": 950.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 305.4083615316121
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 EH",
+  "Street": "Oude Kijk in 't Jatstraat",
+  "Available from": "Immediately",
+  "Offered since": "04-09-2019",
+  "markets": {
+    "ALDI-Markt": 234.0,
+    "Albert Heijn": 345.0
+  },
+  "long": 6.56209102,
+  "lat": 53.21890182,
+  "rent": 995.0,
+  "area": 50.0,
+  "bedrooms": 1,
+  "from_center": 383.11964586728936
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 CH",
+  "Street": "Van Iddekingeweg",
+  "Available from": "Immediately",
+  "Offered since": "09-09-2019",
+  "markets": {
+    "Albert Heijn": 787.0,
+    "Poiesz": 745.0,
+    "Lidl": 811.0
+  },
+  "long": 6.57873799,
+  "lat": 53.1986575,
+  "rent": 1250.0,
+  "area": 92.0,
+  "bedrooms": 2,
+  "from_center": 2347.164477272976
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 KM",
+  "Street": "Pelsterstraat",
+  "Available from": "Immediately",
+  "Offered since": "09-09-2019",
+  "markets": {
+    "EkoPlaza": 145.0,
+    "Albert Heijn": 282.0,
+    "Jumbo": 244.0
+  },
+  "long": 6.56733822,
+  "lat": 53.21598934,
+  "rent": 900.0,
+  "area": 44.0,
+  "bedrooms": 1,
+  "from_center": 303.6929371948015
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9722 CP",
+  "Street": "Groenendaal",
+  "Available from": "01-12-2019",
+  "Offered since": "09-09-2019",
+  "markets": {
+    "Poiesz": 571.0,
+    "Jumbo": 634.0,
+    "Albert Heijn": 731.0,
+    "Coop": 1.0
+  },
+  "long": 6.58754111,
+  "lat": 53.2020451,
+  "rent": 1500.0,
+  "area": 137.0,
+  "bedrooms": 5,
+  "from_center": 2274.4970792264994
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 LH",
+  "Street": "Boterdiep",
+  "Available from": "Immediately",
+  "Offered since": "11-09-2019",
+  "markets": {
+    "Buurtsuper": 39.0,
+    "EkoPlaza": 106.0,
+    "Albert Heijn": 178.0,
+    "Jumbo": 372.0
+  },
+  "long": 6.565135,
+  "lat": 53.223915,
+  "rent": 1095.0,
+  "area": 65.0,
+  "bedrooms": 2,
+  "from_center": 607.0783975897967
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 WJ",
+  "Street": "Henk Cornelisstraat",
+  "Available from": "Immediately",
+  "Offered since": "11-09-2019",
+  "markets": {
+    "Lidl": 300.0,
+    "Jumbo": 692.0,
+    "Albert Heijn": 852.0,
+    "Amazing Orie": 1.0
+  },
+  "long": 6.57960877,
+  "lat": 53.2282861,
+  "rent": 1950.0,
+  "area": 215.0,
+  "bedrooms": 6,
+  "from_center": 1325.7863287685489
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 EL",
+  "Street": "Damsterdiep",
+  "Available from": "Immediately",
+  "Offered since": "13-09-2019",
+  "markets": {
+    "Jumbo": 715.0,
+    "Albert Heijn": 896.0
+  },
+  "long": 6.5803635,
+  "lat": 53.21946712,
+  "rent": 1150.0,
+  "area": 90.0,
+  "bedrooms": 2,
+  "from_center": 842.3705830139437
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 KL",
+  "Street": "Pelsterstraat",
+  "Available from": "19-11-2019",
+  "Offered since": "13-09-2019",
+  "markets": {
+    "Albert Heijn": 206.0,
+    "EkoPlaza": 247.0,
+    "ALDI-Markt": 261.0,
+    "Jumbo": 314.0
+  },
+  "long": 6.56630625,
+  "lat": 53.2170095,
+  "rent": 1135.0,
+  "area": 65.0,
+  "bedrooms": 2,
+  "from_center": 213.78757397531635
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9722 WG",
+  "Street": "Ludemaborg",
+  "Available from": "Immediately",
+  "Offered since": "17-09-2019",
+  "markets": {
+    "Poiesz": 438.0,
+    "Albert Heijn": 1.0,
+    "Jumbo": 1.0,
+    "ALDI-Markt": 1.0
+  },
+  "long": 6.59612569,
+  "lat": 53.19699884,
+  "rent": 1795.0,
+  "area": 150.0,
+  "bedrooms": 3,
+  "from_center": 3067.888917300827
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 HV",
+  "Street": "Grote Markt",
+  "Available from": "Immediately",
+  "Offered since": "19-09-2019",
+  "markets": {
+    "Albert Heijn": 409.0,
+    "ALDI-Markt": 137.0,
+    "Jumbo": 386.0
+  },
+  "long": 6.56758783,
+  "lat": 53.21927567,
+  "rent": 1320.0,
+  "area": 100.0,
+  "bedrooms": 2,
+  "from_center": 65.54528136684748
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "19-09-2019",
+  "markets": {
+    "Jumbo": 596.0,
+    "Lidl": 750.0,
+    "Spar": 773.0,
+    "Albert Heijn": 806.0
+  },
+  "long": 6.53931557,
+  "lat": 53.22181986,
+  "rent": 825.0,
+  "area": 44.0,
+  "bedrooms": 1,
+  "from_center": 1935.0982032014656
+}, {
+  "Neighbourhood": "Noorddijk ",
+  "Postal code": "9734 CR",
+  "Street": "De Waard",
+  "Available from": "Immediately",
+  "Offered since": "21-09-2019",
+  "markets": {
+    "Albert Heijn": 1.0,
+    "Coop": 767.0,
+    "ALDI-Markt": 798.0
+  },
+  "long": 6.62273262,
+  "lat": 53.23075146,
+  "rent": 1250.0,
+  "area": 110.0,
+  "bedrooms": 3,
+  "from_center": 3905.1319348563784
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 CJ",
+  "Street": "Westersingel",
+  "Available from": "02-12-2019",
+  "Offered since": "24-09-2019",
+  "markets": {
+    "Albert Heijn": 528.0,
+    "Jumbo": 596.0,
+    "ALDI-Markt": 622.0
+  },
+  "long": 6.55623559,
+  "lat": 53.21885562,
+  "rent": 912.0,
+  "area": 90.0,
+  "bedrooms": 1,
+  "from_center": 773.7940799277234
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 AJ",
+  "Street": "Petrus Campersingel",
+  "Available from": "Immediately",
+  "Offered since": "26-09-2019",
+  "markets": {
+    "Jumbo": 838.0,
+    "Lidl": 724.0,
+    "Albert Heijn": 835.0
+  },
+  "long": 6.57886775,
+  "lat": 53.22226097,
+  "rent": 1100.0,
+  "area": 95.0,
+  "bedrooms": 3,
+  "from_center": 837.6329779012356
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9726 HH",
+  "Street": "Van Brakelplein",
+  "Available from": "Immediately",
+  "Offered since": "29-09-2019",
+  "markets": {
+    "Coop": 414.0,
+    "Spar": 554.0,
+    "Albert Heijn": 734.0,
+    "Jumbo": 776.0
+  },
+  "long": 6.55106211,
+  "lat": 53.21289056,
+  "rent": 1100.0,
+  "area": 85.0,
+  "bedrooms": 2,
+  "from_center": 1292.7420697811367
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 BC",
+  "Street": "Helper Westsingel",
+  "Available from": "01-01-2020",
+  "Offered since": "02-10-2019",
+  "markets": {
+    "Albert Heijn": 620.0,
+    "Lidl": 646.0,
+    "Jumbo": 1.0
+  },
+  "long": 6.57438836,
+  "lat": 53.19991241,
+  "rent": 1200.0,
+  "area": 97.0,
+  "bedrooms": 2,
+  "from_center": 2136.800241411163
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 EC",
+  "Street": "Damsterdiep",
+  "Available from": "01-12-2019",
+  "Offered since": "02-10-2019",
+  "markets": {
+    "Jumbo": 609.0,
+    "Albert Heijn": 702.0,
+    "Coop": 784.0
+  },
+  "long": 6.57943922,
+  "lat": 53.2184041,
+  "rent": 1150.0,
+  "area": 65.0,
+  "bedrooms": 1,
+  "from_center": 777.050063682451
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9726 BK",
+  "Street": "Van Speykstraat",
+  "Available from": "01-01-2020",
+  "Offered since": "03-10-2019",
+  "markets": {
+    "Coop": 321.0,
+    "Spar": 649.0,
+    "Albert Heijn": 711.0,
+    "Jumbo": 863.0
+  },
+  "long": 6.55212279,
+  "lat": 53.21229434,
+  "rent": 1170.0,
+  "area": 95.0,
+  "bedrooms": 2,
+  "from_center": 1268.0114206664043
+}, {
+  "Neighbourhood": "Noorddijk ",
+  "Postal code": "9731 MK",
+  "Street": "Kramerstraat",
+  "Available from": "04-12-2019",
+  "Offered since": "03-10-2019",
+  "markets": {
+    "Lidl": 818.0,
+    "Albert Heijn": 1.0,
+    "Plus": 905.0
+  },
+  "long": 6.57896706,
+  "lat": 53.24130217,
+  "rent": 795.0,
+  "area": 110.0,
+  "bedrooms": 2,
+  "from_center": 2622.981445054249
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 DA",
+  "Street": "Suikerlaan",
+  "Available from": "Immediately",
+  "Offered since": "03-10-2019",
+  "markets": {
+    "Spar": 434.0,
+    "Jumbo": 935.0,
+    "Coop": 956.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.542254,
+  "lat": 53.211682,
+  "rent": 518.0,
+  "area": 27.0,
+  "bedrooms": 1,
+  "from_center": 1877.9566803942148
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 EB",
+  "Street": "Blekerstraat",
+  "Available from": "Immediately",
+  "Offered since": "03-10-2019",
+  "markets": {
+    "Albert Heijn": 470.0,
+    "Coop": 634.0,
+    "Jumbo": 661.0
+  },
+  "long": 6.55622295,
+  "lat": 53.21685601,
+  "rent": 1950.0,
+  "area": 150.0,
+  "bedrooms": 1,
+  "from_center": 801.2836418325338
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9725 JP",
+  "Street": "Anna Paulownastraat",
+  "Available from": "Immediately",
+  "Offered since": "04-10-2019",
+  "markets": {
+    "Plus": 485.0,
+    "Coop": 578.0,
+    "ALDI-Markt": 858.0,
+    "Albert Heijn": 963.0
+  },
+  "long": 6.57446406,
+  "lat": 53.20688323,
+  "rent": 1190.0,
+  "area": 130.0,
+  "bedrooms": 2,
+  "from_center": 1388.3588870453877
+}, {
+  "Neighbourhood": "Noorddijk ",
+  "Postal code": "9737 PA",
+  "Street": "Kremersheerd",
+  "Available from": "Immediately",
+  "Offered since": "04-10-2019",
+  "markets": {
+    "Lidl": 161.0,
+    "Albert Heijn": 193.0,
+    "ALDI-Markt": 977.0,
+    "Plus": 1.0
+  },
+  "long": 6.58689821,
+  "lat": 53.24797527,
+  "rent": 995.0,
+  "area": 100.0,
+  "bedrooms": 4,
+  "from_center": 3498.034343310505
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 KS",
+  "Street": "Vlasstraat",
+  "Available from": "Immediately",
+  "Offered since": "04-10-2019",
+  "markets": {
+    "Buurtsuper": 282.0,
+    "Albert Heijn": 301.0,
+    "EkoPlaza": 334.0,
+    "ALDI-Markt": 399.0
+  },
+  "long": 6.56801856,
+  "lat": 53.22257273,
+  "rent": 875.0,
+  "area": 55.0,
+  "bedrooms": 2,
+  "from_center": 430.8742604495014
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 BM",
+  "Street": "Lage der A",
+  "Available from": "Immediately",
+  "Offered since": "09-10-2019",
+  "markets": {
+    "Albert Heijn": 481.0,
+    "ALDI-Markt": 566.0,
+    "Jumbo": 651.0
+  },
+  "long": 6.55707301,
+  "lat": 53.218881,
+  "rent": 1250.0,
+  "area": 100.0,
+  "bedrooms": 3,
+  "from_center": 717.9433315690139
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 EV",
+  "Street": "Heresingel",
+  "Available from": "Immediately",
+  "Offered since": "10-09-2019",
+  "markets": {
+    "Albert Heijn": 166.0,
+    "Jumbo": 242.0,
+    "EkoPlaza": 410.0,
+    "Coop": 545.0
+  },
+  "long": 6.57260056,
+  "lat": 53.21449674,
+  "rent": 940.0,
+  "area": 52.0,
+  "bedrooms": 1,
+  "from_center": 566.782120110512
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 LB",
+  "Street": "Vondellaan",
+  "Available from": "18-11-2019",
+  "Offered since": "12-10-2019",
+  "markets": {
+    "Albert Heijn": 378.0,
+    "Lidl": 398.0,
+    "Jumbo": 560.0,
+    "ALDI-Markt": 753.0
+  },
+  "long": 6.56766244,
+  "lat": 53.19936029,
+  "rent": 995.0,
+  "area": 76.0,
+  "bedrooms": 2,
+  "from_center": 2152.678861692145
+}, {
+  "Neighbourhood": "Noorddijk ",
+  "Postal code": "9737 HM",
+  "Street": "Jaltadaheerd",
+  "Available from": "Immediately",
+  "Offered since": "12-10-2019",
+  "markets": {
+    "Albert Heijn": 721.0,
+    "Lidl": 723.0,
+    "ALDI-Markt": 812.0,
+    "Plus": 2.0
+  },
+  "long": 6.59129186,
+  "lat": 53.25266793,
+  "rent": 995.0,
+  "area": 90.0,
+  "bedrooms": 3,
+  "from_center": 4092.0810452654796
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 XB",
+  "Street": "Noorderbinnensingel",
+  "Available from": "20-12-2019",
+  "Offered since": "15-10-2019",
+  "markets": {
+    "Jumbo": 221.0,
+    "Albert Heijn": 223.0,
+    "ALDI-Markt": 243.0,
+    "EkoPlaza": 313.0
+  },
+  "long": 6.55991407,
+  "lat": 53.22570732,
+  "rent": 1450.0,
+  "area": 51.0,
+  "bedrooms": 1,
+  "from_center": 941.4193971390285
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9726 GG",
+  "Street": "Van Heemskerckstraat",
+  "Available from": "Immediately",
+  "Offered since": "15-10-2019",
+  "markets": {
+    "Spar": 405.0,
+    "Coop": 573.0,
+    "Jumbo": 715.0,
+    "Albert Heijn": 869.0
+  },
+  "long": 6.54861021,
+  "lat": 53.21312319,
+  "rent": 975.0,
+  "area": 60.0,
+  "bedrooms": 2,
+  "from_center": 1425.4221740875068
+}, {
+  "Province": "Groningen",
+  "Postal code": "9716 AS",
+  "Street": "Heinsiusstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "17-10-2019",
+  "markets": {
+    "ALDI-Markt": 466.0,
+    "Amazing Orie": 467.0,
+    "Albert Heijn": 468.0,
+    "Buurtsuper": 470.0
+  },
+  "long": 6.55829722,
+  "lat": 53.23027366,
+  "rent": 715.0,
+  "area": 28.0,
+  "bedrooms": 1,
+  "from_center": 1436.1194821564188
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 LG",
+  "Street": "Jan Steenstraat",
+  "Available from": "Immediately",
+  "Offered since": "17-10-2019",
+  "markets": {
+    "Spar": 216.0,
+    "Jumbo": 348.0,
+    "Coop": 876.0,
+    "Albert Heijn": 924.0
+  },
+  "long": 6.54676195,
+  "lat": 53.21639985,
+  "rent": 1500.0,
+  "area": 122.0,
+  "bedrooms": 2,
+  "from_center": 1429.6274129897631
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 BL",
+  "Street": "Turftorenstraat",
+  "Available from": "Immediately",
+  "Offered since": "17-10-2019",
+  "markets": {
+    "Albert Heijn": 386.0,
+    "ALDI-Markt": 269.0
+  },
+  "long": 6.56184474,
+  "lat": 53.21832131,
+  "rent": 1150.0,
+  "area": 45.0,
+  "bedrooms": 1,
+  "from_center": 401.1888736460788
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 LB",
+  "Street": "Jan Lutmastraat",
+  "Available from": "Immediately",
+  "Offered since": "17-10-2019",
+  "markets": {
+    "Jumbo": 198.0,
+    "Spar": 518.0,
+    "Coop": 763.0,
+    "Albert Heijn": 764.0
+  },
+  "long": 6.5498218,
+  "lat": 53.21849487,
+  "rent": 1225.0,
+  "area": 60.0,
+  "bedrooms": 1,
+  "from_center": 1202.2600946383884
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 AD",
+  "Street": "Petrus Campersingel",
+  "Available from": "02-01-2020",
+  "Offered since": "18-10-2019",
+  "markets": {
+    "Jumbo": 764.0,
+    "Albert Heijn": 900.0
+  },
+  "long": 6.58044722,
+  "lat": 53.22023773,
+  "rent": 895.0,
+  "area": 62.0,
+  "bedrooms": 1,
+  "from_center": 860.7678260596239
+}, {
+  "Neighbourhood": "Korrewegwijk ",
+  "Postal code": "9715 CK",
+  "Street": "Padangstraat",
+  "Available from": "Immediately",
+  "Offered since": "21-10-2019",
+  "markets": {
+    "Amazing Orie": 74.0,
+    "ALDI-Markt": 178.0,
+    "Jumbo": 200.0,
+    "Albert Heijn": 437.0
+  },
+  "long": 6.56357562,
+  "lat": 53.22859026,
+  "rent": 875.0,
+  "area": 43.0,
+  "bedrooms": 2,
+  "from_center": 1136.2374326083911
+}, {
+  "Neighbourhood": "Oranjewijk ",
+  "Postal code": "9742 NC",
+  "Street": "Wegalaan",
+  "Available from": "01-12-2019",
+  "Offered since": "22-10-2019",
+  "markets": {
+    "Albert Heijn": 817.0,
+    "Spar": 615.0,
+    "Lidl": 765.0
+  },
+  "long": 6.53973424,
+  "lat": 53.22844929,
+  "rent": 1295.0,
+  "area": 106.0,
+  "bedrooms": 3,
+  "from_center": 2166.691119191677
+}, {
+  "Neighbourhood": "Noorddijk ",
+  "Postal code": "9737 XC",
+  "Street": "Mudaheerd",
+  "Available from": "Immediately",
+  "Offered since": "22-10-2019",
+  "markets": {
+    "Lidl": 549.0,
+    "Albert Heijn": 570.0,
+    "ALDI-Markt": 1.0,
+    "Plus": 2.0
+  },
+  "long": 6.58671141,
+  "lat": 53.25147934,
+  "rent": 365.0,
+  "area": 10.0,
+  "bedrooms": 1,
+  "from_center": 3859.7155583786603
+}, {
+  "Province": "Groningen",
+  "Postal code": "9723 ZX",
+  "Street": "Helperpark",
+  "Available from": "Immediately",
+  "Offered since": "22-10-2019",
+  "markets": {
+    "Jumbo": 414.0,
+    "Poiesz": 717.0,
+    "Albert Heijn": 1.0,
+    "Coop": 1.0
+  },
+  "long": 6.59147542,
+  "lat": 53.20340267,
+  "rent": 925.0,
+  "area": 70.0,
+  "bedrooms": 2,
+  "from_center": 2323.30821376021
+}, {
+  "Neighbourhood": "Korrewegwijk ",
+  "Postal code": "9714 CB",
+  "Street": "Petrus Driessenstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "22-10-2019",
+  "markets": {
+    "Amazing Orie": 177.0,
+    "ALDI-Markt": 276.0,
+    "Jumbo": 293.0,
+    "Buurtsuper": 420.0
+  },
+  "long": 6.56679442,
+  "lat": 53.2276392,
+  "rent": 895.0,
+  "area": 40.0,
+  "bedrooms": 1,
+  "from_center": 996.8563333828066
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 NV",
+  "Street": "Oosterstraat",
+  "Available from": "Immediately",
+  "Offered since": "22-10-2019",
+  "markets": {
+    "Jumbo": 116.0,
+    "Albert Heijn": 354.0,
+    "EkoPlaza": 359.0
+  },
+  "long": 6.56990012,
+  "lat": 53.21728109,
+  "rent": 1050.0,
+  "area": 60.0,
+  "bedrooms": 2,
+  "from_center": 210.72261627589643
+}, {
+  "Province": "Groningen",
+  "Postal code": "9723 LE",
+  "Street": "De Kaai",
+  "Available from": "16-12-2019",
+  "Offered since": "23-10-2019",
+  "markets": {
+    "Jumbo": 920.0,
+    "Coop": 754.0,
+    "Albert Heijn": 977.0
+  },
+  "long": 6.58463558,
+  "lat": 53.21718912,
+  "rent": 895.0,
+  "area": 45.0,
+  "bedrooms": 1,
+  "from_center": 1136.0214744992732
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 HL",
+  "Street": "Gerbrand Bakkerstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "24-10-2019",
+  "markets": {
+    "Jumbo": 319.0,
+    "Lidl": 549.0,
+    "Albert Heijn": 868.0,
+    "Buurtsuper": 911.0
+  },
+  "long": 6.57826092,
+  "lat": 53.22380992,
+  "rent": 1199.0,
+  "area": 102.0,
+  "bedrooms": 2,
+  "from_center": 899.8052810222904
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 PJ",
+  "Street": "Nieuwe Boteringestraat",
+  "Available from": "15-12-2019",
+  "Offered since": "24-10-2019",
+  "markets": {
+    "Albert Heijn": 266.0,
+    "EkoPlaza": 326.0,
+    "Jumbo": 352.0,
+    "ALDI-Markt": 375.0
+  },
+  "long": 6.55880555,
+  "lat": 53.22466974,
+  "rent": 1495.0,
+  "area": 60.0,
+  "bedrooms": 1,
+  "from_center": 896.2335724702388
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 GL",
+  "Street": "Moddermanlaan",
+  "Available from": "01-01-2020",
+  "Offered since": "25-10-2019",
+  "markets": {
+    "Albert Heijn": 692.0,
+    "Lidl": 706.0,
+    "ALDI-Markt": 719.0
+  },
+  "long": 6.57808051,
+  "lat": 53.19500911,
+  "rent": 1075.0,
+  "area": 90.0,
+  "bedrooms": 2,
+  "from_center": 2724.609970920894
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 BR",
+  "Street": "Westerbinnensingel",
+  "Available from": "Immediately",
+  "Offered since": "26-10-2019",
+  "markets": {
+    "Albert Heijn": 338.0,
+    "ALDI-Markt": 557.0,
+    "EkoPlaza": 599.0
+  },
+  "long": 6.55821514,
+  "lat": 53.21689225,
+  "rent": 2150.0,
+  "area": 137.0,
+  "bedrooms": 3,
+  "from_center": 672.3062196027317
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 HV",
+  "Street": "Grote Markt",
+  "Available from": "Immediately",
+  "Offered since": "26-10-2019",
+  "markets": {
+    "Albert Heijn": 416.0,
+    "ALDI-Markt": 141.0,
+    "Jumbo": 388.0
+  },
+  "long": 6.56765449,
+  "lat": 53.21932411,
+  "rent": 995.0,
+  "area": 100.0,
+  "bedrooms": 1,
+  "from_center": 69.97073212456063
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 NJ",
+  "Street": "Briljantstraat",
+  "Available from": "Immediately",
+  "Offered since": "10-09-2019",
+  "markets": {
+    "Jumbo": 507.0,
+    "ALDI-Markt": 744.0,
+    "Albert Heijn": 769.0,
+    "Lidl": 800.0
+  },
+  "long": 6.52412859,
+  "lat": 53.23161469,
+  "rent": 1095.0,
+  "area": 120.0,
+  "bedrooms": 4,
+  "from_center": 3252.474894592495
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 HG",
+  "Street": "H.W. Mesdagstraat",
+  "Available from": "15-12-2019",
+  "Offered since": "26-09-2019",
+  "markets": {
+    "Albert Heijn": 598.0,
+    "Jumbo": 541.0,
+    "Coop": 667.0
+  },
+  "long": 6.55432435,
+  "lat": 53.2170046,
+  "rent": 1495.0,
+  "area": 120.0,
+  "bedrooms": 2,
+  "from_center": 920.8993970968163
+}, {
+  "Neighbourhood": "Korrewegwijk ",
+  "Postal code": "9714 CP",
+  "Street": "J.C. Kapteynlaan",
+  "Available from": "Immediately",
+  "Offered since": "29-10-2019",
+  "markets": {
+    "Amazing Orie": 363.0,
+    "Lidl": 367.0,
+    "Albert Heijn": 420.0,
+    "ALDI-Markt": 468.0
+  },
+  "long": 6.56965796,
+  "lat": 53.2278749,
+  "rent": 1195.0,
+  "area": 55.0,
+  "bedrooms": 2,
+  "from_center": 1028.12412980962
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9722 ND",
+  "Street": "Thorbeckelaan",
+  "Available from": "Immediately",
+  "Offered since": "29-10-2019",
+  "markets": {
+    "Poiesz": 129.0,
+    "Albert Heijn": 745.0,
+    "Jumbo": 1.0,
+    "ALDI-Markt": 1.0
+  },
+  "long": 6.5902844,
+  "lat": 53.19598173,
+  "rent": 1050.0,
+  "area": 90.0,
+  "bedrooms": 2,
+  "from_center": 2940.676882471972
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9725 GM",
+  "Street": "Lingestraat",
+  "Available from": "01-02-2020",
+  "Offered since": "30-10-2019",
+  "markets": {
+    "ALDI-Markt": 178.0,
+    "Plus": 394.0,
+    "Coop": 720.0,
+    "Jumbo": 904.0
+  },
+  "long": 6.56377837,
+  "lat": 53.20635662,
+  "rent": 1150.0,
+  "area": 85.0,
+  "bedrooms": 2,
+  "from_center": 1400.2716482675503
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9726 HH",
+  "Street": "Van Brakelplein",
+  "Available from": "Immediately",
+  "Offered since": "30-10-2019",
+  "markets": {
+    "Coop": 418.0,
+    "Spar": 550.0,
+    "Albert Heijn": 740.0,
+    "Jumbo": 777.0
+  },
+  "long": 6.55097288,
+  "lat": 53.21286722,
+  "rent": 1200.0,
+  "area": 85.0,
+  "bedrooms": 2,
+  "from_center": 1299.2031284787645
+}, {
+  "Neighbourhood": "Stadsparkwijk ",
+  "Postal code": "9728 RV",
+  "Street": "F.D. Rooseveltstraat",
+  "Available from": "11-12-2019",
+  "Offered since": "30-10-2019",
+  "markets": {
+    "Albert Heijn": 905.0,
+    "ALDI-Markt": 832.0,
+    "Lidl": 879.0
+  },
+  "long": 6.55805231,
+  "lat": 53.19033551,
+  "rent": 1750.0,
+  "area": 135.0,
+  "bedrooms": 4,
+  "from_center": 3223.7405529825814
+}, {
+  "Neighbourhood": "Oranjewijk ",
+  "Postal code": "9717 GP",
+  "Street": "Kolfstraat",
+  "Available from": "02-12-2019",
+  "Offered since": "31-10-2019",
+  "markets": {
+    "Coop": 138.0,
+    "Jumbo": 620.0,
+    "Albert Heijn": 679.0,
+    "EkoPlaza": 726.0
+  },
+  "long": 6.55267021,
+  "lat": 53.22409393,
+  "rent": 1195.0,
+  "area": 60.0,
+  "bedrooms": 2,
+  "from_center": 1176.2208588600467
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 LN",
+  "Street": "Boterdiep",
+  "Available from": "Immediately",
+  "Offered since": "31-10-2019",
+  "markets": {
+    "Buurtsuper": 151.0,
+    "EkoPlaza": 177.0,
+    "Albert Heijn": 336.0
+  },
+  "long": 6.56546403,
+  "lat": 53.22282529,
+  "rent": 1295.0,
+  "area": 50.0,
+  "bedrooms": 1,
+  "from_center": 484.94536268762675
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 950.0,
+  "area": 50.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 950.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 825.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 835.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 845.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 850.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 850.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 850.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 950.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 950.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 975.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 825.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 845.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 865.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 875.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 850.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 850.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 895.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 895.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 557.0,
+    "Spar": 758.0,
+    "Lidl": 787.0,
+    "Albert Heijn": 845.0
+  },
+  "long": 6.539981,
+  "lat": 53.22184,
+  "rent": 895.0,
+  "area": 47.0,
+  "bedrooms": 1,
+  "from_center": 1891.799405096514
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 950.0,
+  "area": 50.0,
+  "bedrooms": 2,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 950.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 875.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 547.0,
+    "Spar": 730.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 856.0
+  },
+  "long": 6.53991385,
+  "lat": 53.22155286,
+  "rent": 825.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1890.5913844566398
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "Immediately",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 835.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 845.0,
+  "area": 49.0,
+  "bedrooms": 1,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 825.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 825.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 AA",
+  "Street": "Friesestraatweg",
+  "Available from": "01-12-2019",
+  "Offered since": "01-11-2019",
+  "markets": {
+    "Jumbo": 548.0,
+    "Spar": 724.0,
+    "Lidl": 799.0,
+    "Albert Heijn": 855.0
+  },
+  "long": 6.53983631,
+  "lat": 53.22147688,
+  "rent": 825.0,
+  "area": 48.0,
+  "bedrooms": 1,
+  "from_center": 1894.3027480439985
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 PC",
+  "Street": "Tweede Spoorstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "02-11-2019",
+  "markets": {
+    "Jumbo": 421.0,
+    "Spar": 463.0,
+    "Coop": 983.0,
+    "Lidl": 1.0
+  },
+  "long": 6.5410764,
+  "lat": 53.21924389,
+  "rent": 485.0,
+  "area": 23.0,
+  "bedrooms": 1,
+  "from_center": 1787.2074976874112
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 DK",
+  "Street": "Steenhouwerskade",
+  "Available from": "Immediately",
+  "Offered since": "04-10-2019",
+  "markets": {
+    "Coop": 284.0,
+    "Albert Heijn": 536.0,
+    "EkoPlaza": 649.0
+  },
+  "long": 6.55692898,
+  "lat": 53.21370738,
+  "rent": 942.0,
+  "area": 82.0,
+  "bedrooms": 2,
+  "from_center": 915.4845010451396
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 XG",
+  "Street": "Oostersingel",
+  "Available from": "Immediately",
+  "Offered since": "04-11-2019",
+  "markets": {
+    "Albert Heijn": 523.0,
+    "Jumbo": 556.0,
+    "ALDI-Markt": 633.0
+  },
+  "long": 6.57463557,
+  "lat": 53.22090702,
+  "rent": 945.0,
+  "area": 65.0,
+  "bedrooms": 1,
+  "from_center": 517.3021628072842
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 TE",
+  "Street": "Nieuweweg",
+  "Available from": "01-12-2019",
+  "Offered since": "04-11-2019",
+  "markets": {
+    "Jumbo": 630.0,
+    "Albert Heijn": 595.0
+  },
+  "long": 6.57548376,
+  "lat": 53.21835979,
+  "rent": 790.0,
+  "area": 25.0,
+  "bedrooms": 1,
+  "from_center": 513.5447267623864
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 AA",
+  "Street": "Hereweg",
+  "Available from": "01-12-2019",
+  "Offered since": "05-11-2019",
+  "markets": {
+    "Plus": 730.0,
+    "Albert Heijn": 750.0,
+    "ALDI-Markt": 881.0,
+    "Coop": 884.0
+  },
+  "long": 6.57491001,
+  "lat": 53.20377828,
+  "rent": 1380.0,
+  "area": 70.0,
+  "bedrooms": 2,
+  "from_center": 1727.2522236577308
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 VX",
+  "Street": "Turfsingel",
+  "Available from": "01-12-2019",
+  "Offered since": "05-11-2019",
+  "markets": {
+    "Albert Heijn": 574.0,
+    "Jumbo": 431.0,
+    "ALDI-Markt": 440.0
+  },
+  "long": 6.5719243,
+  "lat": 53.2202654,
+  "rent": 845.0,
+  "area": 35.0,
+  "bedrooms": 1,
+  "from_center": 324.812994584382
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9722 AD",
+  "Street": "Verlengde Hereweg",
+  "Available from": "Immediately",
+  "Offered since": "05-11-2019",
+  "markets": {
+    "Albert Heijn": 860.0,
+    "Poiesz": 732.0,
+    "Lidl": 885.0
+  },
+  "long": 6.57934384,
+  "lat": 53.19943922,
+  "rent": 1395.0,
+  "area": 75.0,
+  "bedrooms": 2,
+  "from_center": 2278.0010506524436
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9722 AV",
+  "Street": "Helper Oostsingel",
+  "Available from": "01-12-2019",
+  "Offered since": "05-11-2019",
+  "markets": {
+    "Albert Heijn": 959.0,
+    "Poiesz": 770.0,
+    "Lidl": 984.0
+  },
+  "long": 6.57979489,
+  "lat": 53.20072997,
+  "rent": 835.0,
+  "area": 52.0,
+  "bedrooms": 1,
+  "from_center": 2154.3690612462274
+}, {
+  "Neighbourhood": "Oranjewijk ",
+  "Postal code": "9742 RG",
+  "Street": "Grote Beerstraat",
+  "Available from": "Immediately",
+  "Offered since": "04-10-2019",
+  "markets": {
+    "Coop": 556.0,
+    "Albert Heijn": 645.0,
+    "Jumbo": 685.0,
+    "Lidl": 930.0
+  },
+  "long": 6.54354563,
+  "lat": 53.2252264,
+  "rent": 1190.0,
+  "area": 112.0,
+  "bedrooms": 2,
+  "from_center": 1776.279766169594
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 BJ",
+  "Street": "Helperveste",
+  "Available from": "01-01-2020",
+  "Offered since": "05-11-2019",
+  "markets": {
+    "Albert Heijn": 750.0,
+    "Lidl": 776.0,
+    "Poiesz": 946.0
+  },
+  "long": 6.57646326,
+  "lat": 53.20027456,
+  "rent": 1250.0,
+  "area": 90.0,
+  "bedrooms": 2,
+  "from_center": 2130.7079679612907
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 DC",
+  "Street": "Steenhouwerskade",
+  "Available from": "Immediately",
+  "Offered since": "22-10-2019",
+  "markets": {
+    "Albert Heijn": 449.0,
+    "Coop": 343.0,
+    "EkoPlaza": 566.0
+  },
+  "long": 6.55807594,
+  "lat": 53.21410266,
+  "rent": 993.0,
+  "area": 91.0,
+  "bedrooms": 3,
+  "from_center": 827.9760502834589
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 NK",
+  "Street": "Nieuwe Ebbingestraat",
+  "Available from": "01-12-2019",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "EkoPlaza": 149.0,
+    "Buurtsuper": 157.0,
+    "Albert Heijn": 350.0
+  },
+  "long": 6.56438578,
+  "lat": 53.22268112,
+  "rent": 1355.0,
+  "area": 82.0,
+  "bedrooms": 2,
+  "from_center": 498.53105752990035
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 DC",
+  "Street": "Steenhouwerskade",
+  "Available from": "Immediately",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "Albert Heijn": 450.0,
+    "Coop": 341.0,
+    "EkoPlaza": 567.0
+  },
+  "long": 6.55807219,
+  "lat": 53.21408697,
+  "rent": 1140.0,
+  "area": 123.0,
+  "bedrooms": 3,
+  "from_center": 829.2536272041082
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 BA",
+  "Street": "Helper Westsingel",
+  "Available from": "01-12-2019",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "Albert Heijn": 834.0,
+    "Lidl": 860.0,
+    "Poiesz": 866.0
+  },
+  "long": 6.57786863,
+  "lat": 53.20042442,
+  "rent": 1250.0,
+  "area": 60.0,
+  "bedrooms": 1,
+  "from_center": 2142.2140710769004
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 CA",
+  "Street": "Westersingel",
+  "Available from": "01-12-2019",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "Albert Heijn": 393.0,
+    "ALDI-Markt": 611.0,
+    "Coop": 630.0
+  },
+  "long": 6.55738668,
+  "lat": 53.21680503,
+  "rent": 425.0,
+  "area": 12.0,
+  "bedrooms": 1,
+  "from_center": 728.0489646225599
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 RS",
+  "Street": "Oosterkade",
+  "Available from": "Immediately",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "Jumbo": 699.0,
+    "Albert Heijn": 488.0,
+    "Coop": 613.0
+  },
+  "long": 6.57720632,
+  "lat": 53.21677955,
+  "rent": 1395.0,
+  "area": 50.0,
+  "bedrooms": 1,
+  "from_center": 662.7204159148013
+}, {
+  "Province": "Groningen",
+  "Postal code": "9723 ZV",
+  "Street": "Tonkensstraat",
+  "Available from": "01-01-2020",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "Jumbo": 258.0,
+    "Coop": 731.0,
+    "Poiesz": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58854481,
+  "lat": 53.20828658,
+  "rent": 795.0,
+  "area": 39.0,
+  "bedrooms": 1,
+  "from_center": 1805.9177064816638
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 CN",
+  "Street": "Gorechtkade",
+  "Available from": "01-12-2019",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "Lidl": 85.0,
+    "Albert Heijn": 574.0,
+    "Amazing Orie": 661.0,
+    "Buurtsuper": 761.0
+  },
+  "long": 6.57412796,
+  "lat": 53.22787688,
+  "rent": 1150.0,
+  "area": 80.0,
+  "bedrooms": 3,
+  "from_center": 1104.5551398069574
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 CJ",
+  "Street": "Zwanestraat",
+  "Available from": "01-12-2019",
+  "Offered since": "06-11-2019",
+  "markets": {
+    "ALDI-Markt": 131.0,
+    "Albert Heijn": 348.0
+  },
+  "long": 6.56424997,
+  "lat": 53.21840985,
+  "rent": 1150.0,
+  "area": 75.0,
+  "bedrooms": 2,
+  "from_center": 240.49261653525517
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9725 GM",
+  "Street": "Lingestraat",
+  "Available from": "Immediately",
+  "Offered since": "07-11-2019",
+  "markets": {
+    "ALDI-Markt": 165.0,
+    "Plus": 410.0,
+    "Coop": 751.0,
+    "Jumbo": 877.0
+  },
+  "long": 6.56393758,
+  "lat": 53.20606554,
+  "rent": 1050.0,
+  "area": 76.0,
+  "bedrooms": 3,
+  "from_center": 1430.106920249731
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 LG",
+  "Street": "Herestraat",
+  "Available from": "Immediately",
+  "Offered since": "07-11-2019",
+  "markets": {
+    "EkoPlaza": 161.0,
+    "Albert Heijn": 458.0,
+    "Jumbo": 311.0
+  },
+  "long": 6.568533,
+  "lat": 53.214023,
+  "rent": 1100.0,
+  "area": 40.0,
+  "bedrooms": 1,
+  "from_center": 523.0303180304195
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 LN",
+  "Street": "Boterdiep",
+  "Available from": "Immediately",
+  "Offered since": "07-11-2019",
+  "markets": {
+    "Buurtsuper": 151.0,
+    "EkoPlaza": 177.0,
+    "Albert Heijn": 336.0
+  },
+  "long": 6.56546403,
+  "lat": 53.22282529,
+  "rent": 1295.0,
+  "area": 50.0,
+  "bedrooms": 1,
+  "from_center": 484.94536268762675
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 XC",
+  "Street": "Oostersingel",
+  "Available from": "01-12-2019",
+  "Offered since": "07-11-2019",
+  "markets": {
+    "Jumbo": 573.0,
+    "Albert Heijn": 682.0
+  },
+  "long": 6.57682048,
+  "lat": 53.21830997,
+  "rent": 995.0,
+  "area": 80.0,
+  "bedrooms": 1,
+  "from_center": 603.0010525009699
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 GW",
+  "Street": "Kwinkenplein",
+  "Available from": "01-12-2019",
+  "Offered since": "07-11-2019",
+  "markets": {
+    "Albert Heijn": 448.0,
+    "ALDI-Markt": 135.0,
+    "Jumbo": 454.0
+  },
+  "long": 6.56730466,
+  "lat": 53.2198921,
+  "rent": 587.0,
+  "area": 27.0,
+  "bedrooms": 1,
+  "from_center": 136.68885456607987
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 AH",
+  "Street": "Petrus Campersingel",
+  "Available from": "Immediately",
+  "Offered since": "07-11-2019",
+  "markets": {
+    "Jumbo": 800.0,
+    "Lidl": 781.0,
+    "Albert Heijn": 827.0
+  },
+  "long": 6.57898957,
+  "lat": 53.22174935,
+  "rent": 1200.0,
+  "area": 65.0,
+  "bedrooms": 2,
+  "from_center": 819.6734175793915
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 GX",
+  "Street": "Kwinkenplein",
+  "Available from": "01-01-2020",
+  "Offered since": "07-11-2019",
+  "markets": {
+    "Albert Heijn": 454.0,
+    "ALDI-Markt": 143.0,
+    "Jumbo": 450.0
+  },
+  "long": 6.56744092,
+  "lat": 53.21989574,
+  "rent": 1870.0,
+  "area": 90.0,
+  "bedrooms": 2,
+  "from_center": 135.09662715013587
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "15-02-2020",
+  "Offered since": "08-11-2019",
+  "markets": {
+    "Lidl": 781.0,
+    "Jumbo": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58555894,
+  "lat": 53.2315332,
+  "rent": 1180.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1855.5112507360598
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "15-02-2020",
+  "Offered since": "08-11-2019",
+  "markets": {
+    "Lidl": 780.0,
+    "Jumbo": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58550935,
+  "lat": 53.23157241,
+  "rent": 1180.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1856.761536900282
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 SE",
+  "Street": "Damsterkade",
+  "Available from": "01-01-2020",
+  "Offered since": "08-11-2019",
+  "markets": {
+    "Jumbo": 591.0,
+    "Albert Heijn": 618.0,
+    "Coop": 668.0
+  },
+  "long": 6.57891076,
+  "lat": 53.21736816,
+  "rent": 1500.0,
+  "area": 118.0,
+  "bedrooms": 2,
+  "from_center": 755.790193157
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 GJ",
+  "Street": "De Ranitzstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "08-11-2019",
+  "markets": {
+    "Albert Heijn": 755.0,
+    "Poiesz": 715.0,
+    "Lidl": 771.0
+  },
+  "long": 6.5791271,
+  "lat": 53.19562341,
+  "rent": 1300.0,
+  "area": 120.0,
+  "bedrooms": 4,
+  "from_center": 2677.390475524516
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 HX",
+  "Street": "Hora Siccamasingel",
+  "Available from": "01-12-2019",
+  "Offered since": "08-11-2019",
+  "markets": {
+    "Albert Heijn": 581.0,
+    "Lidl": 597.0,
+    "ALDI-Markt": 704.0
+  },
+  "long": 6.57651747,
+  "lat": 53.19562435,
+  "rent": 1200.0,
+  "area": 70.0,
+  "bedrooms": 1,
+  "from_center": 2633.392433745014
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9721 SK",
+  "Street": "Van Ketwich Verschuurlaan",
+  "Available from": "15-12-2019",
+  "Offered since": "08-11-2019",
+  "markets": {
+    "Lidl": 294.0,
+    "Albert Heijn": 313.0,
+    "ALDI-Markt": 347.0,
+    "Jumbo": 843.0
+  },
+  "long": 6.56797403,
+  "lat": 53.19314531,
+  "rent": 995.0,
+  "area": 65.0,
+  "bedrooms": 2,
+  "from_center": 2844.3383293464103
+}, {
+  "Neighbourhood": "Hoogkerk ",
+  "Postal code": "9746 CR",
+  "Street": "Joeswerd",
+  "Available from": "15-01-2020",
+  "Offered since": "09-11-2019",
+  "markets": {
+    "Jumbo": 903.0,
+    "Spar": 1.0,
+    "ALDI-Markt": 2.0,
+    "Albert Heijn": 2.0
+  },
+  "long": 6.51573337,
+  "lat": 53.24319497,
+  "rent": 1250.0,
+  "area": 95.0,
+  "bedrooms": 3,
+  "from_center": 4418.8804543172555
+}, {
+  "Neighbourhood": "Oosterpoortwijk ",
+  "Postal code": "9724 EZ",
+  "Street": "Meeuwerderweg",
+  "Available from": "15-01-2020",
+  "Offered since": "09-11-2019",
+  "markets": {
+    "Coop": 181.0,
+    "Jumbo": 830.0,
+    "Plus": 841.0,
+    "Albert Heijn": 883.0
+  },
+  "long": 6.58041756,
+  "lat": 53.21001396,
+  "rent": 1350.0,
+  "area": 130.0,
+  "bedrooms": 4,
+  "from_center": 1282.0602559412198
+}, {
+  "Neighbourhood": "Oosterpoortwijk ",
+  "Postal code": "9724 EZ",
+  "Street": "Meeuwerderweg",
+  "Available from": "15-01-2020",
+  "Offered since": "09-11-2019",
+  "markets": {
+    "Coop": 177.0,
+    "Jumbo": 834.0,
+    "Plus": 839.0,
+    "Albert Heijn": 879.0
+  },
+  "long": 6.580387,
+  "lat": 53.21004828,
+  "rent": 1425.0,
+  "area": 130.0,
+  "bedrooms": 4,
+  "from_center": 1277.8390975586585
+}, {
+  "Neighbourhood": "Oosterpoortwijk ",
+  "Postal code": "9724 EZ",
+  "Street": "Meeuwerderweg",
+  "Available from": "15-01-2020",
+  "Offered since": "09-11-2019",
+  "markets": {
+    "Coop": 186.0,
+    "Jumbo": 827.0,
+    "Plus": 842.0,
+    "Albert Heijn": 888.0
+  },
+  "long": 6.58044743,
+  "lat": 53.20997444,
+  "rent": 1350.0,
+  "area": 130.0,
+  "bedrooms": 4,
+  "from_center": 1286.6887897962758
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "15-02-2020",
+  "Offered since": "09-11-2019",
+  "markets": {
+    "Lidl": 782.0,
+    "Jumbo": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58560708,
+  "lat": 53.23149514,
+  "rent": 1180.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1854.3125014165826
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "15-02-2020",
+  "Offered since": "09-11-2019",
+  "markets": {
+    "Lidl": 779.0,
+    "Jumbo": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58546001,
+  "lat": 53.23161152,
+  "rent": 1180.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1858.0291226969023
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 DL",
+  "Street": "Steenhouwerskade",
+  "Available from": "Immediately",
+  "Offered since": "27-09-2019",
+  "markets": {
+    "Coop": 277.0,
+    "Albert Heijn": 535.0,
+    "EkoPlaza": 643.0
+  },
+  "long": 6.5570505,
+  "lat": 53.21363771,
+  "rent": 952.0,
+  "area": 87.0,
+  "bedrooms": 2,
+  "from_center": 913.8115762879527
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 HB",
+  "Street": "Oude Ebbingestraat",
+  "Available from": "01-12-2019",
+  "Offered since": "11-11-2019",
+  "markets": {
+    "Albert Heijn": 72.0,
+    "ALDI-Markt": 147.0,
+    "Buurtsuper": 416.0,
+    "EkoPlaza": 426.0
+  },
+  "long": 6.56646824,
+  "lat": 53.22051286,
+  "rent": 895.0,
+  "area": 27.0,
+  "bedrooms": 1,
+  "from_center": 220.65035554452604
+}, {
+  "Neighbourhood": "Korrewegwijk ",
+  "Postal code": "9714 ET",
+  "Street": "Oppenheimstraat",
+  "Available from": "01-01-2020",
+  "Offered since": "11-11-2019",
+  "markets": {
+    "Albert Heijn": 243.0,
+    "Lidl": 358.0,
+    "Amazing Orie": 451.0,
+    "ALDI-Markt": 588.0
+  },
+  "long": 6.57030448,
+  "lat": 53.22980873,
+  "rent": 887.0,
+  "area": 26.0,
+  "bedrooms": 1,
+  "from_center": 1247.0779715752628
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 JB",
+  "Street": "Akerkhof",
+  "Available from": "01-12-2019",
+  "Offered since": "11-11-2019",
+  "markets": {
+    "Albert Heijn": 190.0,
+    "EkoPlaza": 271.0,
+    "ALDI-Markt": 353.0
+  },
+  "long": 6.5634193,
+  "lat": 53.21639855,
+  "rent": 895.0,
+  "area": 30.0,
+  "bedrooms": 1,
+  "from_center": 389.9616723373051
+}, {
+  "Neighbourhood": "Oranjewijk ",
+  "Postal code": "9741 ND",
+  "Street": "Elzenlaan",
+  "Available from": "Immediately",
+  "Offered since": "11-11-2019",
+  "markets": {
+    "ALDI-Markt": 210.0,
+    "Buurtsuper": 552.0,
+    "Lidl": 553.0,
+    "Albert Heijn": 555.0
+  },
+  "long": 6.54729065,
+  "lat": 53.23664695,
+  "rent": 1250.0,
+  "area": 90.0,
+  "bedrooms": 4,
+  "from_center": 2422.2159622874674
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 CD",
+  "Street": "Gorechtkade",
+  "Available from": "01-12-2019",
+  "Offered since": "11-11-2019",
+  "markets": {
+    "Jumbo": 257.0,
+    "Lidl": 585.0,
+    "Albert Heijn": 931.0,
+    "Buurtsuper": 985.0
+  },
+  "long": 6.57937013,
+  "lat": 53.22377706,
+  "rent": 1100.0,
+  "area": 91.0,
+  "bedrooms": 2,
+  "from_center": 956.2222711929029
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9725 JS",
+  "Street": "Anna Paulownastraat",
+  "Available from": "Immediately",
+  "Offered since": "12-11-2019",
+  "markets": {
+    "Coop": 474.0,
+    "Plus": 620.0,
+    "Albert Heijn": 982.0,
+    "Jumbo": 1.0
+  },
+  "long": 6.57687792,
+  "lat": 53.207267,
+  "rent": 1145.0,
+  "area": 105.0,
+  "bedrooms": 1,
+  "from_center": 1409.3353157978036
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "01-02-2020",
+  "Offered since": "12-11-2019",
+  "markets": {
+    "Lidl": 801.0,
+    "Albert Heijn": 1.0,
+    "Jumbo": 1.0
+  },
+  "long": 6.586322,
+  "lat": 53.230932,
+  "rent": 1225.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1838.4015511476384
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9743 NM",
+  "Street": "Briljantstraat",
+  "Available from": "01-01-2020",
+  "Offered since": "12-11-2019",
+  "markets": {
+    "Jumbo": 558.0,
+    "ALDI-Markt": 712.0,
+    "Albert Heijn": 746.0,
+    "Lidl": 785.0
+  },
+  "long": 6.52286526,
+  "lat": 53.23099676,
+  "rent": 285.0,
+  "area": 15.0,
+  "bedrooms": 1,
+  "from_center": 3299.290250335451
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 BB",
+  "Street": "Akerkhof",
+  "Available from": "01-01-2020",
+  "Offered since": "12-11-2019",
+  "markets": {
+    "Albert Heijn": 179.0,
+    "ALDI-Markt": 311.0,
+    "EkoPlaza": 342.0
+  },
+  "long": 6.56290785,
+  "lat": 53.21699844,
+  "rent": 357.0,
+  "area": 25.0,
+  "bedrooms": 1,
+  "from_center": 378.8423878228745
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9725 BC",
+  "Street": "Verlengde Oosterweg",
+  "Available from": "01-12-2019",
+  "Offered since": "12-11-2019",
+  "markets": {
+    "Coop": 382.0,
+    "Plus": 654.0,
+    "Albert Heijn": 936.0,
+    "Jumbo": 954.0
+  },
+  "long": 6.57766553,
+  "lat": 53.20800417,
+  "rent": 900.0,
+  "area": 60.0,
+  "bedrooms": 1,
+  "from_center": 1360.364861935556
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9722 EE",
+  "Street": "Helper Brink",
+  "Available from": "01-01-2020",
+  "Offered since": "12-11-2019",
+  "markets": {
+    "Albert Heijn": 940.0,
+    "Poiesz": 624.0,
+    "Lidl": 963.0
+  },
+  "long": 6.58088284,
+  "lat": 53.19913064,
+  "rent": 365.0,
+  "area": 18.0,
+  "bedrooms": 1,
+  "from_center": 2346.6301650010164
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 EA",
+  "Street": "Winschoterkade",
+  "Available from": "01-12-2019",
+  "Offered since": "12-11-2019",
+  "markets": {
+    "Jumbo": 243.0,
+    "Albert Heijn": 305.0,
+    "EkoPlaza": 565.0,
+    "Coop": 620.0
+  },
+  "long": 6.57456503,
+  "lat": 53.2162972,
+  "rent": 875.0,
+  "area": 70.0,
+  "bedrooms": 1,
+  "from_center": 524.2844465836982
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 MV",
+  "Street": "Van Goghstraat",
+  "Available from": "Immediately",
+  "Offered since": "15-10-2019",
+  "markets": {
+    "Jumbo": 149.0,
+    "Spar": 386.0,
+    "Coop": 834.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.54546639,
+  "lat": 53.21880439,
+  "rent": 941.0,
+  "area": 86.0,
+  "bedrooms": 2,
+  "from_center": 1493.0053240403681
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 DL",
+  "Street": "Steenhouwerskade",
+  "Available from": "Immediately",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "Coop": 280.0,
+    "Albert Heijn": 536.0,
+    "EkoPlaza": 647.0
+  },
+  "long": 6.55697817,
+  "lat": 53.21367144,
+  "rent": 932.0,
+  "area": 82.0,
+  "bedrooms": 2,
+  "from_center": 915.3177501407765
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 SB",
+  "Street": "Nieuwe Kijk in 't Jatstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "EkoPlaza": 345.0,
+    "Albert Heijn": 395.0,
+    "Buurtsuper": 407.0,
+    "ALDI-Markt": 413.0
+  },
+  "long": 6.56044485,
+  "lat": 53.22142603,
+  "rent": 995.0,
+  "area": 35.0,
+  "bedrooms": 1,
+  "from_center": 578.2044342200307
+}, {
+  "Neighbourhood": "Stadsparkwijk ",
+  "Postal code": "9727 BK",
+  "Street": "Paterswoldseweg",
+  "Available from": "01-12-2019",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "Coop": 336.0,
+    "ALDI-Markt": 433.0,
+    "Plus": 674.0,
+    "Albert Heijn": 899.0
+  },
+  "long": 6.55792763,
+  "lat": 53.20825017,
+  "rent": 850.0,
+  "area": 43.0,
+  "bedrooms": 1,
+  "from_center": 1337.8123992610297
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9722 CZ",
+  "Street": "Wagnersingel",
+  "Available from": "Immediately",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "Albert Heijn": 537.0,
+    "Poiesz": 692.0,
+    "Jumbo": 824.0,
+    "Coop": 1.0
+  },
+  "long": 6.58309169,
+  "lat": 53.20191807,
+  "rent": 453.0,
+  "area": 15.0,
+  "bedrooms": 1,
+  "from_center": 2128.5816946047435
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 JP",
+  "Street": "Kraneweg",
+  "Available from": "01-12-2019",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "Albert Heijn": 617.0,
+    "Jumbo": 492.0,
+    "Spar": 744.0
+  },
+  "long": 6.55426946,
+  "lat": 53.21795479,
+  "rent": 1300.0,
+  "area": 65.0,
+  "bedrooms": 2,
+  "from_center": 908.7723204401248
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 LG",
+  "Street": "Herestraat",
+  "Available from": "Immediately",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "Albert Heijn": 432.0,
+    "EkoPlaza": 151.0,
+    "Jumbo": 254.0
+  },
+  "long": 6.56871801,
+  "lat": 53.21457013,
+  "rent": 1050.0,
+  "area": 60.0,
+  "bedrooms": 2,
+  "from_center": 463.8698663629962
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 PT",
+  "Street": "Nieuwe Kerkhof",
+  "Available from": "01-02-2020",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "EkoPlaza": 145.0,
+    "Albert Heijn": 207.0,
+    "Buurtsuper": 208.0,
+    "ALDI-Markt": 449.0
+  },
+  "long": 6.56228359,
+  "lat": 53.22284712,
+  "rent": 1295.0,
+  "area": 60.0,
+  "bedrooms": 1,
+  "from_center": 591.0248781356528
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 JK",
+  "Street": "Turfstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "13-11-2019",
+  "markets": {
+    "Albert Heijn": 213.0,
+    "ALDI-Markt": 332.0,
+    "Buurtsuper": 480.0,
+    "Jumbo": 514.0
+  },
+  "long": 6.56964483,
+  "lat": 53.22099194,
+  "rent": 1250.0,
+  "area": 100.0,
+  "bedrooms": 2,
+  "from_center": 282.4840293129835
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 DK",
+  "Street": "Steenhouwerskade",
+  "Available from": "Immediately",
+  "Offered since": "03-09-2019",
+  "markets": {
+    "Coop": 284.0,
+    "Albert Heijn": 541.0,
+    "EkoPlaza": 655.0
+  },
+  "long": 6.55683469,
+  "lat": 53.2137066,
+  "rent": 926.0,
+  "area": 82.0,
+  "bedrooms": 2,
+  "from_center": 920.5490815360938
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9726 GG",
+  "Street": "Van Heemskerckstraat",
+  "Available from": "01-01-2020",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "Spar": 407.0,
+    "Coop": 574.0,
+    "Jumbo": 722.0,
+    "Albert Heijn": 876.0
+  },
+  "long": 6.54854493,
+  "lat": 53.21305151,
+  "rent": 825.0,
+  "area": 49.0,
+  "bedrooms": 2,
+  "from_center": 1432.833396987864
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "15-02-2020",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "Lidl": 779.0,
+    "Jumbo": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58541545,
+  "lat": 53.23165309,
+  "rent": 1180.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1859.7257843797113
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "15-02-2020",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "Lidl": 778.0,
+    "Jumbo": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58536567,
+  "lat": 53.23169323,
+  "rent": 1180.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1861.093989612094
+}, {
+  "Neighbourhood": "Oosterparkwijk ",
+  "Postal code": "9713 BW",
+  "Street": "Pelikaanstraat",
+  "Available from": "15-02-2020",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "Lidl": 777.0,
+    "Jumbo": 1.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58531588,
+  "lat": 53.23173337,
+  "rent": 1180.0,
+  "area": 115.0,
+  "bedrooms": 4,
+  "from_center": 1862.4774241882167
+}, {
+  "Neighbourhood": "Oosterpoortwijk ",
+  "Postal code": "9723 KA",
+  "Street": "Lunettenhof",
+  "Available from": "Immediately",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "Jumbo": 358.0,
+    "Coop": 831.0,
+    "Poiesz": 978.0,
+    "Albert Heijn": 1.0
+  },
+  "long": 6.58704717,
+  "lat": 53.20572108,
+  "rent": 865.0,
+  "area": 52.0,
+  "bedrooms": 1,
+  "from_center": 1933.3502963410065
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 KS",
+  "Street": "Vismarkt",
+  "Available from": "01-01-2020",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "ALDI-Markt": 210.0,
+    "Albert Heijn": 277.0,
+    "EkoPlaza": 299.0
+  },
+  "long": 6.56631118,
+  "lat": 53.21747527,
+  "rent": 1250.0,
+  "area": 88.0,
+  "bedrooms": 2,
+  "from_center": 169.66620872170392
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 CC",
+  "Street": "Ubbo Emmiusstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "EkoPlaza": 151.0,
+    "Albert Heijn": 406.0,
+    "Jumbo": 462.0
+  },
+  "long": 6.56610883,
+  "lat": 53.21344364,
+  "rent": 1100.0,
+  "area": 55.0,
+  "bedrooms": 1,
+  "from_center": 596.3350351759516
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 LG",
+  "Street": "Herestraat",
+  "Available from": "01-01-2020",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "Albert Heijn": 472.0,
+    "EkoPlaza": 179.0,
+    "Jumbo": 291.0
+  },
+  "long": 6.56890837,
+  "lat": 53.21410422,
+  "rent": 1150.0,
+  "area": 85.0,
+  "bedrooms": 2,
+  "from_center": 516.966261795494
+}, {
+  "Neighbourhood": "Stadsparkwijk ",
+  "Postal code": "9727 HR",
+  "Street": "Kamerlingh Onnesstraat",
+  "Available from": "01-12-2019",
+  "Offered since": "14-11-2019",
+  "markets": {
+    "ALDI-Markt": 36.0,
+    "Plus": 609.0,
+    "Jumbo": 711.0,
+    "Coop": 771.0
+  },
+  "long": 6.56161321,
+  "lat": 53.20493049,
+  "rent": 895.0,
+  "area": 75.0,
+  "bedrooms": 2,
+  "from_center": 1587.7944184475105
+}, {
+  "Neighbourhood": "Stadsparkwijk ",
+  "Postal code": "9727 ED",
+  "Street": "Illegaliteitslaan",
+  "Available from": "Immediately",
+  "Offered since": "03-10-2019",
+  "markets": {
+    "Coop": 376.0,
+    "ALDI-Markt": 621.0,
+    "Plus": 934.0,
+    "Albert Heijn": 996.0
+  },
+  "long": 6.55403273,
+  "lat": 53.20813304,
+  "rent": 1075.0,
+  "area": 90.0,
+  "bedrooms": 4,
+  "from_center": 1493.907258110057
+}, {
+  "Neighbourhood": "Schilders- en Zeeheldenwijk ",
+  "Postal code": "9718 DM",
+  "Street": "Steenhouwerskade",
+  "Available from": "Immediately",
+  "Offered since": "31-10-2019",
+  "markets": {
+    "Coop": 273.0,
+    "Albert Heijn": 530.0,
+    "EkoPlaza": 633.0
+  },
+  "long": 6.55720846,
+  "lat": 53.21358443,
+  "rent": 864.0,
+  "area": 69.0,
+  "bedrooms": 2,
+  "from_center": 909.2335275781177
+}, {
+  "Neighbourhood": "Herewegwijk en Helpman ",
+  "Postal code": "9725 JG",
+  "Street": "Tweede Willemstraat",
+  "Available from": "01-01-2020",
+  "Offered since": "15-11-2019",
+  "markets": {
+    "Coop": 487.0,
+    "Plus": 493.0,
+    "Albert Heijn": 898.0,
+    "ALDI-Markt": 918.0
+  },
+  "long": 6.57506888,
+  "lat": 53.20762023,
+  "rent": 950.0,
+  "area": 64.0,
+  "bedrooms": 1,
+  "from_center": 1325.1406861824023
+}, {
+  "Neighbourhood": "Oranjewijk ",
+  "Postal code": "9742 SM",
+  "Street": "Grote Beerstraat",
+  "Available from": "01-02-2020",
+  "Offered since": "15-11-2019",
+  "markets": {
+    "Coop": 483.0,
+    "Jumbo": 640.0,
+    "Albert Heijn": 660.0,
+    "Lidl": 1.0
+  },
+  "long": 6.54464886,
+  "lat": 53.22502962,
+  "rent": 995.0,
+  "area": 70.0,
+  "bedrooms": 1,
+  "from_center": 1700.1107377599353
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9711 KC",
+  "Street": "Haddingestraat",
+  "Available from": "16-12-2019",
+  "Offered since": "15-11-2019",
+  "markets": {
+    "EkoPlaza": 89.0,
+    "Albert Heijn": 301.0,
+    "Jumbo": 349.0
+  },
+  "long": 6.56590654,
+  "lat": 53.21552106,
+  "rent": 738.0,
+  "area": 27.0,
+  "bedrooms": 1,
+  "from_center": 376.4132638282918
+}, {
+  "Neighbourhood": "Stadsparkwijk ",
+  "Postal code": "9727 JV",
+  "Street": "Muntinglaan",
+  "Available from": "01-01-2020",
+  "Offered since": "15-11-2019",
+  "markets": {
+    "ALDI-Markt": 275.0,
+    "Jumbo": 473.0,
+    "Plus": 832.0,
+    "Albert Heijn": 914.0
+  },
+  "long": 6.5604556,
+  "lat": 53.20287961,
+  "rent": 1195.0,
+  "area": 70.0,
+  "bedrooms": 2,
+  "from_center": 1828.3768993111694
+}, {
+  "Neighbourhood": "Binnenstad ",
+  "Postal code": "9712 PS",
+  "Street": "Nieuwe Boteringestraat",
+  "Available from": "Immediately",
+  "Offered since": "15-11-2019",
+  "markets": {
+    "Albert Heijn": 317.0,
+    "Jumbo": 368.0,
+    "EkoPlaza": 384.0,
+    "ALDI-Markt": 390.0
+  },
+  "long": 6.5580592,
+  "lat": 53.22498119,
+  "rent": 485.0,
+  "area": 27.0,
+  "bedrooms": 1,
+  "from_center": 955.4903181027581
+}, {
+  "Neighbourhood": "Korrewegwijk ",
+  "Postal code": "9714 CC",
+  "Street": "Petrus Driessenstraat",
+  "Available from": "Immediately",
+  "Offered since": "15-11-2019",
+  "markets": {
+    "Amazing Orie": 247.0,
+    "ALDI-Markt": 364.0,
+    "Albert Heijn": 377.0,
+    "Jumbo": 383.0
+  },
+  "long": 6.56791962,
+  "lat": 53.22813897,
+  "rent": 725.0,
+  "area": 31.0,
+  "bedrooms": 1,
+  "from_center": 1050.1559206012894
+}]
