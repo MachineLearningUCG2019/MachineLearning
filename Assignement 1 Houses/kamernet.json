@@ -1,0 +1,2395 @@
+[{
+  "rent": 995.0,
+  "area": 60.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721AE",
+  "lat": 53.199199,
+  "long": 6.579105,
+  "from_center": 2297.892784167835,
+  "furnished_int": 1
+}, {
+  "rent": 945.0,
+  "area": 65.0,
+  "furnished": "Furnished",
+  "postalCode": "9711XG",
+  "lat": 53.220752,
+  "long": 6.57455,
+  "from_center": 504.24461225359875,
+  "furnished_int": 2
+}, {
+  "rent": 300.0,
+  "area": 8.0,
+  "furnished": "Furnished",
+  "postalCode": "9728XB",
+  "lat": 53.194123,
+  "long": 6.533267,
+  "from_center": 3579.4216820831884,
+  "furnished_int": 2
+}, {
+  "rent": 450.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9725AK",
+  "lat": 53.206407,
+  "long": 6.574134,
+  "from_center": 1432.0224527600521,
+  "furnished_int": 2
+}, {
+  "rent": 375.0,
+  "area": 20.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711TA",
+  "lat": 53.218294,
+  "long": 6.573892,
+  "from_center": 408.3414904772025,
+  "furnished_int": 1
+}, {
+  "rent": 475.0,
+  "area": 33.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711RA",
+  "lat": 53.218055,
+  "long": 6.572622,
+  "from_center": 328.96631352384105,
+  "furnished_int": 1
+}, {
+  "rent": 335.0,
+  "area": 16.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9715JK",
+  "lat": 53.232963,
+  "long": 6.573021,
+  "from_center": 1624.6147942825119,
+  "furnished_int": 0
+}, {
+  "rent": 385.0,
+  "area": 9.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714AE",
+  "lat": 53.230344,
+  "long": 6.569319,
+  "from_center": 1299.410682601564,
+  "furnished_int": 1
+}, {
+  "rent": 440.0,
+  "area": 25.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725LE",
+  "lat": 53.207043,
+  "long": 6.571208,
+  "from_center": 1317.27078221402,
+  "furnished_int": 1
+}, {
+  "rent": 350.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725ET",
+  "lat": 53.207536,
+  "long": 6.564647,
+  "from_center": 1260.693212601938,
+  "furnished_int": 1
+}, {
+  "rent": 800.0,
+  "area": 40.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9712AN",
+  "lat": 53.219943,
+  "long": 6.560439,
+  "from_center": 511.78140811178054,
+  "furnished_int": 0
+}, {
+  "rent": 364.0,
+  "area": 16.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9742JK",
+  "lat": 53.231906,
+  "long": 6.537226,
+  "from_center": 2516.595041921151,
+  "furnished_int": 0
+}, {
+  "rent": 453.0,
+  "area": 15.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9722CZ",
+  "lat": 53.202015,
+  "long": 6.583322,
+  "from_center": 2126.5734642262564,
+  "furnished_int": 1
+}, {
+  "rent": 1150.0,
+  "area": 75.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712CJ",
+  "lat": 53.218393,
+  "long": 6.564194,
+  "from_center": 244.45489363978632,
+  "furnished_int": 1
+}, {
+  "rent": 950.0,
+  "area": 40.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9724NB",
+  "lat": 53.21103,
+  "long": 6.580398,
+  "from_center": 1198.148842456991,
+  "furnished_int": 0
+}, {
+  "rent": 801.0,
+  "area": 32.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9722AT",
+  "lat": 53.200728,
+  "long": 6.579248,
+  "from_center": 2141.2700905976158,
+  "furnished_int": 1
+}, {
+  "rent": 1195.0,
+  "area": 90.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9717JS",
+  "lat": 53.226272,
+  "long": 6.551679,
+  "from_center": 1367.9902225490346,
+  "furnished_int": 1
+}, {
+  "rent": 285.0,
+  "area": 9.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9713CK",
+  "lat": 53.226487,
+  "long": 6.576162,
+  "from_center": 1030.1047643026204,
+  "furnished_int": 0
+}, {
+  "rent": 280.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714JP",
+  "lat": 53.230666,
+  "long": 6.575287,
+  "from_center": 1421.7771054622185,
+  "furnished_int": 1
+}, {
+  "rent": 395.0,
+  "area": 18.0,
+  "furnished": "Furnished",
+  "postalCode": "9728KE",
+  "lat": 53.197933,
+  "long": 6.556637,
+  "from_center": 2429.195981023499,
+  "furnished_int": 2
+}, {
+  "rent": 357.0,
+  "area": 15.0,
+  "furnished": "Furnished",
+  "postalCode": "9742LM",
+  "lat": 53.229716,
+  "long": 6.537437,
+  "from_center": 2370.491744490547,
+  "furnished_int": 2
+}, {
+  "rent": 375.0,
+  "area": 16.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721PS",
+  "lat": 53.195387,
+  "long": 6.567958,
+  "from_center": 2594.8585694107214,
+  "furnished_int": 1
+}, {
+  "rent": 1100.0,
+  "area": 90.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725GV",
+  "lat": 53.206514,
+  "long": 6.565914,
+  "from_center": 1362.4615833903617,
+  "furnished_int": 1
+}, {
+  "rent": 335.0,
+  "area": 25.0,
+  "furnished": "Furnished",
+  "postalCode": "9711LP",
+  "lat": 53.216012,
+  "long": 6.569102,
+  "from_center": 311.54092540523664,
+  "furnished_int": 2
+}, {
+  "rent": 700.0,
+  "area": 24.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712NM",
+  "lat": 53.223703,
+  "long": 6.563153,
+  "from_center": 637.7201707600652,
+  "furnished_int": 1
+}, {
+  "rent": 380.0,
+  "area": 14.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9722GR",
+  "lat": 53.197571,
+  "long": 6.583692,
+  "from_center": 2579.9053480887983,
+  "furnished_int": 0
+}, {
+  "rent": 410.0,
+  "area": 26.0,
+  "furnished": "Furnished",
+  "postalCode": "9721BM",
+  "lat": 53.198838,
+  "long": 6.574938,
+  "from_center": 2261.395333994443,
+  "furnished_int": 2
+}, {
+  "rent": 252.0,
+  "area": 22.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712ND",
+  "lat": 53.22329,
+  "long": 6.564099,
+  "from_center": 567.6899234004803,
+  "furnished_int": 1
+}, {
+  "rent": 964.0,
+  "area": 47.0,
+  "furnished": "Furnished",
+  "postalCode": "9712EX",
+  "lat": 53.220801,
+  "long": 6.564859,
+  "from_center": 305.8676152400592,
+  "furnished_int": 2
+}, {
+  "rent": 300.0,
+  "area": 10.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743NL",
+  "lat": 53.231052,
+  "long": 6.522761,
+  "from_center": 3308.1753302962934,
+  "furnished_int": 1
+}, {
+  "rent": 795.0,
+  "area": 32.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725CM",
+  "lat": 53.208785,
+  "long": 6.56953,
+  "from_center": 1109.6935496304495,
+  "furnished_int": 1
+}, {
+  "rent": 850.0,
+  "area": 46.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712EZ",
+  "lat": 53.220818,
+  "long": 6.564243,
+  "from_center": 335.25300714285913,
+  "furnished_int": 1
+}, {
+  "rent": 720.0,
+  "area": 40.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712KS",
+  "lat": 53.222665,
+  "long": 6.568291,
+  "from_center": 442.0678546893965,
+  "furnished_int": 1
+}, {
+  "rent": 739.0,
+  "area": 33.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9728PS",
+  "lat": 53.192895,
+  "long": 6.55553,
+  "from_center": 2987.208522446975,
+  "furnished_int": 1
+}, {
+  "rent": 697.0,
+  "area": 27.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9728PS",
+  "lat": 53.192895,
+  "long": 6.55553,
+  "from_center": 2987.208522446975,
+  "furnished_int": 1
+}, {
+  "rent": 1360.0,
+  "area": 80.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721AA",
+  "lat": 53.203422,
+  "long": 6.574911,
+  "from_center": 1765.4330286683853,
+  "furnished_int": 1
+}, {
+  "rent": 310.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743RB",
+  "lat": 53.231568,
+  "long": 6.522509,
+  "from_center": 3347.6307614049115,
+  "furnished_int": 1
+}, {
+  "rent": 400.0,
+  "area": 11.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9717JE",
+  "lat": 53.227089,
+  "long": 6.553493,
+  "from_center": 1336.5313318184567,
+  "furnished_int": 1
+}, {
+  "rent": 385.0,
+  "area": 27.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9724LA",
+  "lat": 53.212648,
+  "long": 6.579343,
+  "from_center": 1023.1973430952088,
+  "furnished_int": 0
+}, {
+  "rent": 290.0,
+  "area": 15.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743KT",
+  "lat": 53.230857,
+  "long": 6.526786,
+  "from_center": 3056.022442980613,
+  "furnished_int": 1
+}, {
+  "rent": 304.0,
+  "area": 15.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713AL",
+  "lat": 53.223414,
+  "long": 6.577954,
+  "from_center": 856.3460588796154,
+  "furnished_int": 1
+}, {
+  "rent": 350.0,
+  "area": 18.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725EP",
+  "lat": 53.207446,
+  "long": 6.564224,
+  "from_center": 1275.5826715536655,
+  "furnished_int": 1
+}, {
+  "rent": 1100.0,
+  "area": 70.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9746RC",
+  "lat": 53.235555,
+  "long": 6.523543,
+  "from_center": 3501.444462484321,
+  "furnished_int": 1
+}, {
+  "rent": 355.0,
+  "area": 24.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711EB",
+  "lat": 53.215371,
+  "long": 6.574944,
+  "from_center": 603.4593238768186,
+  "furnished_int": 1
+}, {
+  "rent": 430.0,
+  "area": 18.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9725KA",
+  "lat": 53.208232,
+  "long": 6.567355,
+  "from_center": 1165.7292289588006,
+  "furnished_int": 0
+}, {
+  "rent": 535.0,
+  "area": 58.0,
+  "furnished": "Furnished",
+  "postalCode": "9711RS",
+  "lat": 53.216843,
+  "long": 6.577198,
+  "from_center": 659.9451905821863,
+  "furnished_int": 2
+}, {
+  "rent": 315.0,
+  "area": 11.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9726CL",
+  "lat": 53.212654,
+  "long": 6.557047,
+  "from_center": 985.2988341004935,
+  "furnished_int": 0
+}, {
+  "rent": 390.0,
+  "area": 24.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718CB",
+  "lat": 53.217311,
+  "long": 6.557118,
+  "from_center": 731.2752124714538,
+  "furnished_int": 1
+}, {
+  "rent": 350.0,
+  "area": 16.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9715HA",
+  "lat": 53.230744,
+  "long": 6.568512,
+  "from_center": 1340.852553321501,
+  "furnished_int": 1
+}, {
+  "rent": 870.0,
+  "area": 40.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718BE",
+  "lat": 53.21551,
+  "long": 6.555133,
+  "from_center": 918.7901351261582,
+  "furnished_int": 1
+}, {
+  "rent": 365.0,
+  "area": 16.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718LN",
+  "lat": 53.217,
+  "long": 6.547678,
+  "from_center": 1358.5463656350914,
+  "furnished_int": 1
+}, {
+  "rent": 315.0,
+  "area": 14.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725AH",
+  "lat": 53.207881,
+  "long": 6.573125,
+  "from_center": 1255.5017509093207,
+  "furnished_int": 1
+}, {
+  "rent": 695.0,
+  "area": 30.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711GN",
+  "lat": 53.216551,
+  "long": 6.572464,
+  "from_center": 392.06713345655174,
+  "furnished_int": 1
+}, {
+  "rent": 750.0,
+  "area": 25.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725CA",
+  "lat": 53.209619,
+  "long": 6.570836,
+  "from_center": 1030.8822819015213,
+  "furnished_int": 1
+}, {
+  "rent": 408.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9718EA",
+  "lat": 53.216674,
+  "long": 6.555736,
+  "from_center": 837.9960685608863,
+  "furnished_int": 2
+}, {
+  "rent": 815.0,
+  "area": 39.0,
+  "furnished": "Furnished",
+  "postalCode": "9714AE",
+  "lat": 53.230344,
+  "long": 6.569319,
+  "from_center": 1299.410682601564,
+  "furnished_int": 2
+}, {
+  "rent": 418.0,
+  "area": 18.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9741HE",
+  "lat": 53.234297,
+  "long": 6.55726,
+  "from_center": 1873.2156145841154,
+  "furnished_int": 0
+}, {
+  "rent": 350.0,
+  "area": 8.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9715HM",
+  "lat": 53.232383,
+  "long": 6.567805,
+  "from_center": 1522.4544109858405,
+  "furnished_int": 1
+}, {
+  "rent": 380.0,
+  "area": 16.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725EC",
+  "lat": 53.208315,
+  "long": 6.564987,
+  "from_center": 1171.44040083858,
+  "furnished_int": 1
+}, {
+  "rent": 370.0,
+  "area": 22.0,
+  "furnished": "Furnished",
+  "postalCode": "9711JA",
+  "lat": 53.215349,
+  "long": 6.562049,
+  "from_center": 536.4580317530068,
+  "furnished_int": 2
+}, {
+  "rent": 1100.0,
+  "area": 45.0,
+  "furnished": "Furnished",
+  "postalCode": "9711LG",
+  "lat": 53.21428,
+  "long": 6.568725,
+  "from_center": 495.9601800484105,
+  "furnished_int": 2
+}, {
+  "rent": 720.0,
+  "area": 35.0,
+  "furnished": "Furnished",
+  "postalCode": "9711NA",
+  "lat": 53.217571,
+  "long": 6.567952,
+  "from_center": 126.30303854423641,
+  "furnished_int": 2
+}, {
+  "rent": 295.0,
+  "area": 11.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9717AS",
+  "lat": 53.220065,
+  "long": 6.547117,
+  "from_center": 1390.9694877140132,
+  "furnished_int": 1
+}, {
+  "rent": 975.0,
+  "area": 62.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9722AB",
+  "lat": 53.200698,
+  "long": 6.578275,
+  "from_center": 2122.106843731619,
+  "furnished_int": 1
+}, {
+  "rent": 605.0,
+  "area": 9.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713BC",
+  "lat": 53.223568,
+  "long": 6.581101,
+  "from_center": 1039.4341055748243,
+  "furnished_int": 1
+}, {
+  "rent": 775.0,
+  "area": 72.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713LZ",
+  "lat": 53.228872,
+  "long": 6.575387,
+  "from_center": 1239.5170080967907,
+  "furnished_int": 1
+}, {
+  "rent": 365.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9742BE",
+  "lat": 53.229877,
+  "long": 6.542754,
+  "from_center": 2085.299545825645,
+  "furnished_int": 1
+}, {
+  "rent": 378.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9741AJ",
+  "lat": 53.227223,
+  "long": 6.550419,
+  "from_center": 1499.7935324096013,
+  "furnished_int": 1
+}, {
+  "rent": 467.0,
+  "area": 25.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712HM",
+  "lat": 53.221495,
+  "long": 6.565561,
+  "from_center": 345.33493107118755,
+  "furnished_int": 1
+}, {
+  "rent": 278.0,
+  "area": 18.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9716CM",
+  "lat": 53.230538,
+  "long": 6.560362,
+  "from_center": 1408.0923144418007,
+  "furnished_int": 0
+}, {
+  "rent": 300.0,
+  "area": 12.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9717BP",
+  "lat": 53.222727,
+  "long": 6.550341,
+  "from_center": 1250.255527532714,
+  "furnished_int": 1
+}, {
+  "rent": 475.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9712AM",
+  "lat": 53.219914,
+  "long": 6.559894,
+  "from_center": 546.1199370030906,
+  "furnished_int": 2
+}, {
+  "rent": 800.0,
+  "area": 36.0,
+  "furnished": "Furnished",
+  "postalCode": "9718KA",
+  "lat": 53.21881,
+  "long": 6.554111,
+  "from_center": 915.6025757243708,
+  "furnished_int": 2
+}, {
+  "rent": 590.0,
+  "area": 35.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711GJ",
+  "lat": 53.216167,
+  "long": 6.572104,
+  "from_center": 402.0726954311351,
+  "furnished_int": 1
+}, {
+  "rent": 500.0,
+  "area": 18.0,
+  "furnished": "Furnished",
+  "postalCode": "9711EA",
+  "lat": 53.216305,
+  "long": 6.574529,
+  "from_center": 521.7720526049375,
+  "furnished_int": 2
+}, {
+  "rent": 390.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724AH",
+  "lat": 53.212416,
+  "long": 6.572725,
+  "from_center": 772.6910216740736,
+  "furnished_int": 1
+}, {
+  "rent": 313.0,
+  "area": 18.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713GD",
+  "lat": 53.221319,
+  "long": 6.580754,
+  "from_center": 911.8581590982342,
+  "furnished_int": 1
+}, {
+  "rent": 370.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721EA",
+  "lat": 53.196571,
+  "long": 6.576522,
+  "from_center": 2530.813771934528,
+  "furnished_int": 1
+}, {
+  "rent": 352.0,
+  "area": 15.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9726JD",
+  "lat": 53.211393,
+  "long": 6.551721,
+  "from_center": 1348.3422488795734,
+  "furnished_int": 0
+}, {
+  "rent": 650.0,
+  "area": 100.0,
+  "furnished": "Furnished",
+  "postalCode": "9714ER",
+  "lat": 53.22904,
+  "long": 6.571365,
+  "from_center": 1174.5623613757102,
+  "furnished_int": 2
+}, {
+  "rent": 540.0,
+  "area": 31.0,
+  "furnished": "Furnished",
+  "postalCode": "9712NK",
+  "lat": 53.222536,
+  "long": 6.564544,
+  "from_center": 479.33416134292963,
+  "furnished_int": 2
+}, {
+  "rent": 600.0,
+  "area": 20.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9715BP",
+  "lat": 53.228638,
+  "long": 6.561378,
+  "from_center": 1186.3637863843176,
+  "furnished_int": 1
+}, {
+  "rent": 750.0,
+  "area": 21.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9712KR",
+  "lat": 53.222544,
+  "long": 6.567438,
+  "from_center": 428.2154410396134,
+  "furnished_int": 0
+}, {
+  "rent": 395.0,
+  "area": 9.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9726BN",
+  "lat": 53.212144,
+  "long": 6.552493,
+  "from_center": 1257.282041391768,
+  "furnished_int": 0
+}, {
+  "rent": 720.0,
+  "area": 27.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712EH",
+  "lat": 53.218851,
+  "long": 6.562104,
+  "from_center": 381.96864265886904,
+  "furnished_int": 1
+}, {
+  "rent": 400.0,
+  "area": 20.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712NL",
+  "lat": 53.223129,
+  "long": 6.563901,
+  "from_center": 557.7123726246796,
+  "furnished_int": 1
+}, {
+  "rent": 470.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9727AN",
+  "lat": 53.207426,
+  "long": 6.540163,
+  "from_center": 2233.4245248680627,
+  "furnished_int": 2
+}, {
+  "rent": 350.0,
+  "area": 15.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9711GL",
+  "lat": 53.216637,
+  "long": 6.573542,
+  "from_center": 446.22262173764346,
+  "furnished_int": 0
+}, {
+  "rent": 540.0,
+  "area": 28.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725AH",
+  "lat": 53.207881,
+  "long": 6.573125,
+  "from_center": 1255.5017509093207,
+  "furnished_int": 1
+}, {
+  "rent": 870.0,
+  "area": 45.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9742AK",
+  "lat": 53.230656,
+  "long": 6.544628,
+  "from_center": 2041.61928014384,
+  "furnished_int": 0
+}, {
+  "rent": 615.0,
+  "area": 36.0,
+  "furnished": "Furnished",
+  "postalCode": "9721LB",
+  "lat": 53.19912,
+  "long": 6.567825,
+  "from_center": 2179.396036836648,
+  "furnished_int": 2
+}, {
+  "rent": 385.0,
+  "area": 23.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9718GG",
+  "lat": 53.215649,
+  "long": 6.550822,
+  "from_center": 1185.049482544068,
+  "furnished_int": 0
+}, {
+  "rent": 395.0,
+  "area": 22.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9726JD",
+  "lat": 53.211393,
+  "long": 6.551721,
+  "from_center": 1348.3422488795734,
+  "furnished_int": 1
+}, {
+  "rent": 845.0,
+  "area": 48.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718CW",
+  "lat": 53.215298,
+  "long": 6.552662,
+  "from_center": 1080.9546177631523,
+  "furnished_int": 1
+}, {
+  "rent": 1095.0,
+  "area": 60.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724AG",
+  "lat": 53.213094,
+  "long": 6.573892,
+  "from_center": 744.5473622317418,
+  "furnished_int": 1
+}, {
+  "rent": 300.0,
+  "area": 12.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9715BB",
+  "lat": 53.227668,
+  "long": 6.560419,
+  "from_center": 1113.3705917546924,
+  "furnished_int": 1
+}, {
+  "rent": 975.0,
+  "area": 55.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724NJ",
+  "lat": 53.210786,
+  "long": 6.579836,
+  "from_center": 1192.0489173879316,
+  "furnished_int": 1
+}, {
+  "rent": 430.0,
+  "area": 17.0,
+  "furnished": "Furnished",
+  "postalCode": "9712KH",
+  "lat": 53.221923,
+  "long": 6.566984,
+  "from_center": 362.6489124341027,
+  "furnished_int": 2
+}, {
+  "rent": 399.0,
+  "area": 24.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711PA",
+  "lat": 53.217575,
+  "long": 6.570302,
+  "from_center": 208.11812457069396,
+  "furnished_int": 1
+}, {
+  "rent": 350.0,
+  "area": 20.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711JL",
+  "lat": 53.21483,
+  "long": 6.563108,
+  "from_center": 533.6055925853618,
+  "furnished_int": 1
+}, {
+  "rent": 395.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711NS",
+  "lat": 53.216271,
+  "long": 6.570548,
+  "from_center": 326.39885045247007,
+  "furnished_int": 1
+}, {
+  "rent": 385.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713CM",
+  "lat": 53.227453,
+  "long": 6.574893,
+  "from_center": 1082.419052708975,
+  "furnished_int": 1
+}, {
+  "rent": 725.0,
+  "area": 31.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714CC",
+  "lat": 53.228304,
+  "long": 6.56826,
+  "from_center": 1068.9094187966955,
+  "furnished_int": 1
+}, {
+  "rent": 305.0,
+  "area": 15.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9725GL",
+  "lat": 53.206693,
+  "long": 6.563613,
+  "from_center": 1365.7852268538081,
+  "furnished_int": 0
+}, {
+  "rent": 335.0,
+  "area": 15.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714JX",
+  "lat": 53.23219,
+  "long": 6.580516,
+  "from_center": 1724.020686137226,
+  "furnished_int": 1
+}, {
+  "rent": 1095.0,
+  "area": 85.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713TN",
+  "lat": 53.223893,
+  "long": 6.590579,
+  "from_center": 1626.3732672517935,
+  "furnished_int": 1
+}, {
+  "rent": 695.0,
+  "area": 40.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711HC",
+  "lat": 53.214706,
+  "long": 6.56616,
+  "from_center": 458.3922734088806,
+  "furnished_int": 1
+}, {
+  "rent": 550.0,
+  "area": 30.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9712EB",
+  "lat": 53.219249,
+  "long": 6.562116,
+  "from_center": 385.62754252384303,
+  "furnished_int": 0
+}, {
+  "rent": 1145.0,
+  "area": 70.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718CK",
+  "lat": 53.216602,
+  "long": 6.557148,
+  "from_center": 750.0564838757663,
+  "furnished_int": 1
+}, {
+  "rent": 1050.0,
+  "area": 60.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9717JP",
+  "lat": 53.226841,
+  "long": 6.553542,
+  "from_center": 1315.0339494423822,
+  "furnished_int": 1
+}, {
+  "rent": 1050.0,
+  "area": 70.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9714HT",
+  "lat": 53.23257,
+  "long": 6.574793,
+  "from_center": 1612.0592634816912,
+  "furnished_int": 0
+}, {
+  "rent": 515.0,
+  "area": 40.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9713VC",
+  "lat": 53.223484,
+  "long": 6.588255,
+  "from_center": 1465.1590441742653,
+  "furnished_int": 0
+}, {
+  "rent": 155.0,
+  "area": 9.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714GD",
+  "lat": 53.229845,
+  "long": 6.571865,
+  "from_center": 1269.1302929209076,
+  "furnished_int": 1
+}, {
+  "rent": 705.0,
+  "area": 27.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9728PS",
+  "lat": 53.192895,
+  "long": 6.55553,
+  "from_center": 2987.208522446975,
+  "furnished_int": 1
+}, {
+  "rent": 692.0,
+  "area": 29.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9728PS",
+  "lat": 53.192895,
+  "long": 6.55553,
+  "from_center": 2987.208522446975,
+  "furnished_int": 1
+}, {
+  "rent": 801.0,
+  "area": 37.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9728PS",
+  "lat": 53.192895,
+  "long": 6.55553,
+  "from_center": 2987.208522446975,
+  "furnished_int": 1
+}, {
+  "rent": 739.0,
+  "area": 24.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718DA",
+  "lat": 53.214156,
+  "long": 6.557,
+  "from_center": 882.1593030468227,
+  "furnished_int": 1
+}, {
+  "rent": 826.0,
+  "area": 44.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718DA",
+  "lat": 53.214156,
+  "long": 6.557,
+  "from_center": 882.1593030468227,
+  "furnished_int": 1
+}, {
+  "rent": 945.0,
+  "area": 64.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711JX",
+  "lat": 53.215634,
+  "long": 6.564996,
+  "from_center": 390.0859111729117,
+  "furnished_int": 1
+}, {
+  "rent": 1355.0,
+  "area": 82.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712NK",
+  "lat": 53.222536,
+  "long": 6.564544,
+  "from_center": 479.33416134292963,
+  "furnished_int": 1
+}, {
+  "rent": 612.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9743DA",
+  "lat": 53.211308,
+  "long": 6.539199,
+  "from_center": 2081.3935059888727,
+  "furnished_int": 2
+}, {
+  "rent": 832.0,
+  "area": 50.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9716AV",
+  "lat": 53.229988,
+  "long": 6.558155,
+  "from_center": 1412.000721369026,
+  "furnished_int": 1
+}, {
+  "rent": 647.0,
+  "area": 36.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711PA",
+  "lat": 53.217575,
+  "long": 6.570302,
+  "from_center": 208.11812457069396,
+  "furnished_int": 1
+}, {
+  "rent": 870.0,
+  "area": 54.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711PH",
+  "lat": 53.218203,
+  "long": 6.570867,
+  "from_center": 211.19594634501206,
+  "furnished_int": 1
+}, {
+  "rent": 372.0,
+  "area": 12.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724GP",
+  "lat": 53.210598,
+  "long": 6.582259,
+  "from_center": 1320.7646575423776,
+  "furnished_int": 1
+}, {
+  "rent": 288.0,
+  "area": 16.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9718NJ",
+  "lat": 53.217141,
+  "long": 6.545446,
+  "from_center": 1504.4306446690866,
+  "furnished_int": 0
+}, {
+  "rent": 415.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714AE",
+  "lat": 53.230344,
+  "long": 6.569319,
+  "from_center": 1299.410682601564,
+  "furnished_int": 1
+}, {
+  "rent": 330.0,
+  "area": 13.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714BC",
+  "lat": 53.227851,
+  "long": 6.571261,
+  "from_center": 1043.7477981866243,
+  "furnished_int": 1
+}, {
+  "rent": 470.0,
+  "area": 24.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9711GE",
+  "lat": 53.214307,
+  "long": 6.570718,
+  "from_center": 526.2153758713323,
+  "furnished_int": 0
+}, {
+  "rent": 428.0,
+  "area": 20.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9712PG",
+  "lat": 53.22378,
+  "long": 6.559913,
+  "from_center": 773.2824939564258,
+  "furnished_int": 0
+}, {
+  "rent": 860.0,
+  "area": 100.0,
+  "furnished": "Furnished",
+  "postalCode": "9715CN",
+  "lat": 53.229789,
+  "long": 6.566055,
+  "from_center": 1239.366141695989,
+  "furnished_int": 2
+}, {
+  "rent": 365.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724LX",
+  "lat": 53.211444,
+  "long": 6.580252,
+  "from_center": 1158.7446979104236,
+  "furnished_int": 1
+}, {
+  "rent": 675.0,
+  "area": 33.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9728PS",
+  "lat": 53.192895,
+  "long": 6.55553,
+  "from_center": 2987.208522446975,
+  "furnished_int": 0
+}, {
+  "rent": 500.0,
+  "area": 79.0,
+  "furnished": "Furnished",
+  "postalCode": "9722BK",
+  "lat": 53.198575,
+  "long": 6.591896,
+  "from_center": 2757.904285067498,
+  "furnished_int": 2
+}, {
+  "rent": 350.0,
+  "area": 15.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713JT",
+  "lat": 53.226998,
+  "long": 6.572307,
+  "from_center": 970.6436226709857,
+  "furnished_int": 1
+}, {
+  "rent": 470.0,
+  "area": 11.0,
+  "furnished": "Furnished",
+  "postalCode": "9727AN",
+  "lat": 53.207426,
+  "long": 6.540163,
+  "from_center": 2233.4245248680627,
+  "furnished_int": 2
+}, {
+  "rent": 750.0,
+  "area": 88.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9723ZM",
+  "lat": 53.207701,
+  "long": 6.581282,
+  "from_center": 1519.3327023128113,
+  "furnished_int": 1
+}, {
+  "rent": 565.0,
+  "area": 15.0,
+  "furnished": "Furnished",
+  "postalCode": "9732AL",
+  "lat": 53.234317,
+  "long": 6.628745,
+  "from_center": 4424.603446315278,
+  "furnished_int": 2
+}, {
+  "rent": 441.0,
+  "area": 17.0,
+  "furnished": "Furnished",
+  "postalCode": "9715JE",
+  "lat": 53.232043,
+  "long": 6.570465,
+  "from_center": 1495.1118870956393,
+  "furnished_int": 2
+}, {
+  "rent": 441.0,
+  "area": 17.0,
+  "furnished": "Furnished",
+  "postalCode": "9715JE",
+  "lat": 53.232043,
+  "long": 6.570465,
+  "from_center": 1495.1118870956393,
+  "furnished_int": 2
+}, {
+  "rent": 835.0,
+  "area": 52.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9722AV",
+  "lat": 53.20101,
+  "long": 6.580195,
+  "from_center": 2135.6732804769135,
+  "furnished_int": 1
+}, {
+  "rent": 251.0,
+  "area": 9.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9715HB",
+  "lat": 53.2311,
+  "long": 6.567919,
+  "from_center": 1379.6851426476076,
+  "furnished_int": 1
+}, {
+  "rent": 288.0,
+  "area": 11.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714JN",
+  "lat": 53.232387,
+  "long": 6.579706,
+  "from_center": 1717.4702400542851,
+  "furnished_int": 1
+}, {
+  "rent": 345.0,
+  "area": 15.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713JT",
+  "lat": 53.226998,
+  "long": 6.572307,
+  "from_center": 970.6436226709857,
+  "furnished_int": 1
+}, {
+  "rent": 430.0,
+  "area": 24.0,
+  "furnished": "Furnished",
+  "postalCode": "9725AM",
+  "lat": 53.209075,
+  "long": 6.57397,
+  "from_center": 1147.6416924062703,
+  "furnished_int": 2
+}, {
+  "rent": 437.0,
+  "area": 18.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9727BP",
+  "lat": 53.205924,
+  "long": 6.558529,
+  "from_center": 1551.6508533975812,
+  "furnished_int": 1
+}, {
+  "rent": 349.0,
+  "area": 24.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9712NG",
+  "lat": 53.224775,
+  "long": 6.562528,
+  "from_center": 762.5241421923365,
+  "furnished_int": 0
+}, {
+  "rent": 280.0,
+  "area": 13.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743PN",
+  "lat": 53.232121,
+  "long": 6.523635,
+  "from_center": 3307.12346627123,
+  "furnished_int": 1
+}, {
+  "rent": 335.0,
+  "area": 15.0,
+  "furnished": "Furnished",
+  "postalCode": "9715BT",
+  "lat": 53.228948,
+  "long": 6.562047,
+  "from_center": 1203.5381517857566,
+  "furnished_int": 2
+}, {
+  "rent": 270.0,
+  "area": 10.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9743NS",
+  "lat": 53.230774,
+  "long": 6.524643,
+  "from_center": 3181.086959446217,
+  "furnished_int": 0
+}, {
+  "rent": 310.0,
+  "area": 14.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9715JH",
+  "lat": 53.233289,
+  "long": 6.571458,
+  "from_center": 1641.3958206412788,
+  "furnished_int": 0
+}, {
+  "rent": 290.0,
+  "area": 12.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9715EZ",
+  "lat": 53.231816,
+  "long": 6.565001,
+  "from_center": 1471.4213885344932,
+  "furnished_int": 1
+}, {
+  "rent": 600.0,
+  "area": 45.0,
+  "furnished": "Furnished",
+  "postalCode": "9724GJ",
+  "lat": 53.213386,
+  "long": 6.580106,
+  "from_center": 1011.9600743644281,
+  "furnished_int": 2
+}, {
+  "rent": 685.0,
+  "area": 42.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9724KK",
+  "lat": 53.211205,
+  "long": 6.580823,
+  "from_center": 1204.6594786598505,
+  "furnished_int": 0
+}, {
+  "rent": 455.0,
+  "area": 23.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724CA",
+  "lat": 53.212078,
+  "long": 6.574971,
+  "from_center": 878.6370600964469,
+  "furnished_int": 1
+}, {
+  "rent": 350.0,
+  "area": 20.0,
+  "furnished": "Furnished",
+  "postalCode": "9711RS",
+  "lat": 53.216843,
+  "long": 6.577198,
+  "from_center": 659.9451905821863,
+  "furnished_int": 2
+}, {
+  "rent": 445.0,
+  "area": 23.0,
+  "furnished": "Furnished",
+  "postalCode": "9718JW",
+  "lat": 53.216476,
+  "long": 6.548338,
+  "from_center": 1324.5756836983921,
+  "furnished_int": 2
+}, {
+  "rent": 395.0,
+  "area": 12.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712GN",
+  "lat": 53.220762,
+  "long": 6.563096,
+  "from_center": 389.8073196697731,
+  "furnished_int": 1
+}, {
+  "rent": 300.0,
+  "area": 12.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721NG",
+  "lat": 53.197647,
+  "long": 6.564465,
+  "from_center": 2354.0041453358294,
+  "furnished_int": 1
+}, {
+  "rent": 355.0,
+  "area": 18.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712RD",
+  "lat": 53.224503,
+  "long": 6.560439,
+  "from_center": 812.0964714632024,
+  "furnished_int": 1
+}, {
+  "rent": 325.0,
+  "area": 13.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9725JK",
+  "lat": 53.207762,
+  "long": 6.574781,
+  "from_center": 1303.4802646146084,
+  "furnished_int": 0
+}, {
+  "rent": 480.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9727HM",
+  "lat": 53.206823,
+  "long": 6.560526,
+  "from_center": 1408.9989722260773,
+  "furnished_int": 2
+}, {
+  "rent": 400.0,
+  "area": 13.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9726BN",
+  "lat": 53.212144,
+  "long": 6.552493,
+  "from_center": 1257.282041391768,
+  "furnished_int": 0
+}, {
+  "rent": 390.0,
+  "area": 19.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9714BS",
+  "lat": 53.227515,
+  "long": 6.565439,
+  "from_center": 993.4698562956872,
+  "furnished_int": 0
+}, {
+  "rent": 410.0,
+  "area": 20.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9715RA",
+  "lat": 53.236074,
+  "long": 6.573075,
+  "from_center": 1964.8606066973678,
+  "furnished_int": 0
+}, {
+  "rent": 280.0,
+  "area": 9.0,
+  "furnished": "Furnished",
+  "postalCode": "9727ED",
+  "lat": 53.208141,
+  "long": 6.554026,
+  "from_center": 1493.487066143101,
+  "furnished_int": 2
+}, {
+  "rent": 375.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9728VH",
+  "lat": 53.190263,
+  "long": 6.556527,
+  "from_center": 3253.7531519051963,
+  "furnished_int": 1
+}, {
+  "rent": 1025.0,
+  "area": 70.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9722AB",
+  "lat": 53.200698,
+  "long": 6.578275,
+  "from_center": 2122.106843731619,
+  "furnished_int": 1
+}, {
+  "rent": 360.0,
+  "area": 25.0,
+  "furnished": "Furnished",
+  "postalCode": "9731MT",
+  "lat": 53.242413,
+  "long": 6.57551,
+  "from_center": 2688.244547083845,
+  "furnished_int": 2
+}, {
+  "rent": 595.0,
+  "area": 24.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718BE",
+  "lat": 53.21551,
+  "long": 6.555133,
+  "from_center": 918.7901351261582,
+  "furnished_int": 1
+}, {
+  "rent": 288.0,
+  "area": 10.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714JN",
+  "lat": 53.232387,
+  "long": 6.579706,
+  "from_center": 1717.4702400542851,
+  "furnished_int": 1
+}, {
+  "rent": 400.0,
+  "area": 15.0,
+  "furnished": "Furnished",
+  "postalCode": "9711SL",
+  "lat": 53.217722,
+  "long": 6.575402,
+  "from_center": 518.293805352809,
+  "furnished_int": 2
+}, {
+  "rent": 612.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9743DA",
+  "lat": 53.211308,
+  "long": 6.539199,
+  "from_center": 2081.3935059888727,
+  "furnished_int": 2
+}, {
+  "rent": 340.0,
+  "area": 14.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9724GC",
+  "lat": 53.214878,
+  "long": 6.576872,
+  "from_center": 739.6524635230628,
+  "furnished_int": 0
+}, {
+  "rent": 450.0,
+  "area": 20.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9711KN",
+  "lat": 53.2157,
+  "long": 6.567622,
+  "from_center": 334.45868953184305,
+  "furnished_int": 0
+}, {
+  "rent": 380.0,
+  "area": 13.0,
+  "furnished": "Furnished",
+  "postalCode": "9728KE",
+  "lat": 53.197933,
+  "long": 6.556637,
+  "from_center": 2429.195981023499,
+  "furnished_int": 2
+}, {
+  "rent": 260.0,
+  "area": 10.0,
+  "furnished": "Furnished",
+  "postalCode": "9731LM",
+  "lat": 53.24514,
+  "long": 6.577168,
+  "from_center": 3007.7231336379646,
+  "furnished_int": 2
+}, {
+  "rent": 405.0,
+  "area": 28.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9717CG",
+  "lat": 53.221625,
+  "long": 6.5495,
+  "from_center": 1265.966577852511,
+  "furnished_int": 1
+}, {
+  "rent": 320.0,
+  "area": 12.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714HG",
+  "lat": 53.232208,
+  "long": 6.574705,
+  "from_center": 1571.8047825403519,
+  "furnished_int": 1
+}, {
+  "rent": 850.0,
+  "area": 30.0,
+  "furnished": "Furnished",
+  "postalCode": "9712LC",
+  "lat": 53.223227,
+  "long": 6.568763,
+  "from_center": 507.42742301584207,
+  "furnished_int": 2
+}, {
+  "rent": 270.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9731LM",
+  "lat": 53.24514,
+  "long": 6.577168,
+  "from_center": 3007.7231336379646,
+  "furnished_int": 2
+}, {
+  "rent": 612.0,
+  "area": 13.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9715AD",
+  "lat": 53.228321,
+  "long": 6.564,
+  "from_center": 1100.3325145104795,
+  "furnished_int": 1
+}, {
+  "rent": 600.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9711LT",
+  "lat": 53.21585,
+  "long": 6.56972,
+  "from_center": 342.0130580643534,
+  "furnished_int": 2
+}, {
+  "rent": 475.0,
+  "area": 35.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9718JG",
+  "lat": 53.217636,
+  "long": 6.551919,
+  "from_center": 1068.5779775152894,
+  "furnished_int": 1
+}, {
+  "rent": 235.0,
+  "area": 7.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714BH",
+  "lat": 53.230425,
+  "long": 6.576854,
+  "from_center": 1437.405903990182,
+  "furnished_int": 1
+}, {
+  "rent": 415.0,
+  "area": 20.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711RC",
+  "lat": 53.219716,
+  "long": 6.572434,
+  "from_center": 328.36022032920073,
+  "furnished_int": 1
+}, {
+  "rent": 340.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9724LG",
+  "lat": 53.212285,
+  "long": 6.579198,
+  "from_center": 1043.165025496577,
+  "furnished_int": 2
+}, {
+  "rent": 470.0,
+  "area": 24.0,
+  "furnished": "Furnished",
+  "postalCode": "9711GE",
+  "lat": 53.214307,
+  "long": 6.570718,
+  "from_center": 526.2153758713323,
+  "furnished_int": 2
+}, {
+  "rent": 500.0,
+  "area": 35.0,
+  "furnished": "Furnished",
+  "postalCode": "9721AC",
+  "lat": 53.199911,
+  "long": 6.578347,
+  "from_center": 2206.5281114315103,
+  "furnished_int": 2
+}, {
+  "rent": 485.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9727AN",
+  "lat": 53.207426,
+  "long": 6.540163,
+  "from_center": 2233.4245248680627,
+  "furnished_int": 2
+}, {
+  "rent": 485.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9727AN",
+  "lat": 53.207426,
+  "long": 6.540163,
+  "from_center": 2233.4245248680627,
+  "furnished_int": 2
+}, {
+  "rent": 500.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9727AN",
+  "lat": 53.207426,
+  "long": 6.540163,
+  "from_center": 2233.4245248680627,
+  "furnished_int": 2
+}, {
+  "rent": 470.0,
+  "area": 11.0,
+  "furnished": "Furnished",
+  "postalCode": "9727AN",
+  "lat": 53.207426,
+  "long": 6.540163,
+  "from_center": 2233.4245248680627,
+  "furnished_int": 2
+}, {
+  "rent": 470.0,
+  "area": 11.0,
+  "furnished": "Furnished",
+  "postalCode": "9727AN",
+  "lat": 53.207426,
+  "long": 6.540163,
+  "from_center": 2233.4245248680627,
+  "furnished_int": 2
+}, {
+  "rent": 315.0,
+  "area": 14.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9725AH",
+  "lat": 53.207881,
+  "long": 6.573125,
+  "from_center": 1255.5017509093207,
+  "furnished_int": 0
+}, {
+  "rent": 900.0,
+  "area": 75.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9712EW",
+  "lat": 53.220495,
+  "long": 6.56485,
+  "from_center": 281.1586299993281,
+  "furnished_int": 0
+}, {
+  "rent": 395.0,
+  "area": 17.0,
+  "furnished": "Furnished",
+  "postalCode": "9731HN",
+  "lat": 53.234631,
+  "long": 6.596614,
+  "from_center": 2615.525666489144,
+  "furnished_int": 2
+}, {
+  "rent": 340.0,
+  "area": 15.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9726EK",
+  "lat": 53.213344,
+  "long": 6.55179,
+  "from_center": 1225.539664442396,
+  "furnished_int": 1
+}, {
+  "rent": 430.0,
+  "area": 24.0,
+  "furnished": "Furnished",
+  "postalCode": "9725AM",
+  "lat": 53.209075,
+  "long": 6.57397,
+  "from_center": 1147.6416924062703,
+  "furnished_int": 2
+}, {
+  "rent": 352.0,
+  "area": 15.0,
+  "furnished": "Furnished",
+  "postalCode": "9712AB",
+  "lat": 53.216683,
+  "long": 6.560105,
+  "from_center": 562.069322783465,
+  "furnished_int": 2
+}, {
+  "rent": 320.0,
+  "area": 14.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713GL",
+  "lat": 53.221492,
+  "long": 6.579921,
+  "from_center": 866.0243144964065,
+  "furnished_int": 1
+}, {
+  "rent": 395.0,
+  "area": 22.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713GL",
+  "lat": 53.221492,
+  "long": 6.579921,
+  "from_center": 866.0243144964065,
+  "furnished_int": 1
+}, {
+  "rent": 550.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9711KT",
+  "lat": 53.217152,
+  "long": 6.565429,
+  "from_center": 235.03149224732752,
+  "furnished_int": 2
+}, {
+  "rent": 955.0,
+  "area": 60.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711EA",
+  "lat": 53.216305,
+  "long": 6.574529,
+  "from_center": 521.7720526049375,
+  "furnished_int": 1
+}, {
+  "rent": 450.0,
+  "area": 23.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9714ER",
+  "lat": 53.22904,
+  "long": 6.571365,
+  "from_center": 1174.5623613757102,
+  "furnished_int": 1
+}, {
+  "rent": 574.0,
+  "area": 31.0,
+  "furnished": "Furnished",
+  "postalCode": "9725EL",
+  "lat": 53.207839,
+  "long": 6.563971,
+  "from_center": 1236.0567229554217,
+  "furnished_int": 2
+}, {
+  "rent": 995.0,
+  "area": 70.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711XC",
+  "lat": 53.218581,
+  "long": 6.576613,
+  "from_center": 587.708335439751,
+  "furnished_int": 1
+}, {
+  "rent": 1250.0,
+  "area": 50.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712XG",
+  "lat": 53.224835,
+  "long": 6.557113,
+  "from_center": 988.365876380447,
+  "furnished_int": 1
+}, {
+  "rent": 1200.0,
+  "area": 50.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712XG",
+  "lat": 53.224835,
+  "long": 6.557113,
+  "from_center": 988.365876380447,
+  "furnished_int": 1
+}, {
+  "rent": 1150.0,
+  "area": 50.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712XG",
+  "lat": 53.224835,
+  "long": 6.557113,
+  "from_center": 988.365876380447,
+  "furnished_int": 1
+}, {
+  "rent": 271.0,
+  "area": 10.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9726GV",
+  "lat": 53.211743,
+  "long": 6.548642,
+  "from_center": 1496.9290247312272,
+  "furnished_int": 1
+}, {
+  "rent": 264.0,
+  "area": 10.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9726GV",
+  "lat": 53.211743,
+  "long": 6.548642,
+  "from_center": 1496.9290247312272,
+  "furnished_int": 1
+}, {
+  "rent": 415.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711LE",
+  "lat": 53.214682,
+  "long": 6.568685,
+  "from_center": 451.23930308115723,
+  "furnished_int": 1
+}, {
+  "rent": 500.0,
+  "area": 24.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724GJ",
+  "lat": 53.213386,
+  "long": 6.580106,
+  "from_center": 1011.9600743644281,
+  "furnished_int": 1
+}, {
+  "rent": 379.0,
+  "area": 20.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721AH",
+  "lat": 53.197856,
+  "long": 6.579939,
+  "from_center": 2457.3709526379816,
+  "furnished_int": 1
+}, {
+  "rent": 450.0,
+  "area": 24.0,
+  "furnished": "Furnished",
+  "postalCode": "9725HC",
+  "lat": 53.205593,
+  "long": 6.564464,
+  "from_center": 1476.1112505442813,
+  "furnished_int": 2
+}, {
+  "rent": 330.0,
+  "area": 16.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712VK",
+  "lat": 53.22023,
+  "long": 6.560348,
+  "from_center": 527.0507322759149,
+  "furnished_int": 1
+}, {
+  "rent": 500.0,
+  "area": 27.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9715BH",
+  "lat": 53.227628,
+  "long": 6.56181,
+  "from_center": 1071.237714421654,
+  "furnished_int": 0
+}, {
+  "rent": 315.0,
+  "area": 12.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9726CL",
+  "lat": 53.212654,
+  "long": 6.557047,
+  "from_center": 985.2988341004935,
+  "furnished_int": 0
+}, {
+  "rent": 350.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9717HT",
+  "lat": 53.226578,
+  "long": 6.554599,
+  "from_center": 1243.9933402311042,
+  "furnished_int": 2
+}, {
+  "rent": 370.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9726JB",
+  "lat": 53.211836,
+  "long": 6.553504,
+  "from_center": 1224.0379720707278,
+  "furnished_int": 2
+}, {
+  "rent": 1200.0,
+  "area": 90.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724EP",
+  "lat": 53.211709,
+  "long": 6.578397,
+  "from_center": 1051.3715001878754,
+  "furnished_int": 1
+}, {
+  "rent": 725.0,
+  "area": 44.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9745EN",
+  "lat": 53.215352,
+  "long": 6.512589,
+  "from_center": 3708.036646588825,
+  "furnished_int": 0
+}, {
+  "rent": 900.0,
+  "area": 75.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9712LK",
+  "lat": 53.224423,
+  "long": 6.564491,
+  "from_center": 674.2314015790818,
+  "furnished_int": 1
+}, {
+  "rent": 335.0,
+  "area": 8.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9725KA",
+  "lat": 53.208232,
+  "long": 6.567355,
+  "from_center": 1165.7292289588006,
+  "furnished_int": 0
+}, {
+  "rent": 408.0,
+  "area": 9.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9718EA",
+  "lat": 53.216674,
+  "long": 6.555736,
+  "from_center": 837.9960685608863,
+  "furnished_int": 0
+}, {
+  "rent": 380.0,
+  "area": 20.0,
+  "furnished": "Furnished",
+  "postalCode": "9715BS",
+  "lat": 53.22854,
+  "long": 6.562833,
+  "from_center": 1144.254579011528,
+  "furnished_int": 2
+}, {
+  "rent": 400.0,
+  "area": 14.0,
+  "furnished": "Furnished",
+  "postalCode": "9741HA",
+  "lat": 53.23374,
+  "long": 6.55749,
+  "from_center": 1810.0282552150734,
+  "furnished_int": 2
+}, {
+  "rent": 775.0,
+  "area": 30.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9717KN",
+  "lat": 53.228034,
+  "long": 6.559573,
+  "from_center": 1175.3987030182354,
+  "furnished_int": 1
+}, {
+  "rent": 1200.0,
+  "area": 95.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9711HM",
+  "lat": 53.214388,
+  "long": 6.563697,
+  "from_center": 553.49336842505,
+  "furnished_int": 1
+}, {
+  "rent": 905.0,
+  "area": 55.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721HZ",
+  "lat": 53.194503,
+  "long": 6.577413,
+  "from_center": 2768.4908305436784,
+  "furnished_int": 1
+}, {
+  "rent": 370.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9726JB",
+  "lat": 53.211836,
+  "long": 6.553504,
+  "from_center": 1224.0379720707278,
+  "furnished_int": 2
+}, {
+  "rent": 350.0,
+  "area": 17.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9725JP",
+  "lat": 53.206913,
+  "long": 6.574652,
+  "from_center": 1389.2961179054141,
+  "furnished_int": 1
+}, {
+  "rent": 588.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9743DA",
+  "lat": 53.211308,
+  "long": 6.539199,
+  "from_center": 2081.3935059888727,
+  "furnished_int": 2
+}, {
+  "rent": 650.0,
+  "area": 15.0,
+  "furnished": "Furnished",
+  "postalCode": "9725AC",
+  "lat": 53.207497,
+  "long": 6.572689,
+  "from_center": 1288.8919781668353,
+  "furnished_int": 2
+}, {
+  "rent": 500.0,
+  "area": 31.0,
+  "furnished": "Furnished",
+  "postalCode": "9713BR",
+  "lat": 53.228573,
+  "long": 6.575348,
+  "from_center": 1208.125327771947,
+  "furnished_int": 2
+}, {
+  "rent": 340.0,
+  "area": 20.0,
+  "furnished": "Furnished",
+  "postalCode": "9711XL",
+  "lat": 53.222582,
+  "long": 6.571554,
+  "from_center": 498.6648617885394,
+  "furnished_int": 2
+}, {
+  "rent": 351.0,
+  "area": 15.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9726GP",
+  "lat": 53.211657,
+  "long": 6.547478,
+  "from_center": 1568.7492280718707,
+  "furnished_int": 0
+}, {
+  "rent": 489.0,
+  "area": 13.0,
+  "furnished": "Furnished",
+  "postalCode": "9711XK",
+  "lat": 53.222099,
+  "long": 6.572548,
+  "from_center": 492.646303193474,
+  "furnished_int": 2
+}, {
+  "rent": 380.0,
+  "area": 16.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9741CB",
+  "lat": 53.229496,
+  "long": 6.555031,
+  "from_center": 1473.7834478402392,
+  "furnished_int": 0
+}, {
+  "rent": 885.0,
+  "area": 65.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 47.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 48.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 48.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 48.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 48.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 48.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 49.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 845.0,
+  "area": 49.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 855.0,
+  "area": 49.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 875.0,
+  "area": 49.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 845.0,
+  "area": 49.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 835.0,
+  "area": 49.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 825.0,
+  "area": 49.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9743AB",
+  "lat": 53.222256,
+  "long": 6.539192,
+  "from_center": 1952.457993241131,
+  "furnished_int": 1
+}, {
+  "rent": 1150.0,
+  "area": 90.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9726HH",
+  "lat": 53.212805,
+  "long": 6.550708,
+  "from_center": 1317.9934109786918,
+  "furnished_int": 1
+}, {
+  "rent": 350.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9712RB",
+  "lat": 53.224122,
+  "long": 6.562425,
+  "from_center": 702.4360821269559,
+  "furnished_int": 2
+}, {
+  "rent": 500.0,
+  "area": 16.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713AT",
+  "lat": 53.225942,
+  "long": 6.573135,
+  "from_center": 880.4593161371457,
+  "furnished_int": 1
+}, {
+  "rent": 520.0,
+  "area": 16.0,
+  "furnished": "Furnished",
+  "postalCode": "9743KE",
+  "lat": 53.229688,
+  "long": 6.529099,
+  "from_center": 2860.3538821013626,
+  "furnished_int": 2
+}, {
+  "rent": 375.0,
+  "area": 15.0,
+  "furnished": "Uncarpeted",
+  "postalCode": "9712KA",
+  "lat": 53.218413,
+  "long": 6.569631,
+  "from_center": 125.3955566742922,
+  "furnished_int": 0
+}, {
+  "rent": 420.0,
+  "area": 12.0,
+  "furnished": "Furnished",
+  "postalCode": "9737RC",
+  "lat": 53.247206,
+  "long": 6.590081,
+  "from_center": 3503.2217012696383,
+  "furnished_int": 2
+}, {
+  "rent": 420.0,
+  "area": 14.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9721CE",
+  "lat": 53.19764,
+  "long": 6.57124,
+  "from_center": 2355.235553727705,
+  "furnished_int": 1
+}, {
+  "rent": 470.0,
+  "area": 30.0,
+  "furnished": "Furnished",
+  "postalCode": "9712EN",
+  "lat": 53.220521,
+  "long": 6.562163,
+  "from_center": 428.4467453091322,
+  "furnished_int": 2
+}, {
+  "rent": 1100.0,
+  "area": 71.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9724JM",
+  "lat": 53.211505,
+  "long": 6.577926,
+  "from_center": 1047.738609622083,
+  "furnished_int": 1
+}, {
+  "rent": 420.0,
+  "area": 20.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9713AH",
+  "lat": 53.221321,
+  "long": 6.579022,
+  "from_center": 803.1541029686022,
+  "furnished_int": 1
+}, {
+  "rent": 1200.0,
+  "area": 60.0,
+  "furnished": "Furnished",
+  "postalCode": "9724GP",
+  "lat": 53.210598,
+  "long": 6.582259,
+  "from_center": 1320.7646575423776,
+  "furnished_int": 2
+}, {
+  "rent": 360.0,
+  "area": 14.0,
+  "furnished": "Unfurnished",
+  "postalCode": "9727BH",
+  "lat": 53.2094,
+  "long": 6.557222,
+  "from_center": 1254.149453258884,
+  "furnished_int": 1
+}]
