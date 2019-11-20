@@ -14,7 +14,10 @@
   "rent": 1150.0,
   "area": 83.0,
   "bedrooms": 1,
-  "from_center": 67.89066398199931
+  "from_center": 67.89066398199931,
+  "min_market_dist": 139.0,
+  "days_until_available": 0,
+  "days_offered": 91
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 HV",
@@ -31,7 +34,10 @@
   "rent": 1150.0,
   "area": 100.0,
   "bedrooms": 1,
-  "from_center": 68.09011231754904
+  "from_center": 68.09011231754904,
+  "min_market_dist": 142.0,
+  "days_until_available": 0,
+  "days_offered": 91
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 AC",
@@ -48,7 +54,10 @@
   "rent": 2600.0,
   "area": 45.0,
   "bedrooms": 1,
-  "from_center": 552.1078366397523
+  "from_center": 552.1078366397523,
+  "min_market_dist": 246.0,
+  "days_until_available": 0,
+  "days_offered": 91
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 BR",
@@ -65,7 +74,10 @@
   "rent": 950.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 670.4878303964227
+  "from_center": 670.4878303964227,
+  "min_market_dist": 349.0,
+  "days_until_available": 0,
+  "days_offered": 92
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9725 AJ",
@@ -83,7 +95,10 @@
   "rent": 1100.0,
   "area": 65.0,
   "bedrooms": 1,
-  "from_center": 1334.0828477426837
+  "from_center": 1334.0828477426837,
+  "min_market_dist": 411.0,
+  "days_until_available": 0,
+  "days_offered": 91
 }, {
   "Neighbourhood": "Noorddijk ",
   "Postal code": "9732 CL",
@@ -100,7 +115,10 @@
   "rent": 775.0,
   "area": 80.0,
   "bedrooms": 2,
-  "from_center": 4528.467100136755
+  "from_center": 4528.467100136755,
+  "min_market_dist": 2.0,
+  "days_until_available": 0,
+  "days_offered": 91
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 KM",
@@ -117,7 +135,10 @@
   "rent": 950.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 305.4083615316121
+  "from_center": 305.4083615316121,
+  "min_market_dist": 143.0,
+  "days_until_available": 0,
+  "days_offered": 74
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 EH",
@@ -133,7 +154,10 @@
   "rent": 995.0,
   "area": 50.0,
   "bedrooms": 1,
-  "from_center": 383.11964586728936
+  "from_center": 383.11964586728936,
+  "min_market_dist": 234.0,
+  "days_until_available": 0,
+  "days_offered": 73
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 CH",
@@ -150,7 +174,10 @@
   "rent": 1250.0,
   "area": 92.0,
   "bedrooms": 2,
-  "from_center": 2347.164477272976
+  "from_center": 2347.164477272976,
+  "min_market_dist": 745.0,
+  "days_until_available": 0,
+  "days_offered": 68
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 KM",
@@ -167,7 +194,10 @@
   "rent": 900.0,
   "area": 44.0,
   "bedrooms": 1,
-  "from_center": 303.6929371948015
+  "from_center": 303.6929371948015,
+  "min_market_dist": 145.0,
+  "days_until_available": 0,
+  "days_offered": 68
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9722 CP",
@@ -185,7 +215,10 @@
   "rent": 1500.0,
   "area": 137.0,
   "bedrooms": 5,
-  "from_center": 2274.4970792264994
+  "from_center": 2274.4970792264994,
+  "min_market_dist": 1.0,
+  "days_until_available": 14,
+  "days_offered": 68
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 LH",
@@ -203,7 +236,10 @@
   "rent": 1095.0,
   "area": 65.0,
   "bedrooms": 2,
-  "from_center": 607.0783975897967
+  "from_center": 607.0783975897967,
+  "min_market_dist": 39.0,
+  "days_until_available": 0,
+  "days_offered": 66
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 WJ",
@@ -221,7 +257,10 @@
   "rent": 1950.0,
   "area": 215.0,
   "bedrooms": 6,
-  "from_center": 1325.7863287685489
+  "from_center": 1325.7863287685489,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 66
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 EL",
@@ -237,7 +276,10 @@
   "rent": 1150.0,
   "area": 90.0,
   "bedrooms": 2,
-  "from_center": 842.3705830139437
+  "from_center": 842.3705830139437,
+  "min_market_dist": 715.0,
+  "days_until_available": 0,
+  "days_offered": 64
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 KL",
@@ -255,7 +297,10 @@
   "rent": 1135.0,
   "area": 65.0,
   "bedrooms": 2,
-  "from_center": 213.78757397531635
+  "from_center": 213.78757397531635,
+  "min_market_dist": 206.0,
+  "days_until_available": 2,
+  "days_offered": 64
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9722 WG",
@@ -273,7 +318,10 @@
   "rent": 1795.0,
   "area": 150.0,
   "bedrooms": 3,
-  "from_center": 3067.888917300827
+  "from_center": 3067.888917300827,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 60
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 HV",
@@ -290,7 +338,10 @@
   "rent": 1320.0,
   "area": 100.0,
   "bedrooms": 2,
-  "from_center": 65.54528136684748
+  "from_center": 65.54528136684748,
+  "min_market_dist": 137.0,
+  "days_until_available": 0,
+  "days_offered": 58
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -308,7 +359,10 @@
   "rent": 825.0,
   "area": 44.0,
   "bedrooms": 1,
-  "from_center": 1935.0982032014656
+  "from_center": 1935.0982032014656,
+  "min_market_dist": 596.0,
+  "days_until_available": 0,
+  "days_offered": 58
 }, {
   "Neighbourhood": "Noorddijk ",
   "Postal code": "9734 CR",
@@ -325,7 +379,10 @@
   "rent": 1250.0,
   "area": 110.0,
   "bedrooms": 3,
-  "from_center": 3905.1319348563784
+  "from_center": 3905.1319348563784,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 56
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 CJ",
@@ -342,7 +399,10 @@
   "rent": 912.0,
   "area": 90.0,
   "bedrooms": 1,
-  "from_center": 773.7940799277234
+  "from_center": 773.7940799277234,
+  "min_market_dist": 528.0,
+  "days_until_available": 15,
+  "days_offered": 53
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 AJ",
@@ -359,7 +419,10 @@
   "rent": 1100.0,
   "area": 95.0,
   "bedrooms": 3,
-  "from_center": 837.6329779012356
+  "from_center": 837.6329779012356,
+  "min_market_dist": 724.0,
+  "days_until_available": 0,
+  "days_offered": 51
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9726 HH",
@@ -377,7 +440,10 @@
   "rent": 1100.0,
   "area": 85.0,
   "bedrooms": 2,
-  "from_center": 1292.7420697811367
+  "from_center": 1292.7420697811367,
+  "min_market_dist": 414.0,
+  "days_until_available": 0,
+  "days_offered": 48
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 BC",
@@ -394,7 +460,10 @@
   "rent": 1200.0,
   "area": 97.0,
   "bedrooms": 2,
-  "from_center": 2136.800241411163
+  "from_center": 2136.800241411163,
+  "min_market_dist": 1.0,
+  "days_until_available": 45,
+  "days_offered": 45
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 EC",
@@ -411,7 +480,10 @@
   "rent": 1150.0,
   "area": 65.0,
   "bedrooms": 1,
-  "from_center": 777.050063682451
+  "from_center": 777.050063682451,
+  "min_market_dist": 609.0,
+  "days_until_available": 14,
+  "days_offered": 45
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9726 BK",
@@ -429,7 +501,10 @@
   "rent": 1170.0,
   "area": 95.0,
   "bedrooms": 2,
-  "from_center": 1268.0114206664043
+  "from_center": 1268.0114206664043,
+  "min_market_dist": 321.0,
+  "days_until_available": 45,
+  "days_offered": 44
 }, {
   "Neighbourhood": "Noorddijk ",
   "Postal code": "9731 MK",
@@ -446,7 +521,10 @@
   "rent": 795.0,
   "area": 110.0,
   "bedrooms": 2,
-  "from_center": 2622.981445054249
+  "from_center": 2622.981445054249,
+  "min_market_dist": 1.0,
+  "days_until_available": 17,
+  "days_offered": 44
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 DA",
@@ -464,7 +542,10 @@
   "rent": 518.0,
   "area": 27.0,
   "bedrooms": 1,
-  "from_center": 1877.9566803942148
+  "from_center": 1877.9566803942148,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 44
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 EB",
@@ -481,7 +562,10 @@
   "rent": 1950.0,
   "area": 150.0,
   "bedrooms": 1,
-  "from_center": 801.2836418325338
+  "from_center": 801.2836418325338,
+  "min_market_dist": 470.0,
+  "days_until_available": 0,
+  "days_offered": 44
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9725 JP",
@@ -499,7 +583,10 @@
   "rent": 1190.0,
   "area": 130.0,
   "bedrooms": 2,
-  "from_center": 1388.3588870453877
+  "from_center": 1388.3588870453877,
+  "min_market_dist": 485.0,
+  "days_until_available": 0,
+  "days_offered": 43
 }, {
   "Neighbourhood": "Noorddijk ",
   "Postal code": "9737 PA",
@@ -517,7 +604,10 @@
   "rent": 995.0,
   "area": 100.0,
   "bedrooms": 4,
-  "from_center": 3498.034343310505
+  "from_center": 3498.034343310505,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 43
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 KS",
@@ -535,7 +625,10 @@
   "rent": 875.0,
   "area": 55.0,
   "bedrooms": 2,
-  "from_center": 430.8742604495014
+  "from_center": 430.8742604495014,
+  "min_market_dist": 282.0,
+  "days_until_available": 0,
+  "days_offered": 43
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 BM",
@@ -552,7 +645,10 @@
   "rent": 1250.0,
   "area": 100.0,
   "bedrooms": 3,
-  "from_center": 717.9433315690139
+  "from_center": 717.9433315690139,
+  "min_market_dist": 481.0,
+  "days_until_available": 0,
+  "days_offered": 38
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 EV",
@@ -570,7 +666,10 @@
   "rent": 940.0,
   "area": 52.0,
   "bedrooms": 1,
-  "from_center": 566.782120110512
+  "from_center": 566.782120110512,
+  "min_market_dist": 166.0,
+  "days_until_available": 0,
+  "days_offered": 67
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 LB",
@@ -588,7 +687,10 @@
   "rent": 995.0,
   "area": 76.0,
   "bedrooms": 2,
-  "from_center": 2152.678861692145
+  "from_center": 2152.678861692145,
+  "min_market_dist": 378.0,
+  "days_until_available": 1,
+  "days_offered": 35
 }, {
   "Neighbourhood": "Noorddijk ",
   "Postal code": "9737 HM",
@@ -606,7 +708,10 @@
   "rent": 995.0,
   "area": 90.0,
   "bedrooms": 3,
-  "from_center": 4092.0810452654796
+  "from_center": 4092.0810452654796,
+  "min_market_dist": 2.0,
+  "days_until_available": 0,
+  "days_offered": 35
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 XB",
@@ -624,7 +729,10 @@
   "rent": 1450.0,
   "area": 51.0,
   "bedrooms": 1,
-  "from_center": 941.4193971390285
+  "from_center": 941.4193971390285,
+  "min_market_dist": 221.0,
+  "days_until_available": 33,
+  "days_offered": 32
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9726 GG",
@@ -642,7 +750,10 @@
   "rent": 975.0,
   "area": 60.0,
   "bedrooms": 2,
-  "from_center": 1425.4221740875068
+  "from_center": 1425.4221740875068,
+  "min_market_dist": 405.0,
+  "days_until_available": 0,
+  "days_offered": 32
 }, {
   "Province": "Groningen",
   "Postal code": "9716 AS",
@@ -660,7 +771,10 @@
   "rent": 715.0,
   "area": 28.0,
   "bedrooms": 1,
-  "from_center": 1436.1194821564188
+  "from_center": 1436.1194821564188,
+  "min_market_dist": 466.0,
+  "days_until_available": 14,
+  "days_offered": 30
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 LG",
@@ -678,7 +792,10 @@
   "rent": 1500.0,
   "area": 122.0,
   "bedrooms": 2,
-  "from_center": 1429.6274129897631
+  "from_center": 1429.6274129897631,
+  "min_market_dist": 216.0,
+  "days_until_available": 0,
+  "days_offered": 30
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 BL",
@@ -694,7 +811,10 @@
   "rent": 1150.0,
   "area": 45.0,
   "bedrooms": 1,
-  "from_center": 401.1888736460788
+  "from_center": 401.1888736460788,
+  "min_market_dist": 269.0,
+  "days_until_available": 0,
+  "days_offered": 30
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 LB",
@@ -712,7 +832,10 @@
   "rent": 1225.0,
   "area": 60.0,
   "bedrooms": 1,
-  "from_center": 1202.2600946383884
+  "from_center": 1202.2600946383884,
+  "min_market_dist": 198.0,
+  "days_until_available": 0,
+  "days_offered": 30
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 AD",
@@ -728,7 +851,10 @@
   "rent": 895.0,
   "area": 62.0,
   "bedrooms": 1,
-  "from_center": 860.7678260596239
+  "from_center": 860.7678260596239,
+  "min_market_dist": 764.0,
+  "days_until_available": 46,
+  "days_offered": 29
 }, {
   "Neighbourhood": "Korrewegwijk ",
   "Postal code": "9715 CK",
@@ -746,7 +872,10 @@
   "rent": 875.0,
   "area": 43.0,
   "bedrooms": 2,
-  "from_center": 1136.2374326083911
+  "from_center": 1136.2374326083911,
+  "min_market_dist": 74.0,
+  "days_until_available": 0,
+  "days_offered": 26
 }, {
   "Neighbourhood": "Oranjewijk ",
   "Postal code": "9742 NC",
@@ -763,7 +892,10 @@
   "rent": 1295.0,
   "area": 106.0,
   "bedrooms": 3,
-  "from_center": 2166.691119191677
+  "from_center": 2166.691119191677,
+  "min_market_dist": 615.0,
+  "days_until_available": 14,
+  "days_offered": 25
 }, {
   "Neighbourhood": "Noorddijk ",
   "Postal code": "9737 XC",
@@ -781,7 +913,10 @@
   "rent": 365.0,
   "area": 10.0,
   "bedrooms": 1,
-  "from_center": 3859.7155583786603
+  "from_center": 3859.7155583786603,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 25
 }, {
   "Province": "Groningen",
   "Postal code": "9723 ZX",
@@ -799,7 +934,10 @@
   "rent": 925.0,
   "area": 70.0,
   "bedrooms": 2,
-  "from_center": 2323.30821376021
+  "from_center": 2323.30821376021,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 25
 }, {
   "Neighbourhood": "Korrewegwijk ",
   "Postal code": "9714 CB",
@@ -817,7 +955,10 @@
   "rent": 895.0,
   "area": 40.0,
   "bedrooms": 1,
-  "from_center": 996.8563333828066
+  "from_center": 996.8563333828066,
+  "min_market_dist": 177.0,
+  "days_until_available": 14,
+  "days_offered": 25
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 NV",
@@ -834,7 +975,10 @@
   "rent": 1050.0,
   "area": 60.0,
   "bedrooms": 2,
-  "from_center": 210.72261627589643
+  "from_center": 210.72261627589643,
+  "min_market_dist": 116.0,
+  "days_until_available": 0,
+  "days_offered": 25
 }, {
   "Province": "Groningen",
   "Postal code": "9723 LE",
@@ -851,7 +995,10 @@
   "rent": 895.0,
   "area": 45.0,
   "bedrooms": 1,
-  "from_center": 1136.0214744992732
+  "from_center": 1136.0214744992732,
+  "min_market_dist": 754.0,
+  "days_until_available": 29,
+  "days_offered": 24
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 HL",
@@ -869,7 +1016,10 @@
   "rent": 1199.0,
   "area": 102.0,
   "bedrooms": 2,
-  "from_center": 899.8052810222904
+  "from_center": 899.8052810222904,
+  "min_market_dist": 319.0,
+  "days_until_available": 14,
+  "days_offered": 23
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 PJ",
@@ -887,7 +1037,10 @@
   "rent": 1495.0,
   "area": 60.0,
   "bedrooms": 1,
-  "from_center": 896.2335724702388
+  "from_center": 896.2335724702388,
+  "min_market_dist": 266.0,
+  "days_until_available": 28,
+  "days_offered": 23
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 GL",
@@ -904,7 +1057,10 @@
   "rent": 1075.0,
   "area": 90.0,
   "bedrooms": 2,
-  "from_center": 2724.609970920894
+  "from_center": 2724.609970920894,
+  "min_market_dist": 692.0,
+  "days_until_available": 45,
+  "days_offered": 22
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 BR",
@@ -921,7 +1077,10 @@
   "rent": 2150.0,
   "area": 137.0,
   "bedrooms": 3,
-  "from_center": 672.3062196027317
+  "from_center": 672.3062196027317,
+  "min_market_dist": 338.0,
+  "days_until_available": 0,
+  "days_offered": 21
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 HV",
@@ -938,7 +1097,10 @@
   "rent": 995.0,
   "area": 100.0,
   "bedrooms": 1,
-  "from_center": 69.97073212456063
+  "from_center": 69.97073212456063,
+  "min_market_dist": 141.0,
+  "days_until_available": 0,
+  "days_offered": 21
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 NJ",
@@ -956,7 +1118,10 @@
   "rent": 1095.0,
   "area": 120.0,
   "bedrooms": 4,
-  "from_center": 3252.474894592495
+  "from_center": 3252.474894592495,
+  "min_market_dist": 507.0,
+  "days_until_available": 0,
+  "days_offered": 67
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 HG",
@@ -973,7 +1138,10 @@
   "rent": 1495.0,
   "area": 120.0,
   "bedrooms": 2,
-  "from_center": 920.8993970968163
+  "from_center": 920.8993970968163,
+  "min_market_dist": 541.0,
+  "days_until_available": 28,
+  "days_offered": 51
 }, {
   "Neighbourhood": "Korrewegwijk ",
   "Postal code": "9714 CP",
@@ -991,7 +1159,10 @@
   "rent": 1195.0,
   "area": 55.0,
   "bedrooms": 2,
-  "from_center": 1028.12412980962
+  "from_center": 1028.12412980962,
+  "min_market_dist": 363.0,
+  "days_until_available": 0,
+  "days_offered": 18
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9722 ND",
@@ -1009,7 +1180,10 @@
   "rent": 1050.0,
   "area": 90.0,
   "bedrooms": 2,
-  "from_center": 2940.676882471972
+  "from_center": 2940.676882471972,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 18
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9725 GM",
@@ -1027,7 +1201,10 @@
   "rent": 1150.0,
   "area": 85.0,
   "bedrooms": 2,
-  "from_center": 1400.2716482675503
+  "from_center": 1400.2716482675503,
+  "min_market_dist": 178.0,
+  "days_until_available": 76,
+  "days_offered": 17
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9726 HH",
@@ -1045,7 +1222,10 @@
   "rent": 1200.0,
   "area": 85.0,
   "bedrooms": 2,
-  "from_center": 1299.2031284787645
+  "from_center": 1299.2031284787645,
+  "min_market_dist": 418.0,
+  "days_until_available": 0,
+  "days_offered": 17
 }, {
   "Neighbourhood": "Stadsparkwijk ",
   "Postal code": "9728 RV",
@@ -1062,7 +1242,10 @@
   "rent": 1750.0,
   "area": 135.0,
   "bedrooms": 4,
-  "from_center": 3223.7405529825814
+  "from_center": 3223.7405529825814,
+  "min_market_dist": 832.0,
+  "days_until_available": 24,
+  "days_offered": 17
 }, {
   "Neighbourhood": "Oranjewijk ",
   "Postal code": "9717 GP",
@@ -1080,7 +1263,10 @@
   "rent": 1195.0,
   "area": 60.0,
   "bedrooms": 2,
-  "from_center": 1176.2208588600467
+  "from_center": 1176.2208588600467,
+  "min_market_dist": 138.0,
+  "days_until_available": 15,
+  "days_offered": 16
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 LN",
@@ -1097,7 +1283,10 @@
   "rent": 1295.0,
   "area": 50.0,
   "bedrooms": 1,
-  "from_center": 484.94536268762675
+  "from_center": 484.94536268762675,
+  "min_market_dist": 151.0,
+  "days_until_available": 0,
+  "days_offered": 16
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1115,7 +1304,10 @@
   "rent": 950.0,
   "area": 50.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1133,7 +1325,10 @@
   "rent": 950.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1151,7 +1346,10 @@
   "rent": 825.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1169,7 +1367,10 @@
   "rent": 835.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1187,7 +1388,10 @@
   "rent": 845.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1205,7 +1409,10 @@
   "rent": 850.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1223,7 +1430,10 @@
   "rent": 850.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1241,7 +1451,10 @@
   "rent": 850.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1259,7 +1472,10 @@
   "rent": 950.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1277,7 +1493,10 @@
   "rent": 950.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1295,7 +1514,10 @@
   "rent": 975.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1313,7 +1535,10 @@
   "rent": 825.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1331,7 +1556,10 @@
   "rent": 845.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1349,7 +1577,10 @@
   "rent": 865.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1367,7 +1598,10 @@
   "rent": 875.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1385,7 +1619,10 @@
   "rent": 850.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1403,7 +1640,10 @@
   "rent": 850.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1421,7 +1661,10 @@
   "rent": 895.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1439,7 +1682,10 @@
   "rent": 895.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1457,7 +1703,10 @@
   "rent": 895.0,
   "area": 47.0,
   "bedrooms": 1,
-  "from_center": 1891.799405096514
+  "from_center": 1891.799405096514,
+  "min_market_dist": 557.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1475,7 +1724,10 @@
   "rent": 950.0,
   "area": 50.0,
   "bedrooms": 2,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1493,7 +1745,10 @@
   "rent": 950.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1511,7 +1766,10 @@
   "rent": 875.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1529,7 +1787,10 @@
   "rent": 825.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1890.5913844566398
+  "from_center": 1890.5913844566398,
+  "min_market_dist": 547.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1547,7 +1808,10 @@
   "rent": 835.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 0,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1565,7 +1829,10 @@
   "rent": 845.0,
   "area": 49.0,
   "bedrooms": 1,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1583,7 +1850,10 @@
   "rent": 825.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1601,7 +1871,10 @@
   "rent": 825.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 AA",
@@ -1619,7 +1892,10 @@
   "rent": 825.0,
   "area": 48.0,
   "bedrooms": 1,
-  "from_center": 1894.3027480439985
+  "from_center": 1894.3027480439985,
+  "min_market_dist": 548.0,
+  "days_until_available": 14,
+  "days_offered": 15
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 PC",
@@ -1637,7 +1913,10 @@
   "rent": 485.0,
   "area": 23.0,
   "bedrooms": 1,
-  "from_center": 1787.2074976874112
+  "from_center": 1787.2074976874112,
+  "min_market_dist": 1.0,
+  "days_until_available": 14,
+  "days_offered": 14
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 DK",
@@ -1654,7 +1933,10 @@
   "rent": 942.0,
   "area": 82.0,
   "bedrooms": 2,
-  "from_center": 915.4845010451396
+  "from_center": 915.4845010451396,
+  "min_market_dist": 284.0,
+  "days_until_available": 0,
+  "days_offered": 43
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 XG",
@@ -1671,7 +1953,10 @@
   "rent": 945.0,
   "area": 65.0,
   "bedrooms": 1,
-  "from_center": 517.3021628072842
+  "from_center": 517.3021628072842,
+  "min_market_dist": 523.0,
+  "days_until_available": 0,
+  "days_offered": 12
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 TE",
@@ -1687,7 +1972,10 @@
   "rent": 790.0,
   "area": 25.0,
   "bedrooms": 1,
-  "from_center": 513.5447267623864
+  "from_center": 513.5447267623864,
+  "min_market_dist": 595.0,
+  "days_until_available": 14,
+  "days_offered": 12
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 AA",
@@ -1705,7 +1993,10 @@
   "rent": 1380.0,
   "area": 70.0,
   "bedrooms": 2,
-  "from_center": 1727.2522236577308
+  "from_center": 1727.2522236577308,
+  "min_market_dist": 730.0,
+  "days_until_available": 14,
+  "days_offered": 11
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 VX",
@@ -1722,7 +2013,10 @@
   "rent": 845.0,
   "area": 35.0,
   "bedrooms": 1,
-  "from_center": 324.812994584382
+  "from_center": 324.812994584382,
+  "min_market_dist": 431.0,
+  "days_until_available": 14,
+  "days_offered": 11
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9722 AD",
@@ -1739,7 +2033,10 @@
   "rent": 1395.0,
   "area": 75.0,
   "bedrooms": 2,
-  "from_center": 2278.0010506524436
+  "from_center": 2278.0010506524436,
+  "min_market_dist": 732.0,
+  "days_until_available": 0,
+  "days_offered": 11
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9722 AV",
@@ -1756,7 +2053,10 @@
   "rent": 835.0,
   "area": 52.0,
   "bedrooms": 1,
-  "from_center": 2154.3690612462274
+  "from_center": 2154.3690612462274,
+  "min_market_dist": 770.0,
+  "days_until_available": 14,
+  "days_offered": 11
 }, {
   "Neighbourhood": "Oranjewijk ",
   "Postal code": "9742 RG",
@@ -1774,7 +2074,10 @@
   "rent": 1190.0,
   "area": 112.0,
   "bedrooms": 2,
-  "from_center": 1776.279766169594
+  "from_center": 1776.279766169594,
+  "min_market_dist": 556.0,
+  "days_until_available": 0,
+  "days_offered": 43
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 BJ",
@@ -1791,7 +2094,10 @@
   "rent": 1250.0,
   "area": 90.0,
   "bedrooms": 2,
-  "from_center": 2130.7079679612907
+  "from_center": 2130.7079679612907,
+  "min_market_dist": 750.0,
+  "days_until_available": 45,
+  "days_offered": 11
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 DC",
@@ -1808,7 +2114,10 @@
   "rent": 993.0,
   "area": 91.0,
   "bedrooms": 3,
-  "from_center": 827.9760502834589
+  "from_center": 827.9760502834589,
+  "min_market_dist": 343.0,
+  "days_until_available": 0,
+  "days_offered": 25
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 NK",
@@ -1825,7 +2134,10 @@
   "rent": 1355.0,
   "area": 82.0,
   "bedrooms": 2,
-  "from_center": 498.53105752990035
+  "from_center": 498.53105752990035,
+  "min_market_dist": 149.0,
+  "days_until_available": 14,
+  "days_offered": 10
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 DC",
@@ -1842,7 +2154,10 @@
   "rent": 1140.0,
   "area": 123.0,
   "bedrooms": 3,
-  "from_center": 829.2536272041082
+  "from_center": 829.2536272041082,
+  "min_market_dist": 341.0,
+  "days_until_available": 0,
+  "days_offered": 10
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 BA",
@@ -1859,7 +2174,10 @@
   "rent": 1250.0,
   "area": 60.0,
   "bedrooms": 1,
-  "from_center": 2142.2140710769004
+  "from_center": 2142.2140710769004,
+  "min_market_dist": 834.0,
+  "days_until_available": 14,
+  "days_offered": 10
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 CA",
@@ -1876,7 +2194,10 @@
   "rent": 425.0,
   "area": 12.0,
   "bedrooms": 1,
-  "from_center": 728.0489646225599
+  "from_center": 728.0489646225599,
+  "min_market_dist": 393.0,
+  "days_until_available": 14,
+  "days_offered": 10
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 RS",
@@ -1893,7 +2214,10 @@
   "rent": 1395.0,
   "area": 50.0,
   "bedrooms": 1,
-  "from_center": 662.7204159148013
+  "from_center": 662.7204159148013,
+  "min_market_dist": 488.0,
+  "days_until_available": 0,
+  "days_offered": 10
 }, {
   "Province": "Groningen",
   "Postal code": "9723 ZV",
@@ -1911,7 +2235,10 @@
   "rent": 795.0,
   "area": 39.0,
   "bedrooms": 1,
-  "from_center": 1805.9177064816638
+  "from_center": 1805.9177064816638,
+  "min_market_dist": 1.0,
+  "days_until_available": 45,
+  "days_offered": 10
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 CN",
@@ -1929,7 +2256,10 @@
   "rent": 1150.0,
   "area": 80.0,
   "bedrooms": 3,
-  "from_center": 1104.5551398069574
+  "from_center": 1104.5551398069574,
+  "min_market_dist": 85.0,
+  "days_until_available": 14,
+  "days_offered": 10
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 CJ",
@@ -1945,7 +2275,10 @@
   "rent": 1150.0,
   "area": 75.0,
   "bedrooms": 2,
-  "from_center": 240.49261653525517
+  "from_center": 240.49261653525517,
+  "min_market_dist": 131.0,
+  "days_until_available": 14,
+  "days_offered": 10
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9725 GM",
@@ -1963,7 +2296,10 @@
   "rent": 1050.0,
   "area": 76.0,
   "bedrooms": 3,
-  "from_center": 1430.106920249731
+  "from_center": 1430.106920249731,
+  "min_market_dist": 165.0,
+  "days_until_available": 0,
+  "days_offered": 9
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 LG",
@@ -1980,7 +2316,10 @@
   "rent": 1100.0,
   "area": 40.0,
   "bedrooms": 1,
-  "from_center": 523.0303180304195
+  "from_center": 523.0303180304195,
+  "min_market_dist": 161.0,
+  "days_until_available": 0,
+  "days_offered": 9
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 LN",
@@ -1997,7 +2336,10 @@
   "rent": 1295.0,
   "area": 50.0,
   "bedrooms": 1,
-  "from_center": 484.94536268762675
+  "from_center": 484.94536268762675,
+  "min_market_dist": 151.0,
+  "days_until_available": 0,
+  "days_offered": 9
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 XC",
@@ -2013,7 +2355,10 @@
   "rent": 995.0,
   "area": 80.0,
   "bedrooms": 1,
-  "from_center": 603.0010525009699
+  "from_center": 603.0010525009699,
+  "min_market_dist": 573.0,
+  "days_until_available": 14,
+  "days_offered": 9
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 GW",
@@ -2030,7 +2375,10 @@
   "rent": 587.0,
   "area": 27.0,
   "bedrooms": 1,
-  "from_center": 136.68885456607987
+  "from_center": 136.68885456607987,
+  "min_market_dist": 135.0,
+  "days_until_available": 14,
+  "days_offered": 9
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 AH",
@@ -2047,7 +2395,10 @@
   "rent": 1200.0,
   "area": 65.0,
   "bedrooms": 2,
-  "from_center": 819.6734175793915
+  "from_center": 819.6734175793915,
+  "min_market_dist": 781.0,
+  "days_until_available": 0,
+  "days_offered": 9
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 GX",
@@ -2064,7 +2415,10 @@
   "rent": 1870.0,
   "area": 90.0,
   "bedrooms": 2,
-  "from_center": 135.09662715013587
+  "from_center": 135.09662715013587,
+  "min_market_dist": 143.0,
+  "days_until_available": 45,
+  "days_offered": 9
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2081,7 +2435,10 @@
   "rent": 1180.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1855.5112507360598
+  "from_center": 1855.5112507360598,
+  "min_market_dist": 1.0,
+  "days_until_available": 90,
+  "days_offered": 8
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2098,7 +2455,10 @@
   "rent": 1180.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1856.761536900282
+  "from_center": 1856.761536900282,
+  "min_market_dist": 1.0,
+  "days_until_available": 90,
+  "days_offered": 8
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 SE",
@@ -2115,7 +2475,10 @@
   "rent": 1500.0,
   "area": 118.0,
   "bedrooms": 2,
-  "from_center": 755.790193157
+  "from_center": 755.790193157,
+  "min_market_dist": 591.0,
+  "days_until_available": 45,
+  "days_offered": 8
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 GJ",
@@ -2132,7 +2495,10 @@
   "rent": 1300.0,
   "area": 120.0,
   "bedrooms": 4,
-  "from_center": 2677.390475524516
+  "from_center": 2677.390475524516,
+  "min_market_dist": 715.0,
+  "days_until_available": 14,
+  "days_offered": 8
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 HX",
@@ -2149,7 +2515,10 @@
   "rent": 1200.0,
   "area": 70.0,
   "bedrooms": 1,
-  "from_center": 2633.392433745014
+  "from_center": 2633.392433745014,
+  "min_market_dist": 581.0,
+  "days_until_available": 14,
+  "days_offered": 8
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9721 SK",
@@ -2167,7 +2536,10 @@
   "rent": 995.0,
   "area": 65.0,
   "bedrooms": 2,
-  "from_center": 2844.3383293464103
+  "from_center": 2844.3383293464103,
+  "min_market_dist": 294.0,
+  "days_until_available": 28,
+  "days_offered": 8
 }, {
   "Neighbourhood": "Hoogkerk ",
   "Postal code": "9746 CR",
@@ -2185,7 +2557,10 @@
   "rent": 1250.0,
   "area": 95.0,
   "bedrooms": 3,
-  "from_center": 4418.8804543172555
+  "from_center": 4418.8804543172555,
+  "min_market_dist": 1.0,
+  "days_until_available": 59,
+  "days_offered": 7
 }, {
   "Neighbourhood": "Oosterpoortwijk ",
   "Postal code": "9724 EZ",
@@ -2203,7 +2578,10 @@
   "rent": 1350.0,
   "area": 130.0,
   "bedrooms": 4,
-  "from_center": 1282.0602559412198
+  "from_center": 1282.0602559412198,
+  "min_market_dist": 181.0,
+  "days_until_available": 59,
+  "days_offered": 7
 }, {
   "Neighbourhood": "Oosterpoortwijk ",
   "Postal code": "9724 EZ",
@@ -2221,7 +2599,10 @@
   "rent": 1425.0,
   "area": 130.0,
   "bedrooms": 4,
-  "from_center": 1277.8390975586585
+  "from_center": 1277.8390975586585,
+  "min_market_dist": 177.0,
+  "days_until_available": 59,
+  "days_offered": 7
 }, {
   "Neighbourhood": "Oosterpoortwijk ",
   "Postal code": "9724 EZ",
@@ -2239,7 +2620,10 @@
   "rent": 1350.0,
   "area": 130.0,
   "bedrooms": 4,
-  "from_center": 1286.6887897962758
+  "from_center": 1286.6887897962758,
+  "min_market_dist": 186.0,
+  "days_until_available": 59,
+  "days_offered": 7
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2256,7 +2640,10 @@
   "rent": 1180.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1854.3125014165826
+  "from_center": 1854.3125014165826,
+  "min_market_dist": 1.0,
+  "days_until_available": 90,
+  "days_offered": 7
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2273,7 +2660,10 @@
   "rent": 1180.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1858.0291226969023
+  "from_center": 1858.0291226969023,
+  "min_market_dist": 1.0,
+  "days_until_available": 90,
+  "days_offered": 7
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 DL",
@@ -2290,7 +2680,10 @@
   "rent": 952.0,
   "area": 87.0,
   "bedrooms": 2,
-  "from_center": 913.8115762879527
+  "from_center": 913.8115762879527,
+  "min_market_dist": 277.0,
+  "days_until_available": 0,
+  "days_offered": 50
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 HB",
@@ -2308,7 +2701,10 @@
   "rent": 895.0,
   "area": 27.0,
   "bedrooms": 1,
-  "from_center": 220.65035554452604
+  "from_center": 220.65035554452604,
+  "min_market_dist": 72.0,
+  "days_until_available": 14,
+  "days_offered": 5
 }, {
   "Neighbourhood": "Korrewegwijk ",
   "Postal code": "9714 ET",
@@ -2326,7 +2722,10 @@
   "rent": 887.0,
   "area": 26.0,
   "bedrooms": 1,
-  "from_center": 1247.0779715752628
+  "from_center": 1247.0779715752628,
+  "min_market_dist": 243.0,
+  "days_until_available": 45,
+  "days_offered": 5
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 JB",
@@ -2343,7 +2742,10 @@
   "rent": 895.0,
   "area": 30.0,
   "bedrooms": 1,
-  "from_center": 389.9616723373051
+  "from_center": 389.9616723373051,
+  "min_market_dist": 190.0,
+  "days_until_available": 14,
+  "days_offered": 5
 }, {
   "Neighbourhood": "Oranjewijk ",
   "Postal code": "9741 ND",
@@ -2361,7 +2763,10 @@
   "rent": 1250.0,
   "area": 90.0,
   "bedrooms": 4,
-  "from_center": 2422.2159622874674
+  "from_center": 2422.2159622874674,
+  "min_market_dist": 210.0,
+  "days_until_available": 0,
+  "days_offered": 5
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 CD",
@@ -2379,7 +2784,10 @@
   "rent": 1100.0,
   "area": 91.0,
   "bedrooms": 2,
-  "from_center": 956.2222711929029
+  "from_center": 956.2222711929029,
+  "min_market_dist": 257.0,
+  "days_until_available": 14,
+  "days_offered": 5
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9725 JS",
@@ -2397,7 +2805,10 @@
   "rent": 1145.0,
   "area": 105.0,
   "bedrooms": 1,
-  "from_center": 1409.3353157978036
+  "from_center": 1409.3353157978036,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 4
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2414,7 +2825,10 @@
   "rent": 1225.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1838.4015511476384
+  "from_center": 1838.4015511476384,
+  "min_market_dist": 1.0,
+  "days_until_available": 76,
+  "days_offered": 4
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9743 NM",
@@ -2432,7 +2846,10 @@
   "rent": 285.0,
   "area": 15.0,
   "bedrooms": 1,
-  "from_center": 3299.290250335451
+  "from_center": 3299.290250335451,
+  "min_market_dist": 558.0,
+  "days_until_available": 45,
+  "days_offered": 4
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 BB",
@@ -2449,7 +2866,10 @@
   "rent": 357.0,
   "area": 25.0,
   "bedrooms": 1,
-  "from_center": 378.8423878228745
+  "from_center": 378.8423878228745,
+  "min_market_dist": 179.0,
+  "days_until_available": 45,
+  "days_offered": 4
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9725 BC",
@@ -2467,7 +2887,10 @@
   "rent": 900.0,
   "area": 60.0,
   "bedrooms": 1,
-  "from_center": 1360.364861935556
+  "from_center": 1360.364861935556,
+  "min_market_dist": 382.0,
+  "days_until_available": 14,
+  "days_offered": 4
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9722 EE",
@@ -2484,7 +2907,10 @@
   "rent": 365.0,
   "area": 18.0,
   "bedrooms": 1,
-  "from_center": 2346.6301650010164
+  "from_center": 2346.6301650010164,
+  "min_market_dist": 624.0,
+  "days_until_available": 45,
+  "days_offered": 4
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 EA",
@@ -2502,7 +2928,10 @@
   "rent": 875.0,
   "area": 70.0,
   "bedrooms": 1,
-  "from_center": 524.2844465836982
+  "from_center": 524.2844465836982,
+  "min_market_dist": 243.0,
+  "days_until_available": 14,
+  "days_offered": 4
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 MV",
@@ -2520,7 +2949,10 @@
   "rent": 941.0,
   "area": 86.0,
   "bedrooms": 2,
-  "from_center": 1493.0053240403681
+  "from_center": 1493.0053240403681,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 32
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 DL",
@@ -2537,7 +2969,10 @@
   "rent": 932.0,
   "area": 82.0,
   "bedrooms": 2,
-  "from_center": 915.3177501407765
+  "from_center": 915.3177501407765,
+  "min_market_dist": 280.0,
+  "days_until_available": 0,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 SB",
@@ -2555,7 +2990,10 @@
   "rent": 995.0,
   "area": 35.0,
   "bedrooms": 1,
-  "from_center": 578.2044342200307
+  "from_center": 578.2044342200307,
+  "min_market_dist": 345.0,
+  "days_until_available": 14,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Stadsparkwijk ",
   "Postal code": "9727 BK",
@@ -2573,7 +3011,10 @@
   "rent": 850.0,
   "area": 43.0,
   "bedrooms": 1,
-  "from_center": 1337.8123992610297
+  "from_center": 1337.8123992610297,
+  "min_market_dist": 336.0,
+  "days_until_available": 14,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9722 CZ",
@@ -2591,7 +3032,10 @@
   "rent": 453.0,
   "area": 15.0,
   "bedrooms": 1,
-  "from_center": 2128.5816946047435
+  "from_center": 2128.5816946047435,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 JP",
@@ -2608,7 +3052,10 @@
   "rent": 1300.0,
   "area": 65.0,
   "bedrooms": 2,
-  "from_center": 908.7723204401248
+  "from_center": 908.7723204401248,
+  "min_market_dist": 492.0,
+  "days_until_available": 14,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 LG",
@@ -2625,7 +3072,10 @@
   "rent": 1050.0,
   "area": 60.0,
   "bedrooms": 2,
-  "from_center": 463.8698663629962
+  "from_center": 463.8698663629962,
+  "min_market_dist": 151.0,
+  "days_until_available": 0,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 PT",
@@ -2643,7 +3093,10 @@
   "rent": 1295.0,
   "area": 60.0,
   "bedrooms": 1,
-  "from_center": 591.0248781356528
+  "from_center": 591.0248781356528,
+  "min_market_dist": 145.0,
+  "days_until_available": 76,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 JK",
@@ -2661,7 +3114,10 @@
   "rent": 1250.0,
   "area": 100.0,
   "bedrooms": 2,
-  "from_center": 282.4840293129835
+  "from_center": 282.4840293129835,
+  "min_market_dist": 213.0,
+  "days_until_available": 14,
+  "days_offered": 3
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 DK",
@@ -2678,7 +3134,10 @@
   "rent": 926.0,
   "area": 82.0,
   "bedrooms": 2,
-  "from_center": 920.5490815360938
+  "from_center": 920.5490815360938,
+  "min_market_dist": 284.0,
+  "days_until_available": 0,
+  "days_offered": 74
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9726 GG",
@@ -2696,7 +3155,10 @@
   "rent": 825.0,
   "area": 49.0,
   "bedrooms": 2,
-  "from_center": 1432.833396987864
+  "from_center": 1432.833396987864,
+  "min_market_dist": 407.0,
+  "days_until_available": 45,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2713,7 +3175,10 @@
   "rent": 1180.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1859.7257843797113
+  "from_center": 1859.7257843797113,
+  "min_market_dist": 1.0,
+  "days_until_available": 90,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2730,7 +3195,10 @@
   "rent": 1180.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1861.093989612094
+  "from_center": 1861.093989612094,
+  "min_market_dist": 1.0,
+  "days_until_available": 90,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Oosterparkwijk ",
   "Postal code": "9713 BW",
@@ -2747,7 +3215,10 @@
   "rent": 1180.0,
   "area": 115.0,
   "bedrooms": 4,
-  "from_center": 1862.4774241882167
+  "from_center": 1862.4774241882167,
+  "min_market_dist": 1.0,
+  "days_until_available": 90,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Oosterpoortwijk ",
   "Postal code": "9723 KA",
@@ -2765,7 +3236,10 @@
   "rent": 865.0,
   "area": 52.0,
   "bedrooms": 1,
-  "from_center": 1933.3502963410065
+  "from_center": 1933.3502963410065,
+  "min_market_dist": 1.0,
+  "days_until_available": 0,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 KS",
@@ -2782,7 +3256,10 @@
   "rent": 1250.0,
   "area": 88.0,
   "bedrooms": 2,
-  "from_center": 169.66620872170392
+  "from_center": 169.66620872170392,
+  "min_market_dist": 210.0,
+  "days_until_available": 45,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 CC",
@@ -2799,7 +3276,10 @@
   "rent": 1100.0,
   "area": 55.0,
   "bedrooms": 1,
-  "from_center": 596.3350351759516
+  "from_center": 596.3350351759516,
+  "min_market_dist": 151.0,
+  "days_until_available": 14,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 LG",
@@ -2816,7 +3296,10 @@
   "rent": 1150.0,
   "area": 85.0,
   "bedrooms": 2,
-  "from_center": 516.966261795494
+  "from_center": 516.966261795494,
+  "min_market_dist": 179.0,
+  "days_until_available": 45,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Stadsparkwijk ",
   "Postal code": "9727 HR",
@@ -2834,7 +3317,10 @@
   "rent": 895.0,
   "area": 75.0,
   "bedrooms": 2,
-  "from_center": 1587.7944184475105
+  "from_center": 1587.7944184475105,
+  "min_market_dist": 36.0,
+  "days_until_available": 14,
+  "days_offered": 2
 }, {
   "Neighbourhood": "Stadsparkwijk ",
   "Postal code": "9727 ED",
@@ -2852,7 +3338,10 @@
   "rent": 1075.0,
   "area": 90.0,
   "bedrooms": 4,
-  "from_center": 1493.907258110057
+  "from_center": 1493.907258110057,
+  "min_market_dist": 376.0,
+  "days_until_available": 0,
+  "days_offered": 44
 }, {
   "Neighbourhood": "Schilders- en Zeeheldenwijk ",
   "Postal code": "9718 DM",
@@ -2869,7 +3358,10 @@
   "rent": 864.0,
   "area": 69.0,
   "bedrooms": 2,
-  "from_center": 909.2335275781177
+  "from_center": 909.2335275781177,
+  "min_market_dist": 273.0,
+  "days_until_available": 0,
+  "days_offered": 16
 }, {
   "Neighbourhood": "Herewegwijk en Helpman ",
   "Postal code": "9725 JG",
@@ -2887,7 +3379,10 @@
   "rent": 950.0,
   "area": 64.0,
   "bedrooms": 1,
-  "from_center": 1325.1406861824023
+  "from_center": 1325.1406861824023,
+  "min_market_dist": 487.0,
+  "days_until_available": 45,
+  "days_offered": 1
 }, {
   "Neighbourhood": "Oranjewijk ",
   "Postal code": "9742 SM",
@@ -2905,7 +3400,10 @@
   "rent": 995.0,
   "area": 70.0,
   "bedrooms": 1,
-  "from_center": 1700.1107377599353
+  "from_center": 1700.1107377599353,
+  "min_market_dist": 1.0,
+  "days_until_available": 76,
+  "days_offered": 1
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9711 KC",
@@ -2922,7 +3420,10 @@
   "rent": 738.0,
   "area": 27.0,
   "bedrooms": 1,
-  "from_center": 376.4132638282918
+  "from_center": 376.4132638282918,
+  "min_market_dist": 89.0,
+  "days_until_available": 29,
+  "days_offered": 1
 }, {
   "Neighbourhood": "Stadsparkwijk ",
   "Postal code": "9727 JV",
@@ -2940,7 +3441,10 @@
   "rent": 1195.0,
   "area": 70.0,
   "bedrooms": 2,
-  "from_center": 1828.3768993111694
+  "from_center": 1828.3768993111694,
+  "min_market_dist": 275.0,
+  "days_until_available": 45,
+  "days_offered": 1
 }, {
   "Neighbourhood": "Binnenstad ",
   "Postal code": "9712 PS",
@@ -2958,7 +3462,10 @@
   "rent": 485.0,
   "area": 27.0,
   "bedrooms": 1,
-  "from_center": 955.4903181027581
+  "from_center": 955.4903181027581,
+  "min_market_dist": 317.0,
+  "days_until_available": 0,
+  "days_offered": 1
 }, {
   "Neighbourhood": "Korrewegwijk ",
   "Postal code": "9714 CC",
@@ -2976,5 +3483,8 @@
   "rent": 725.0,
   "area": 31.0,
   "bedrooms": 1,
-  "from_center": 1050.1559206012894
+  "from_center": 1050.1559206012894,
+  "min_market_dist": 247.0,
+  "days_until_available": 0,
+  "days_offered": 1
 }]
