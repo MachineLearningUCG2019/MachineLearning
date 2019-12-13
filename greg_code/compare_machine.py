@@ -1,4 +1,3 @@
-#import numpy as np, matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from sklearn.svm import SVC #support vector machine
