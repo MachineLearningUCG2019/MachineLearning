@@ -1,3 +1,7 @@
+'''
+  Greg Charitonos   S3367649    12/18/2019    Machine_Learning_Midterm
+'''
+
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from sklearn.svm import SVC #support vector machine
