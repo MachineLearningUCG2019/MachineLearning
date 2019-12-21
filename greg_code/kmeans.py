@@ -99,8 +99,7 @@ if(__name__ == "__main__"):
   dataset = pd.read_csv("../Mall_Customers.csv")
   cols = dataset.iloc[:,[3,4]].values
   Hist = kmeans(5,cols,300)
-  print(Hist)
-#  
-#  print("number of frames:",len(Hist))
-#  print("starting animation...")
-#  draw_history(Hist)
+  
+  print("number of frames:",len(Hist))
+  print("starting animation...")
+  draw_history(Hist)
