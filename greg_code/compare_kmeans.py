@@ -9,7 +9,7 @@ import kmeans as gregs_code #my code
 import itertools
 
 
-dataset = pd.read_csv("MachineLearning/Mall_Customers.csv")
+dataset = pd.read_csv("../Mall_Customers.csv")
 cols = dataset.iloc[:,[3,4]].values
 
 cl_num = 5 #cluster number
