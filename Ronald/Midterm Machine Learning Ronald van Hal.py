@@ -1,3 +1,4 @@
+# grade 25/25
 #Midterm Exam for Machine Learning
 #Date: 18 December 2019
 #Name: Ronald van Hal

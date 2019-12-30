@@ -1,3 +1,4 @@
+# grade 25/25
 '''
   Greg Charitonos   S3367649    12/18/2019    Machine_Learning_Midterm
 '''
