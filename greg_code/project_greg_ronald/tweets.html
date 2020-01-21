@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<!-- written with html, css, javascript and love, by Greg -->
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Tweets</title>
+  <style>
+    body {
+      font-family: 'Asap', sans-serif;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    .avator {
+      border-radius: 100px;
+      width: 48px;
+      margin-right: 15px;
+    }
+
+
+    .tweet-wrap {
+      max-width: 490px;
+      background: #fff;
+      margin-top: 50px;
+      border-radius: 3px;
+      padding: 30px;
+      border-bottom: 1px solid #e6ecf0;
+      border-top: 1px solid #e6ecf0;
+    }
+
+    .tweet-header {
+      display: flex;
+      align-items: flex-start;
+      font-size: 14px;
+    }
+
+    .tweet-header-info {
+      font-weight: bold;
+    }
+
+    .tweet-header-info span {
+      color: #657786;
+      font-weight: normal;
+      margin-left: 5px;
+    }
+
+    .tweet-header-info p {
+      font-weight: normal;
+      margin-top: 5px;
+
+    }
+
+    .tweet-img-wrap {
+      padding-left: 60px;
+    }
+
+    .tweet-info-counts {
+      display: flex;
+      margin-left: 60px;
+      margin-top: 10px;
+    }
+
+    .tweet-info-counts div {
+      display: flex;
+      margin-right: 20px;
+    }
+
+    .tweet-info-counts div svg {
+      color: #657786;
+      margin-right: 10px;
+    }
+
+    @media screen and (max-width:430px) {
+      body {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .tweet-header {
+        flex-direction: column;
+      }
+
+      .tweet-header img {
+        margin-bottom: 20px;
+      }
+
+      .tweet-header-info p {
+        margin-bottom: 30px;
+      }
+
+      .tweet-img-wrap {
+        padding-left: 0;
+      }
+
+      .tweet-info-counts {
+        display: flex;
+        margin-left: 0;
+      }
+
+      .tweet-info-counts div {
+        margin-right: 10px;
+      }
+    }
+
+    body {
+      margin: 0;
+      display: grid;
+      align-content: center;
+      justify-content: center;
+      background: #1d3f81;
+      width: 100vw;
+      height: 100vh;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+
+    #main {
+      padding: 5%;
+      height: auto;
+      background: #fff;
+      display: grid;
+      align-content: center;
+      justify-content: center;
+
+    }
+  </style>
+  <script>
+    init = function() {
+      template = document.querySelector("#tweet");
+      main = document.querySelector("#main");
+      getTweets = async function(username) {
+        tweetFile = "generated_tweets/" + username + "_linkless.json";
+        infoFile = "original_tweets/info/" + username + ".json";
+        var user = {};
+        var tweets = [];
+        var tweetEls = [];
+        user = await fetch(infoFile).then(d => d.json());
+        template.content.querySelector(".displayName").innerText = user.name;
+        template.content.querySelector(".username").innerText = "@" + user.screen_name;
+        template.content.querySelector(".avatar").src = user.profile_image_url_https;
+        tweets = await fetch(tweetFile).then(d => d.json());
+        for (var i = 0; i < tweets.length; i++) {
+          var tweet = document.importNode(template.content, true);
+          tweet.querySelector(".content").innerText = tweets[i];
+          tweetEls.push(tweet);
+        }
+        return tweetEls;
+      }
+
+      AllTweets = [];
+      getTweets("Dadsaysjokes").then((data) => {
+        AllTweets = AllTweets.concat(data)
+        return getTweets("BBCNews");
+      }).then((data) => {
+        AllTweets = AllTweets.concat(data);
+        return getTweets("Reuters");
+      }).then((data) => {
+        AllTweets = AllTweets.concat(data);
+        return getTweets("TheOnion")
+      }).then((data)=>{
+        AllTweets = AllTweets.concat(data);
+      })
+
+      AddTweets = function(num) {
+        if (AllTweets.length == 0) {
+          return false;
+        }
+        for (var i = 0; i < num; i++) {
+          let index = Math.floor(Math.random() * AllTweets.length);
+          if (index == 0) {
+            return false;
+          }
+          main.appendChild(AllTweets.splice(index, 1)[0]);
+        }
+        return true;
+      }
+
+      document.body.onclick = function(ev) {
+        AddTweets(10);
+      };
+      
+    }
+    window.onload = init;
+  </script>
+</head>
+
+<body>
+  <div id="main">
+  </div>
+
+  <template id="tweet">
+    <div class="tweet-wrap">
+      <div class="tweet-header">
+        <img src="" alt="" class="avatar">
+        <div class="tweet-header-info">
+          <span class="displayName">Template</span> <span class="username">@template</span>
+          <p class="content">template</p>
+        </div>
+      </div>
+    </div>
+  </template>
+</body></html>
