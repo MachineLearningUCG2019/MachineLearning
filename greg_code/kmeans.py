@@ -98,8 +98,8 @@ if(__name__ == "__main__"):
   import matplotlib.pyplot as plt
   dataset = pd.read_csv("../Mall_Customers.csv")
   cols = dataset.iloc[:,[3,4]].values
-  Hist = kmeans(5,cols,300)
-  
+  Hist = kmeans(5,cols,iters=600)
+  print({x:Hist[-1][x][0:2] for x in Hist[-1]})
   print("number of frames:",len(Hist))
   print("starting animation...")
   draw_history(Hist)
